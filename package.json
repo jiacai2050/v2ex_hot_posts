@@ -2,7 +2,7 @@
   "name": "v2ex_hot_posts",
   "version": "1.0.0",
   "description": "V2EX 每日热帖",
-  "main": "app.js",
+  "main": "v2ex.js",
   "dependencies": {
     "ejs": "^2.3.1",
     "mkdirp": "^0.5.1",
@@ -14,5 +14,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jiacai2050@gmail.com",
-  "license": "ISC"
+  "license": "MIT"
 }
