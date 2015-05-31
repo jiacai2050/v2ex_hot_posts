@@ -1,0 +1,292 @@
+[
+    {
+        "url": "http://www.v2ex.com/t/192338",
+        "title": "宇宙最强语言 PHP 爆出 DoS 漏洞,可以直接灌满 CPU",
+        "node_title": "PHP",
+        "replies": 54,
+        "created": 1432056087,
+        "last_modified": 1432059370,
+        "content": "测了一下,真的可以。\r\n消息详情:\r\nhttp://www.nsfocus.com.cn/report/php_multipart-form-data_remote_dos_vulnerability_analysis_protection.pdf",
+        "node_id": 62
+    },
+    {
+        "url": "http://www.v2ex.com/t/192371",
+        "title": "宇宙最强， Apple 悄悄发布 2015 RMBP 15 寸 ~ 这是又要买买买的节奏啊！",
+        "node_title": "Apple",
+        "replies": 33,
+        "created": 1432086501,
+        "last_modified": 1432086501,
+        "content": "Mac 党，非果粉，非谷粉 ~\r\n但这货，明显是战斗力爆表的生产力工具啊。\r\n[http://www.apple.com/cn/macbook-pro/performance-retina/](http://www.apple.com/cn/macbook-pro/performance-retina/)\r\n做开发和做视频的小伙伴们，你们觉得呢。\r\n（纯水帖，因为太兴奋了，钱包已准备好。）",
+        "node_id": 184
+    },
+    {
+        "url": "http://www.v2ex.com/t/192355",
+        "title": "发招聘的时候说什么零食、美女、健身房、别墅的，你们真的知道什么更重要吗？",
+        "node_title": "职场话题",
+        "replies": 32,
+        "created": 1432079520,
+        "last_modified": 1432086389,
+        "content": "说这些东西在我看来就显得很虚，哄哄应届生还可以，像我这种新鲜感过了的，根本不会被这些吸引。\r\n说说下面这些吧：\r\n1. 团队有哪些人，他们的博客/github能放就放出来吧\r\n2. 团队是否满足 Joel 的12条，包括是否有每日构建、版本管理等\r\n3. 你们不接受那类应聘者。比如远程不接受，对二次元不感兴趣的不接受\r\n4. 其他有助于应聘者了解「我是否会乐于与这个团队的人合作」的问题\r\n5. 当然，最重要的是薪资范围。范围大点无所谓，但重要的是不要浪费双方时间。\r\n\r\n\r\n个人观点，可以喷。",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/192338",
+        "title": "宇宙最强语言 PHP 爆出 DoS 漏洞,可以直接灌满 CPU",
+        "node_title": "PHP",
+        "replies": 73,
+        "created": 1432056087,
+        "last_modified": 1432059370,
+        "content": "测了一下,真的可以。\r\n消息详情:\r\nhttp://www.nsfocus.com.cn/report/php_multipart-form-data_remote_dos_vulnerability_analysis_protection.pdf",
+        "node_id": 62
+    },
+    {
+        "url": "http://www.v2ex.com/t/192371",
+        "title": "宇宙最强， Apple 悄悄发布 2015 RMBP 15 寸 ~ 这是又要买买买的节奏啊！",
+        "node_title": "Apple",
+        "replies": 47,
+        "created": 1432086501,
+        "last_modified": 1432086501,
+        "content": "Mac 党，非果粉，非谷粉 ~\r\n但这货，明显是战斗力爆表的生产力工具啊。\r\n[http://www.apple.com/cn/macbook-pro/performance-retina/](http://www.apple.com/cn/macbook-pro/performance-retina/)\r\n做开发和做视频的小伙伴们，你们觉得呢。\r\n（纯水帖，因为太兴奋了，钱包已准备好。）",
+        "node_id": 184
+    },
+    {
+        "url": "http://www.v2ex.com/t/192356",
+        "title": "给老爸推荐一个千元机",
+        "node_title": "硬件",
+        "replies": 42,
+        "created": 1432080731,
+        "last_modified": 1432091682,
+        "content": "要求：\r\n屏幕大（5.2+)偶尔可以充当导航；\r\n双卡双待(在用号码移动x2，电信x1）；\r\n\r\n大概看了下，千元价位比较符合的就魅族的魅蓝note，红米note，荣耀4x畅玩版。\r\n\r\n有了解这些机型的朋友给个选择建议或者这个定位的其它机型推荐。\r\n\r\n为什么不给老爸买个6p这种问题我先回答一下，我2年没上班了。",
+        "node_id": 52
+    },
+    {
+        "url": "http://www.v2ex.com/t/192365",
+        "title": "求 DDOS 攻击对策",
+        "node_title": "网络安全",
+        "replies": 39,
+        "created": 1432085242,
+        "last_modified": 1432085242,
+        "content": "各位V友好！请教一个问题：我所在的公司有 ISP 业务，在电信机房有一些机柜+1G带宽。因为同行业务竞争、客户业务类型关系，经常被 DDOS。虽然有金盾防火墙，但是自己的带宽被跑满1G，还是会导致网络中断。\r\n\r\n目前的解决办法：\r\n1. 找到客户的网站或者 VPS，停掉，让客户转移走或者退款\r\n2. 实在找不到被攻击的目标网站或者 VPS，就联系电信做空服务器IP地址。然后，我们自己更换服务器 IP\r\n\r\n因为没有足够的网络带宽和资源，面对DDOS时，实在是束手无策啊！",
+        "node_id": 260
+    },
+    {
+        "url": "http://www.v2ex.com/t/192355",
+        "title": "发招聘的时候说什么零食、美女、健身房、别墅的，你们真的知道什么更重要吗？",
+        "node_title": "职场话题",
+        "replies": 38,
+        "created": 1432079520,
+        "last_modified": 1432086389,
+        "content": "说这些东西在我看来就显得很虚，哄哄应届生还可以，像我这种新鲜感过了的，根本不会被这些吸引。\r\n说说下面这些吧：\r\n1. 团队有哪些人，他们的博客/github能放就放出来吧\r\n2. 团队是否满足 Joel 的12条，包括是否有每日构建、版本管理等\r\n3. 你们不接受那类应聘者。比如远程不接受，对二次元不感兴趣的不接受\r\n4. 其他有助于应聘者了解「我是否会乐于与这个团队的人合作」的问题\r\n5. 当然，最重要的是薪资范围。范围大点无所谓，但重要的是不要浪费双方时间。\r\n\r\n\r\n个人观点，可以喷。",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/192381",
+        "title": "月经贴那么多，可以考虑统一一下， 内详",
+        "node_title": "V2EX",
+        "replies": 38,
+        "created": 1432088254,
+        "last_modified": 1432088364,
+        "content": "国外很多社区，都有定时投票，比如当周大家都玩什么游戏啦，得票最多的就是game of the week\r\n\r\nv2ex新人也越来越多，月经贴也越来越多，不如开发一个投票功能，大家每周一投！\r\n\r\n我目前想到的月经贴有：\r\n\r\n1. 你家带宽是多大的，月费多少\r\n2. 主力编程语言是什么，觉得最好的语言是什么\r\n3. 首选编辑器是什么\r\n4. 首选IDE是什么（记得提供个无）\r\n5. python2  好还是python 3 好\r\n6. 各个平台最好的浏览器是什么\r\n7. 目前你在用的是哪个型号的macbo",
+        "node_id": 2
+    },
+    {
+        "url": "http://www.v2ex.com/t/192361",
+        "title": "台式机 CPU 过热有哪些原因？",
+        "node_title": "硬件",
+        "replies": 32,
+        "created": 1432083613,
+        "last_modified": 1432093923,
+        "content": "前一段时间参考 @leavic 的装机单配了一部mini-itx主机，具体配置如下：\r\n\r\n主板：GIGABYTE B85N Phoenix wifi\r\n内存：金士顿(Kingston)骇客神条 Fury系列 DDR3 1600 8GB(4GBx2)台式机内存(HX316C10FK2/8)蓝色\r\nCPU：Intel I5-4590\r\n机箱：乔思伯V3+\r\n硬盘：三星850pro 120g \r\n电源：海韵S12 430W\r\n散热器：ID-COOLING IS-40\r\n\r\n组装完毕后安装64位Windows ",
+        "node_id": 52
+    },
+    {
+        "url": "http://www.v2ex.com/t/192371",
+        "title": "宇宙最强， Apple 悄悄发布 2015 RMBP 15 寸 ~ 这是又要买买买的节奏啊！",
+        "node_title": "Apple",
+        "replies": 54,
+        "created": 1432086501,
+        "last_modified": 1432086501,
+        "content": "Mac 党，非果粉，非谷粉 ~\r\n但这货，明显是战斗力爆表的生产力工具啊。\r\n[http://www.apple.com/cn/macbook-pro/performance-retina/](http://www.apple.com/cn/macbook-pro/performance-retina/)\r\n做开发和做视频的小伙伴们，你们觉得呢。\r\n（纯水帖，因为太兴奋了，钱包已准备好。）",
+        "node_id": 184
+    },
+    {
+        "url": "http://www.v2ex.com/t/192355",
+        "title": "发招聘的时候说什么零食、美女、健身房、别墅的，你们真的知道什么更重要吗？",
+        "node_title": "职场话题",
+        "replies": 52,
+        "created": 1432079520,
+        "last_modified": 1432086389,
+        "content": "说这些东西在我看来就显得很虚，哄哄应届生还可以，像我这种新鲜感过了的，根本不会被这些吸引。\r\n说说下面这些吧：\r\n1. 团队有哪些人，他们的博客/github能放就放出来吧\r\n2. 团队是否满足 Joel 的12条，包括是否有每日构建、版本管理等\r\n3. 你们不接受那类应聘者。比如远程不接受，对二次元不感兴趣的不接受\r\n4. 其他有助于应聘者了解「我是否会乐于与这个团队的人合作」的问题\r\n5. 当然，最重要的是薪资范围。范围大点无所谓，但重要的是不要浪费双方时间。\r\n\r\n\r\n个人观点，可以喷。",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/192356",
+        "title": "给老爸推荐一个千元机",
+        "node_title": "硬件",
+        "replies": 50,
+        "created": 1432080731,
+        "last_modified": 1432091682,
+        "content": "要求：\r\n屏幕大（5.2+)偶尔可以充当导航；\r\n双卡双待(在用号码移动x2，电信x1）；\r\n\r\n大概看了下，千元价位比较符合的就魅族的魅蓝note，红米note，荣耀4x畅玩版。\r\n\r\n有了解这些机型的朋友给个选择建议或者这个定位的其它机型推荐。\r\n\r\n为什么不给老爸买个6p这种问题我先回答一下，我2年没上班了。",
+        "node_id": 52
+    },
+    {
+        "url": "http://www.v2ex.com/t/192365",
+        "title": "求 DDOS 攻击对策",
+        "node_title": "网络安全",
+        "replies": 46,
+        "created": 1432085242,
+        "last_modified": 1432085242,
+        "content": "各位V友好！请教一个问题：我所在的公司有 ISP 业务，在电信机房有一些机柜+1G带宽。因为同行业务竞争、客户业务类型关系，经常被 DDOS。虽然有金盾防火墙，但是自己的带宽被跑满1G，还是会导致网络中断。\r\n\r\n目前的解决办法：\r\n1. 找到客户的网站或者 VPS，停掉，让客户转移走或者退款\r\n2. 实在找不到被攻击的目标网站或者 VPS，就联系电信做空服务器IP地址。然后，我们自己更换服务器 IP\r\n\r\n因为没有足够的网络带宽和资源，面对DDOS时，实在是束手无策啊！",
+        "node_id": 260
+    },
+    {
+        "url": "http://www.v2ex.com/t/192381",
+        "title": "月经贴那么多，可以考虑统一一下， 内详",
+        "node_title": "V2EX",
+        "replies": 46,
+        "created": 1432088254,
+        "last_modified": 1432088364,
+        "content": "国外很多社区，都有定时投票，比如当周大家都玩什么游戏啦，得票最多的就是game of the week\r\n\r\nv2ex新人也越来越多，月经贴也越来越多，不如开发一个投票功能，大家每周一投！\r\n\r\n我目前想到的月经贴有：\r\n\r\n1. 你家带宽是多大的，月费多少\r\n2. 主力编程语言是什么，觉得最好的语言是什么\r\n3. 首选编辑器是什么\r\n4. 首选IDE是什么（记得提供个无）\r\n5. python2  好还是python 3 好\r\n6. 各个平台最好的浏览器是什么\r\n7. 目前你在用的是哪个型号的macbo",
+        "node_id": 2
+    },
+    {
+        "url": "http://www.v2ex.com/t/192504",
+        "title": "那么，在今天，你喜欢那一种界面设计？",
+        "node_title": "设计",
+        "replies": 37,
+        "created": 1432113931,
+        "last_modified": 1432114035,
+        "content": "刚翻到 @loading 的一篇吐槽，两年前的。\r\nhttp://sync.sh/post/hello-ios7\r\n\r\n* * * * * * * * * * * * * * \r\n\r\n![iOS 6 vs 7](https://i.imgur.com/EBSNLFI.jpg)\r\n*Source: http://www.reddit.com/r/Design/comments/1g458z/ios_7_icons_vs_ios_6_icons/*\r\n\r\n* * * * * * * * * * * * * *",
+        "node_id": 215
+    },
+    {
+        "url": "http://www.v2ex.com/t/192404",
+        "title": "小 SaaS 公司招 Full Stack 偏 Python 后端, 全 Remote 工作, 20k",
+        "node_title": "酷工作",
+        "replies": 36,
+        "created": 1432091575,
+        "last_modified": 1432091575,
+        "content": "前几天发了一个贴, (http://www.v2ex.com/t/191648), 之后根据收到的回应做了一些小调整. 下面是正式的招聘贴: \r\n\r\n公司介绍\r\n公司注册在美国, 是做SaaS的小公司. 市场定位比较准, 销售额稳定上升, 基本没有同行竞争，大公司也不会进入。公司计划加快开发流程, 更快的发展客户，同时扩张业务。\r\n\r\n招人要求\r\nPython后端，略懂前端即可\r\n\r\n1. 精通Python，至少精通一套web framework（Webapp2, Flask, Django, Torna",
+        "node_id": 43
+    },
+    {
+        "url": "http://www.v2ex.com/t/192507",
+        "title": "新加坡 2 号机房即将上线，目前开始接受预订",
+        "node_title": "站长",
+        "replies": 35,
+        "created": 1432114740,
+        "last_modified": 1432114740,
+        "content": "对我们不熟悉的朋友，可以看看之前发的 VPS.TO 的帖子\r\n\r\n香港机房\r\nhttps://v2ex.com/t/187989\r\n\r\n日本机房\r\nhttps://v2ex.com//t/188969\r\n\r\n新上线的新加坡二号机房的供应商是 8.to 物理机房位于 Equnix，和 OneAsiaHost 是一个线路，都走的 PCCW，所以如果你本地的带宽对 OAH 比较友好的话，那我们的新加坡2号机房绝对适合你。\r\n\r\n我们的服务器硬件购置于当地的戴尔经销商，然后托管在机房，并且有自己的 IPv4 资源",
+        "node_id": 337
+    },
+    {
+        "url": "http://www.v2ex.com/t/192361",
+        "title": "台式机 CPU 过热有哪些原因？",
+        "node_title": "硬件",
+        "replies": 33,
+        "created": 1432083613,
+        "last_modified": 1432093923,
+        "content": "前一段时间参考 @leavic 的装机单配了一部mini-itx主机，具体配置如下：\r\n\r\n主板：GIGABYTE B85N Phoenix wifi\r\n内存：金士顿(Kingston)骇客神条 Fury系列 DDR3 1600 8GB(4GBx2)台式机内存(HX316C10FK2/8)蓝色\r\nCPU：Intel I5-4590\r\n机箱：乔思伯V3+\r\n硬盘：三星850pro 120g \r\n电源：海韵S12 430W\r\n散热器：ID-COOLING IS-40\r\n\r\n组装完毕后安装64位Windows ",
+        "node_id": 52
+    },
+    {
+        "url": "http://www.v2ex.com/t/192364",
+        "title": "开源一个项目 http://baymax.ninja 做存储你的生活数据的大白。源码: https://github.com/no13bus/baymax",
+        "node_title": "分享创造",
+        "replies": 30,
+        "created": 1432085140,
+        "last_modified": 1432085161,
+        "content": "源码地址: https://github.com/no13bus/baymax\r\n\r\n用户首先使用GitHub登录项目，在项目中对相关的APP进行权限认证后，网站后台会每天定时抓取用户的该认证APP上面的数据， 比如健康类应用Fitbit, github, rescuetime。然后网站会对用户的走路，跑步，上网时间分布，github代码提交次数等方面来进行生活，工作，coding的统计和展示。\r\n\r\n项目开始的起因是因为现在智能穿戴设备的兴起以及越来越多的健康类应用的爆发。后来想到了一个人生活在社会中，",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/192504",
+        "title": "那么，在今天，你喜欢那一种界面设计？",
+        "node_title": "设计",
+        "replies": 73,
+        "created": 1432113931,
+        "last_modified": 1432114035,
+        "content": "刚翻到 @loading 的一篇吐槽，两年前的。\r\nhttp://sync.sh/post/hello-ios7\r\n\r\n* * * * * * * * * * * * * * \r\n\r\n![iOS 6 vs 7](https://i.imgur.com/EBSNLFI.jpg)\r\n*Source: http://www.reddit.com/r/Design/comments/1g458z/ios_7_icons_vs_ios_6_icons/*\r\n\r\n* * * * * * * * * * * * * *",
+        "node_id": 215
+    },
+    {
+        "url": "http://www.v2ex.com/t/192507",
+        "title": "新加坡 2 号机房即将上线，目前开始接受预订",
+        "node_title": "站长",
+        "replies": 52,
+        "created": 1432114740,
+        "last_modified": 1432114740,
+        "content": "对我们不熟悉的朋友，可以看看之前发的 VPS.TO 的帖子\r\n\r\n香港机房\r\nhttps://v2ex.com/t/187989\r\n\r\n日本机房\r\nhttps://v2ex.com//t/188969\r\n\r\n新上线的新加坡二号机房的供应商是 8.to 物理机房位于 Equnix，和 OneAsiaHost 是一个线路，都走的 PCCW，所以如果你本地的带宽对 OAH 比较友好的话，那我们的新加坡2号机房绝对适合你。\r\n\r\n我们的服务器硬件购置于当地的戴尔经销商，然后托管在机房，并且有自己的 IPv4 资源",
+        "node_id": 337
+    },
+    {
+        "url": "http://www.v2ex.com/t/192534",
+        "title": "[福利日] 5.20 单身狗 & 加班狗 关怀计划",
+        "node_title": "程序员",
+        "replies": 37,
+        "created": 1432122991,
+        "last_modified": 1432122991,
+        "content": "![](http://lock522.b0.upaiyun.com/520.png)\r\n\r\n\r\n今天是520，明天是521……\r\n\r\n一年两个情人节已经够了，特么非要来第三个……\r\n\r\n我想这句话会获得很多IT（尤其是男）同胞的深度共鸣。\r\n\r\n…………………………\r\n\r\n一觉醒来，到处是领证的、秀恩爱的，秀浪漫的，更别提一大票吃饱撑的乘机炫富炫优越的…………\r\n\r\n单身狗遭受 **10000** 点内伤，加班狗受到 **1000** 公斤压力\r\n\r\n入夜的城市灯火辉煌，空气中洋溢着浮夸、做作的幸福气息，",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/192565",
+        "title": "想要跳过 python2 直接学 python3，请问什么中文的学习资料可以使用？",
+        "node_title": "Python",
+        "replies": 37,
+        "created": 1432132913,
+        "last_modified": 1432132913,
+        "content": "目前开始学 python，知乎上大多数人都推荐直接从 python3 开始学起。\r\n\r\n我发现一个问题，python2 的中文教程非常详细，包含一些非常高质量的书籍，比如说 《Python基础教程（第二版 修订版）》，但是 python3 的高质量的中文书籍就非常少了。\r\n\r\n============================================\r\n\r\nV2EX 的 Python 节点的侧栏里推荐了一些书，但是我去亚马逊看了下评论，都是不尽人意的。\r\n\r\nLearn Python the",
+        "node_id": 90
+    },
+    {
+        "url": "http://www.v2ex.com/t/192521",
+        "title": "世界上最好的语言压力测试脚本， 10M 带宽崩掉集群",
+        "node_title": "分享创造",
+        "replies": 36,
+        "created": 1432118847,
+        "last_modified": 1432118847,
+        "content": "下载: https://leanclub.org/topic/f90429b424714d93975101bd8fb1b76e\r\n\r\nPHP 漏洞 https://bugs.php.net/bug.php?id=69364\r\n\r\n适用 PHP 版本：\r\nPHP 5.6 - 5.6.9\r\nPHP 5.5 - 5.5.25\r\nPHP 5.4 - 5.4.41\r\nPHP 5.3 及以前的版本",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/192468",
+        "title": "[北京] 一个多月猫咪求领养",
+        "node_title": "宠物",
+        "replies": 36,
+        "created": 1432106540,
+        "last_modified": 1432106540,
+        "content": "大喵咪大人生了小喵咪大人，已经满月了，现在满屋子跑，是时候给他们找新主人了。\r\n\r\n满月照 \r\n满月照\r\n\r\n\r\n\r\n六只小猫咪中四只已经相继被领养或者预定，留下的是一只白色的头上有点黑毛的小猫、还有一只黑色的，夹杂着黄色斑纹的小猫。 \r\n求爱心人士、能不离不弃的新家长。",
+        "node_id": 509
+    },
+    {
+        "url": "http://www.v2ex.com/t/192565",
+        "title": "想要跳过 python2 直接学 python3，请问什么中文的学习资料可以使用？",
+        "node_title": "Python",
+        "replies": 45,
+        "created": 1432132913,
+        "last_modified": 1432132913,
+        "content": "目前开始学 python，知乎上大多数人都推荐直接从 python3 开始学起。\r\n\r\n我发现一个问题，python2 的中文教程非常详细，包含一些非常高质量的书籍，比如说 《Python基础教程（第二版 修订版）》，但是 python3 的高质量的中文书籍就非常少了。\r\n\r\n============================================\r\n\r\nV2EX 的 Python 节点的侧栏里推荐了一些书，但是我去亚马逊看了下评论，都是不尽人意的。\r\n\r\nLearn Python the",
+        "node_id": 90
+    },
+    {
+        "url": "http://www.v2ex.com/t/192534",
+        "title": "[福利日] 5.20 单身狗 & 加班狗 关怀计划",
+        "node_title": "程序员",
+        "replies": 41,
+        "created": 1432122991,
+        "last_modified": 1432122991,
+        "content": "![](http://lock522.b0.upaiyun.com/520.png)\r\n\r\n\r\n今天是520，明天是521……\r\n\r\n一年两个情人节已经够了，特么非要来第三个……\r\n\r\n我想这句话会获得很多IT（尤其是男）同胞的深度共鸣。\r\n\r\n…………………………\r\n\r\n一觉醒来，到处是领证的、秀恩爱的，秀浪漫的，更别提一大票吃饱撑的乘机炫富炫优越的…………\r\n\r\n单身狗遭受 **10000** 点内伤，加班狗受到 **1000** 公斤压力\r\n\r\n入夜的城市灯火辉煌，空气中洋溢着浮夸、做作的幸福气息，",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/192556",
+        "title": "「数码荔枝•视频评测」Ghostnote - 一款好用的反传统 Mac 笔记工具",
+        "node_title": "Mac OS X",
+        "replies": 27,
+        "created": 1432130591,
+        "last_modified": 1432130637,
+        "content": "http://www.v2ex.com/i/Xb1F5tdh.png\r\n\r\nPS：根据上次大家的反馈，做了第二期视频~希望大家喜欢~\r\n\r\n不是所有的想法都珍贵且值得永存。有时，我们的一些笔记只需保存片刻，就失去了继续存在的价值，使得整理笔记也成为了一种对时间的浪费。而对于一些创意工作者来说，直接对需求分析文档、图像素材或是设计文稿进行批注的话，会比到传统的笔记工具中一条条创建笔记来得灵活、便捷的多。\r\n\r\n我们本期视频所要介绍的，就是反传统的 Ghostnote。\r\n\r\nhttp://v.youku.c",
+        "node_id": 22
+    }
+]

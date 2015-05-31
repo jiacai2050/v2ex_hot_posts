@@ -1,0 +1,272 @@
+[
+    {
+        "url": "http://www.v2ex.com/t/183336",
+        "title": "ps 竟然可以识别钞票，提示不可编辑",
+        "node_title": "分享发现",
+        "replies": 22,
+        "created": 1428888526,
+        "last_modified": 1428888526,
+        "content": "今天才知道，但愿没有火星",
+        "node_id": 16
+    },
+    {
+        "url": "http://www.v2ex.com/t/183324",
+        "title": "为什么不建议用 Python 写游戏代码？",
+        "node_title": "Python",
+        "replies": 20,
+        "created": 1428873785,
+        "last_modified": 1428873785,
+        "content": "我是Python业余新手，最近想查查怎么用Python写游戏，发现大家的想法并不像其他语言那样一致，既有说适合的也有说完全不行的，这是为什么？\r\n\r\n我打算用Python写一个类似三国杀的游戏，请问除了掌握Python以外还需要哪些工具？",
+        "node_id": 90
+    },
+    {
+        "url": "http://www.v2ex.com/t/183450",
+        "title": "去北京/上海/杭州工作的话，户口问题能解决吗",
+        "node_title": "职场话题",
+        "replies": 35,
+        "created": 1428917728,
+        "last_modified": 1428920261,
+        "content": "先介绍一下我的情况，目前在南京工作，做Python后端开发，马上奔三了，但南京互联网发展不好，相关工作太少了，不利于自己的职业发展，我是希望一直走技术路线的。现在在考虑北京，上海和杭州，这三个地方相对来说Python职位多一些。现在的疑虑主要是户口和买房问题，没有户口貌似在这三个地方生活会遇到很多问题。不知道这三个地方是什么政策，知道情况的说一下哈",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/183370",
+        "title": "金山词霸 8 逆袭啦，内购牛津词典，找回小时候花 98 元买词典时的厚重感",
+        "node_title": "程序员",
+        "replies": 34,
+        "created": 1428895352,
+        "last_modified": 1428895352,
+        "content": "看来我的移动端应用推荐列表又要修改一下了，从有道----欧路----必应，一路循环体验没想到现在又回归到金山词霸，虽然PC份额已然失去，但这次移动端词霸的改变很成功，加油\r\n\r\nhttp://mo.wps.cn/ciba/index.html",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/183377",
+        "title": "推荐几个 iPhone 用的记账软件",
+        "node_title": "iPhone",
+        "replies": 32,
+        "created": 1428897007,
+        "last_modified": 1428897007,
+        "content": "Dollarbird\r\nMy Finances\r\nAhorro\r\nBalance My Check\r\n我一直在找最佳,一直没找到,这几个app的review 都很好,都说自己用的是最好的",
+        "node_id": 8
+    },
+    {
+        "url": "http://www.v2ex.com/t/183324",
+        "title": "为什么不建议用 Python 写游戏代码？",
+        "node_title": "Python",
+        "replies": 31,
+        "created": 1428873785,
+        "last_modified": 1428873785,
+        "content": "我是Python业余新手，最近想查查怎么用Python写游戏，发现大家的想法并不像其他语言那样一致，既有说适合的也有说完全不行的，这是为什么？\r\n\r\n我打算用Python写一个类似三国杀的游戏，请问除了掌握Python以外还需要哪些工具？",
+        "node_id": 90
+    },
+    {
+        "url": "http://www.v2ex.com/t/183392",
+        "title": "那么问题来了，技术博客哪家强？",
+        "node_title": "程序员",
+        "replies": 31,
+        "created": 1428901245,
+        "last_modified": 1428901245,
+        "content": "自己建站，害怕无人问津\r\n\r\n所以还是在博客网站上开博客吧\r\n\r\n\r\n以前在csdn、cnblogs都写过东西，但或多或少都觉得不太顺心。\r\n\r\n求大家推荐个博客网站",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/183338",
+        "title": "[2017 毕业] 感觉现在方向越走越杂 求建议",
+        "node_title": "求职",
+        "replies": 27,
+        "created": 1428888580,
+        "last_modified": 1428888580,
+        "content": "大一的时候做过两个Android App，暑假在网课上学过python和Data Science\r\n大二的时候，帮一个公司做内部网站系统，网课继续Data Science，还有Machine Learning，校内课程 GPA 4.0，专业前5%，编程类coursework基本在announce2小时内解决，难一点的24小时内绝对消灭\r\n\r\n个人比较重实践，喜欢在实践中学习，Java就是在第一个安卓App中学会了基本concept，PHP,MYSQL什么的也是在做项目的时候，看别人写的代码，看出一点“规律",
+        "node_id": 507
+    },
+    {
+        "url": "http://www.v2ex.com/t/183318",
+        "title": "我做的一个网页版的中国象棋",
+        "node_title": "分享创造",
+        "replies": 25,
+        "created": 1428857904,
+        "last_modified": 1428857904,
+        "content": "前端是用别人的单机版修改而成的,放在新浪SAE,服务端是用C++写的,放在腾讯云.\r\n还有些功能没有完成,但是已经可以用了.\r\n服务端暂时没有对走步是否犯规做检验,对我来说实现起来比较难,也不知道能不能完成.\r\n\r\n希望能够结识有前端(安卓或苹果APP)开发能力的人一起合作,做成商业APP发布,挣点钱花.\r\n\r\n网址:http://zxxq.sinaapp.com",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/183450",
+        "title": "去北京/上海/杭州工作的话，户口问题能解决吗",
+        "node_title": "职场话题",
+        "replies": 57,
+        "created": 1428917728,
+        "last_modified": 1428920261,
+        "content": "先介绍一下我的情况，目前在南京工作，做Python后端开发，马上奔三了，但南京互联网发展不好，相关工作太少了，不利于自己的职业发展，我是希望一直走技术路线的。现在在考虑北京，上海和杭州，这三个地方相对来说Python职位多一些。现在的疑虑主要是户口和买房问题，没有户口貌似在这三个地方生活会遇到很多问题。不知道这三个地方是什么政策，知道情况的说一下哈",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/183392",
+        "title": "那么问题来了，技术博客哪家强？",
+        "node_title": "程序员",
+        "replies": 44,
+        "created": 1428901245,
+        "last_modified": 1428901245,
+        "content": "自己建站，害怕无人问津\r\n\r\n所以还是在博客网站上开博客吧\r\n\r\n\r\n以前在csdn、cnblogs都写过东西，但或多或少都觉得不太顺心。\r\n\r\n求大家推荐个博客网站",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/183377",
+        "title": "推荐几个 iPhone 用的记账软件",
+        "node_title": "iPhone",
+        "replies": 43,
+        "created": 1428897007,
+        "last_modified": 1428897007,
+        "content": "Dollarbird\r\nMy Finances\r\nAhorro\r\nBalance My Check\r\n我一直在找最佳,一直没找到,这几个app的review 都很好,都说自己用的是最好的",
+        "node_id": 8
+    },
+    {
+        "url": "http://www.v2ex.com/t/183338",
+        "title": "[2017 毕业] 感觉现在方向越走越杂 求建议",
+        "node_title": "求职",
+        "replies": 41,
+        "created": 1428888580,
+        "last_modified": 1428888580,
+        "content": "大一的时候做过两个Android App，暑假在网课上学过python和Data Science\r\n大二的时候，帮一个公司做内部网站系统，网课继续Data Science，还有Machine Learning，校内课程 GPA 4.0，专业前5%，编程类coursework基本在announce2小时内解决，难一点的24小时内绝对消灭\r\n\r\n个人比较重实践，喜欢在实践中学习，Java就是在第一个安卓App中学会了基本concept，PHP,MYSQL什么的也是在做项目的时候，看别人写的代码，看出一点“规律",
+        "node_id": 507
+    },
+    {
+        "url": "http://www.v2ex.com/t/183370",
+        "title": "金山词霸 8 逆袭啦，内购牛津词典，找回小时候花 98 元买词典时的厚重感",
+        "node_title": "程序员",
+        "replies": 37,
+        "created": 1428895352,
+        "last_modified": 1428895352,
+        "content": "看来我的移动端应用推荐列表又要修改一下了，从有道----欧路----必应，一路循环体验没想到现在又回归到金山词霸，虽然PC份额已然失去，但这次移动端词霸的改变很成功，加油\r\n\r\nhttp://mo.wps.cn/ciba/index.html",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/183440",
+        "title": "如何在不破坏笔记本原装系统的前提下硬盘安装 Ubuntu",
+        "node_title": "问与答",
+        "replies": 30,
+        "created": 1428913719,
+        "last_modified": 1428913719,
+        "content": "从别人那里借来了一台新买的Thinkpad Yoga S3，需要在电脑上硬盘安装Ubuntu 14.04来跑程序，自己的电脑都是直接全盘清空重新分区重新安装双系统，但毕竟是别人的电脑，所以太随意折腾感觉不好，下图是硬盘分区，求各位给个方案，最好是能够不破坏电脑上的原装系统，非C盘硬盘分区什么的可以随意删几个。。。\r\n\r\nhttp://www.v2ex.com/i/RhBdC0b2.png",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/183356",
+        "title": "寻找过来人建议",
+        "node_title": "求职",
+        "replies": 27,
+        "created": 1428893347,
+        "last_modified": 1428893347,
+        "content": "本人26，年纪大了，感觉自己现在什么都不是，什么没做成，对自己越来越没自信了，曾在一家公司干了两年，好不容易升为技术主管，拿到一点股权。不知哪个筋出现问题，然后自己辞职创业，刚开始以工作室进行外包接活，一段时间后发现这样不行，于是着手单一项目融资开发，便给弄了一个个人独资公司，期间，先前雇主是考虑进行投资的，心里有些欣喜。后因项目赢利点不明确、团队不行给泡汤。随着时间项目没什么进展，心里没什么激情，一个人很无助。\r\n   \r\n   现在公司软件园里运行着，可人又自己找了份工作，感觉在硬撑着，想着这样下去也",
+        "node_id": 507
+    },
+    {
+        "url": "http://www.v2ex.com/t/183336",
+        "title": "ps 竟然可以识别钞票，提示不可编辑",
+        "node_title": "分享发现",
+        "replies": 25,
+        "created": 1428888526,
+        "last_modified": 1428888526,
+        "content": "今天才知道，但愿没有火星",
+        "node_id": 16
+    },
+    {
+        "url": "http://www.v2ex.com/t/183450",
+        "title": "去北京/上海/杭州工作的话，户口问题能解决吗",
+        "node_title": "职场话题",
+        "replies": 74,
+        "created": 1428917728,
+        "last_modified": 1428920261,
+        "content": "先介绍一下我的情况，目前在南京工作，做Python后端开发，马上奔三了，但南京互联网发展不好，相关工作太少了，不利于自己的职业发展，我是希望一直走技术路线的。现在在考虑北京，上海和杭州，这三个地方相对来说Python职位多一些。现在的疑虑主要是户口和买房问题，没有户口貌似在这三个地方生活会遇到很多问题。不知道这三个地方是什么政策，知道情况的说一下哈",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/183392",
+        "title": "那么问题来了，技术博客哪家强？",
+        "node_title": "程序员",
+        "replies": 56,
+        "created": 1428901245,
+        "last_modified": 1428901245,
+        "content": "自己建站，害怕无人问津\r\n\r\n所以还是在博客网站上开博客吧\r\n\r\n\r\n以前在csdn、cnblogs都写过东西，但或多或少都觉得不太顺心。\r\n\r\n求大家推荐个博客网站",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/183377",
+        "title": "推荐几个 iPhone 用的记账软件",
+        "node_title": "iPhone",
+        "replies": 48,
+        "created": 1428897007,
+        "last_modified": 1428897007,
+        "content": "Dollarbird\r\nMy Finances\r\nAhorro\r\nBalance My Check\r\n我一直在找最佳,一直没找到,这几个app的review 都很好,都说自己用的是最好的",
+        "node_id": 8
+    },
+    {
+        "url": "http://www.v2ex.com/t/183490",
+        "title": "Kernel 4.0 发布（实时内核补丁终于双剑合璧了）",
+        "node_title": "Linux",
+        "replies": 41,
+        "created": 1428928179,
+        "last_modified": 1428928179,
+        "content": ">“实时内核补丁”特性，该特性由 Red Hat 的Kpatch 和 SUSE 的 kGraft 合并而来，可以实时修补内核，而无需重启。\r\n\r\nhttp://www.linuxfans.org/archives/3151",
+        "node_id": 11
+    },
+    {
+        "url": "http://www.v2ex.com/t/183440",
+        "title": "如何在不破坏笔记本原装系统的前提下硬盘安装 Ubuntu",
+        "node_title": "问与答",
+        "replies": 34,
+        "created": 1428913719,
+        "last_modified": 1428913719,
+        "content": "从别人那里借来了一台新买的Thinkpad Yoga S3，需要在电脑上硬盘安装Ubuntu 14.04来跑程序，自己的电脑都是直接全盘清空重新分区重新安装双系统，但毕竟是别人的电脑，所以太随意折腾感觉不好，下图是硬盘分区，求各位给个方案，最好是能够不破坏电脑上的原装系统，非C盘硬盘分区什么的可以随意删几个。。。\r\n\r\nhttp://www.v2ex.com/i/RhBdC0b2.png",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/183500",
+        "title": "发现百度云开始限速了，学迅雷了",
+        "node_title": "分享发现",
+        "replies": 28,
+        "created": 1428931848,
+        "last_modified": 1428931848,
+        "content": "以前最低都能1M每秒，今天发现速度被限在454K/s，还有个提示：\r\n“试用提速特权，下载速度最高提速200%！”\r\n然后给300秒的提速，最高达到了4M每秒，结束要求开通会员。\r\n这是要跟迅雷学了不？",
+        "node_id": 16
+    },
+    {
+        "url": "http://www.v2ex.com/t/183380",
+        "title": "addslashes 这个单词怎么读。",
+        "node_title": "PHP",
+        "replies": 25,
+        "created": 1428897245,
+        "last_modified": 1428897245,
+        "content": "addslashes  这个单词怎么读。  如题。",
+        "node_id": 62
+    },
+    {
+        "url": "http://www.v2ex.com/t/183490",
+        "title": "Kernel 4.0 发布（实时内核补丁终于双剑合璧了）",
+        "node_title": "Linux",
+        "replies": 63,
+        "created": 1428928179,
+        "last_modified": 1428928179,
+        "content": ">“实时内核补丁”特性，该特性由 Red Hat 的Kpatch 和 SUSE 的 kGraft 合并而来，可以实时修补内核，而无需重启。\r\n\r\nhttp://www.linuxfans.org/archives/3151",
+        "node_id": 11
+    },
+    {
+        "url": "http://www.v2ex.com/t/183500",
+        "title": "发现百度云开始限速了，学迅雷了",
+        "node_title": "互联网",
+        "replies": 38,
+        "created": 1428931848,
+        "last_modified": 1429001098,
+        "content": "以前最低都能1M每秒，今天发现速度被限在454K/s，还有个提示：\r\n“试用提速特权，下载速度最高提速200%！”\r\n然后给300秒的提速，最高达到了4M每秒，结束要求开通会员。\r\n这是要跟迅雷学了不？",
+        "node_id": 56
+    },
+    {
+        "url": "http://www.v2ex.com/t/183496",
+        "title": "/dev/null 的原理是什么？大量写入会影响系统性能吗？",
+        "node_title": "Linux",
+        "replies": 25,
+        "created": 1428928916,
+        "last_modified": 1428928916,
+        "content": "",
+        "node_id": 11
+    }
+]

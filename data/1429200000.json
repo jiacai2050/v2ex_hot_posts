@@ -1,0 +1,302 @@
+[
+    {
+        "url": "http://www.v2ex.com/t/184271",
+        "title": "不擅长算法和数据结构的程序员就不是好程序员吗？",
+        "node_title": "程序员",
+        "replies": 38,
+        "created": 1429236489,
+        "last_modified": 1429236489,
+        "content": "我是phper，主要就是做网站项目，在大多数的项目中，根本用不到算法和数据结构。我不得不承认懂算法和数据结构是很牛逼的一件事，但是即使不懂，也可以解决80%的问题。\r\n\r\n现在看到各种大公司的笔试面试，都涉及到大量数据结构，感觉无论这个岗位是不是很需要掌握数据结构和算法。诚然，这是一种大浪淘沙精益求精的做法，可是我还是受到打击了。\r\n\r\n作为数学渣的我，在学校学数据结构和算法，及格都是谢天谢地了。但是我算法不好，我会去学很多技术、掌握更多的框架或者组件，学更多的语言，我认为我将来仍然也会是一名好的程序员。",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/184271",
+        "title": "不擅长算法和数据结构的程序员就不是好程序员吗？",
+        "node_title": "程序员",
+        "replies": 105,
+        "created": 1429236489,
+        "last_modified": 1429236489,
+        "content": "我是phper，主要就是做网站项目，在大多数的项目中，根本用不到算法和数据结构。我不得不承认懂算法和数据结构是很牛逼的一件事，但是即使不懂，也可以解决80%的问题。\r\n\r\n现在看到各种大公司的笔试面试，都涉及到大量数据结构，感觉无论这个岗位是不是很需要掌握数据结构和算法。诚然，这是一种大浪淘沙精益求精的做法，可是我还是受到打击了。\r\n\r\n作为数学渣的我，在学校学数据结构和算法，及格都是谢天谢地了。但是我算法不好，我会去学很多技术、掌握更多的框架或者组件，学更多的语言，我认为我将来仍然也会是一名好的程序员。",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/184268",
+        "title": "发起一个倡议，以后翻译“default”请不要用“缺省”",
+        "node_title": "翻译",
+        "replies": 83,
+        "created": 1429236150,
+        "last_modified": 1429236150,
+        "content": "请用“默认”，谢谢！真的是太无力吐槽了。",
+        "node_id": 112
+    },
+    {
+        "url": "http://www.v2ex.com/t/184270",
+        "title": "现在主流是用 c++ 还是 c# 开发客户端啊",
+        "node_title": "问与答",
+        "replies": 47,
+        "created": 1429236423,
+        "last_modified": 1429236423,
+        "content": "现在有一个任务需要完成 client 开发，没有跨平台的需求。\r\n因自身长期使用 java & android ，对 pc 客户端这块不是太清楚，现在主流用的是什么比较多，c++ 是不是只能结合 MFC？因为并不是太想学习 c# ，如果能用 c++ 是最好了，正好借这个项目锻炼下 c++ 能力。\r\n\r\nps：倒并不是对 c# 有什么偏见，只是感觉 java 跟 c# 很像啊，为什么要学两个很像的东西 ，另外是 mac 党，c# 意味着还要一台 win 了。",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184264",
+        "title": "“豆瓣” 的人力行政部门在知呼上火了。。。",
+        "node_title": "分享发现",
+        "replies": 38,
+        "created": 1429235310,
+        "last_modified": 1429235310,
+        "content": "http://www.zhihu.com/question/29612107\r\n\r\n\r\n“贵厂HR在这条广播下的回复” 那个截图亮瞎了。。。。。。。。。。。。。。",
+        "node_id": 16
+    },
+    {
+        "url": "http://www.v2ex.com/t/184362",
+        "title": "有没有什么思路可以防止伪造请求",
+        "node_title": "iOS",
+        "replies": 34,
+        "created": 1429255922,
+        "last_modified": 1429255922,
+        "content": "为了防止伪造请求，想了各种办法，唉。。。\r\n像服务器端拿到 uuid 之后怎么验证这个 uuid 是正确的呢？\r\n比如有没有一个什么标准数据库可以检查 uuid 是正确的。\r\n\r\n或者有别的什么思路可以解决伪造请求的问题。。。像微信这种是怎么做的呢",
+        "node_id": 580
+    },
+    {
+        "url": "http://www.v2ex.com/t/184286",
+        "title": "登陆邮箱被破， Apple ID 被重置",
+        "node_title": "问与答",
+        "replies": 34,
+        "created": 1429239224,
+        "last_modified": 1429239224,
+        "content": "朋友的iPhone6 被盗，对应的Apple ID的登陆邮箱是一个qq邮箱，不到24小时，qq邮箱密码被破，Apple ID被重置。\r\n\r\nqq邮箱真的那么容易破解吗？破解一个邮箱密码的技术难点在哪？如何判断一家邮件服务提供商的邮件系统的安全性？",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184279",
+        "title": "ngrok 真是神器啊，在内网环境中，成功在树莓派 2 上搭建 wordpress 并绑定顶级域名",
+        "node_title": "分享发现",
+        "replies": 28,
+        "created": 1429238223,
+        "last_modified": 1429238223,
+        "content": "本人的树莓派身处内网中的内网，想搭建可供外网访问的Web服务无果，要么无公网IP要么限制80端口，要么无路由权限。网上发现了ngrok这么一款反代神器，比花生壳神马的强太多，官网提供反代服务但貌似被墙无法连接，所幸源码开源自己在闲置的oneasiahost上搭建了一个ngrok服务器，成功绑定域名。\r\n\r\n域名访问→oneasiahost(公网IP，ngrok服务端)→树莓派(内网，开启ngrok客户端及Web服务)\r\n\r\n同样，可以通过转发22端口通过ssh管理树莓派\r\n\r\nwordpress地址： h",
+        "node_id": 16
+    },
+    {
+        "url": "http://www.v2ex.com/t/184271",
+        "title": "不擅长算法和数据结构的程序员就不是好程序员吗？",
+        "node_title": "程序员",
+        "replies": 126,
+        "created": 1429236489,
+        "last_modified": 1429236489,
+        "content": "我是phper，主要就是做网站项目，在大多数的项目中，根本用不到算法和数据结构。我不得不承认懂算法和数据结构是很牛逼的一件事，但是即使不懂，也可以解决80%的问题。\r\n\r\n现在看到各种大公司的笔试面试，都涉及到大量数据结构，感觉无论这个岗位是不是很需要掌握数据结构和算法。诚然，这是一种大浪淘沙精益求精的做法，可是我还是受到打击了。\r\n\r\n作为数学渣的我，在学校学数据结构和算法，及格都是谢天谢地了。但是我算法不好，我会去学很多技术、掌握更多的框架或者组件，学更多的语言，我认为我将来仍然也会是一名好的程序员。",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/184268",
+        "title": "发起一个倡议，以后翻译“default”请不要用“缺省”",
+        "node_title": "翻译",
+        "replies": 99,
+        "created": 1429236150,
+        "last_modified": 1429236150,
+        "content": "请用“默认”，谢谢！真的是太无力吐槽了。",
+        "node_id": 112
+    },
+    {
+        "url": "http://www.v2ex.com/t/184270",
+        "title": "现在主流是用 c++ 还是 c# 开发客户端啊",
+        "node_title": "问与答",
+        "replies": 57,
+        "created": 1429236423,
+        "last_modified": 1429236423,
+        "content": "现在有一个任务需要完成 client 开发，没有跨平台的需求。\r\n因自身长期使用 java & android ，对 pc 客户端这块不是太清楚，现在主流用的是什么比较多，c++ 是不是只能结合 MFC？因为并不是太想学习 c# ，如果能用 c++ 是最好了，正好借这个项目锻炼下 c++ 能力。\r\n\r\nps：倒并不是对 c# 有什么偏见，只是感觉 java 跟 c# 很像啊，为什么要学两个很像的东西 ，另外是 mac 党，c# 意味着还要一台 win 了。",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184361",
+        "title": "鄙人姓喻,近日喜得千金一枚,求一带\"熙\"字名.请各位大神出招,谢谢",
+        "node_title": "Baby",
+        "replies": 54,
+        "created": 1429255298,
+        "last_modified": 1429255298,
+        "content": "",
+        "node_id": 106
+    },
+    {
+        "url": "http://www.v2ex.com/t/184264",
+        "title": "“豆瓣” 的人力行政部门在知呼上火了。。。",
+        "node_title": "分享发现",
+        "replies": 49,
+        "created": 1429235310,
+        "last_modified": 1429235310,
+        "content": "http://www.zhihu.com/question/29612107\r\n\r\n\r\n“贵厂HR在这条广播下的回复” 那个截图亮瞎了。。。。。。。。。。。。。。",
+        "node_id": 16
+    },
+    {
+        "url": "http://www.v2ex.com/t/184362",
+        "title": "有没有什么思路可以防止伪造请求",
+        "node_title": "iOS",
+        "replies": 41,
+        "created": 1429255922,
+        "last_modified": 1429255922,
+        "content": "为了防止伪造请求，想了各种办法，唉。。。\r\n像服务器端拿到 uuid 之后怎么验证这个 uuid 是正确的呢？\r\n比如有没有一个什么标准数据库可以检查 uuid 是正确的。\r\n\r\n或者有别的什么思路可以解决伪造请求的问题。。。像微信这种是怎么做的呢",
+        "node_id": 580
+    },
+    {
+        "url": "http://www.v2ex.com/t/184286",
+        "title": "登陆邮箱被破， Apple ID 被重置",
+        "node_title": "问与答",
+        "replies": 37,
+        "created": 1429239224,
+        "last_modified": 1429239224,
+        "content": "朋友的iPhone6 被盗，对应的Apple ID的登陆邮箱是一个qq邮箱，不到24小时，qq邮箱密码被破，Apple ID被重置。\r\n\r\nqq邮箱真的那么容易破解吗？破解一个邮箱密码的技术难点在哪？如何判断一家邮件服务提供商的邮件系统的安全性？",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184279",
+        "title": "ngrok 真是神器啊，在内网环境中，成功在树莓派 2 上搭建 wordpress 并绑定顶级域名",
+        "node_title": "分享发现",
+        "replies": 30,
+        "created": 1429238223,
+        "last_modified": 1429238223,
+        "content": "本人的树莓派身处内网中的内网，想搭建可供外网访问的Web服务无果，要么无公网IP要么限制80端口，要么无路由权限。网上发现了ngrok这么一款反代神器，比花生壳神马的强太多，官网提供反代服务但貌似被墙无法连接，所幸源码开源自己在闲置的oneasiahost上搭建了一个ngrok服务器，成功绑定域名。\r\n\r\n域名访问→oneasiahost(公网IP，ngrok服务端)→树莓派(内网，开启ngrok客户端及Web服务)\r\n\r\n同样，可以通过转发22端口通过ssh管理树莓派\r\n\r\nwordpress地址： h",
+        "node_id": 16
+    },
+    {
+        "url": "http://www.v2ex.com/t/184293",
+        "title": "［讨论］ Chrome VS Safari 最新版性能测试， Safari 太慢了，差距很大",
+        "node_title": "Mac OS X",
+        "replies": 29,
+        "created": 1429240406,
+        "last_modified": 1429240406,
+        "content": "OS X版本，10.10.3\r\n硬件，Macbook Air 11寸，Mid 2013\r\n测试平台：Mozilla Kraren\r\nChrome得分：1644\r\nSafari得分：2765\r\n得分越小越好，Chrome的性能是Safari的1.7倍，这是按照线性来算的，实际使用可能不止，实际用起来Chrome感觉也比Safari快很多。\r\n\r\n截图如下\r\nSafari：\r\nhttp://i.imgur.com/5xkQi0x.png\r\nChrome:\r\nhttp://i.imgur.com/soxi95O",
+        "node_id": 22
+    },
+    {
+        "url": "http://www.v2ex.com/t/184322",
+        "title": "像 兰亭集势 和 格灵深瞳 这种名字的公司，求职者不用了解产品就很感兴趣",
+        "node_title": "职场话题",
+        "replies": 26,
+        "created": 1429247268,
+        "last_modified": 1429247291,
+        "content": "而真正了解它们产品和经营业务，会发现它们更有意思。\r\n\r\n\r\n4个字的公司名字，如果不小心，很容易起的很`low`，这也往往昭示着它们做的东西也不会太有意思。",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/184361",
+        "title": "鄙人姓喻,近日喜得千金一枚,求一带\"熙\"字名.请各位大神出招,谢谢",
+        "node_title": "Baby",
+        "replies": 66,
+        "created": 1429255298,
+        "last_modified": 1429255298,
+        "content": "",
+        "node_id": 106
+    },
+    {
+        "url": "http://www.v2ex.com/t/184362",
+        "title": "有没有什么思路可以防止伪造请求",
+        "node_title": "iOS",
+        "replies": 42,
+        "created": 1429255922,
+        "last_modified": 1429255922,
+        "content": "为了防止伪造请求，想了各种办法，唉。。。\r\n像服务器端拿到 uuid 之后怎么验证这个 uuid 是正确的呢？\r\n比如有没有一个什么标准数据库可以检查 uuid 是正确的。\r\n\r\n或者有别的什么思路可以解决伪造请求的问题。。。像微信这种是怎么做的呢",
+        "node_id": 580
+    },
+    {
+        "url": "http://www.v2ex.com/t/184322",
+        "title": "像 兰亭集势 和 格灵深瞳 这种名字的公司，求职者不用了解产品就很感兴趣",
+        "node_title": "职场话题",
+        "replies": 32,
+        "created": 1429247268,
+        "last_modified": 1429247291,
+        "content": "而真正了解它们产品和经营业务，会发现它们更有意思。\r\n\r\n\r\n4个字的公司名字，如果不小心，很容易起的很`low`，这也往往昭示着它们做的东西也不会太有意思。",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/184345",
+        "title": "osx 时间长了也得重启",
+        "node_title": "Mac OS X",
+        "replies": 28,
+        "created": 1429252133,
+        "last_modified": 1429252133,
+        "content": "20多天没重启了，刚才重启了一下，速度快多了",
+        "node_id": 22
+    },
+    {
+        "url": "http://www.v2ex.com/t/184348",
+        "title": "[北京] 男生约会可以请假，并且可以报销部分约会费用。。。",
+        "node_title": "酷工作",
+        "replies": 27,
+        "created": 1429252889,
+        "last_modified": 1429253127,
+        "content": "上次在V2EX成功招聘，并为V2EX捐了第一笔款。嗯，后来才知道其实这个钱还可以用来打广告的嘿嘿\r\n\r\n本帖将继续之前为V2EX捐款的想法，这次是帮一个朋友招人，我自己看着都心动呢\r\n\r\n号召捐款贴： [在此号召招聘企业给 V2EX 捐款](http://v2ex.com/t/173802)\r\n\r\n\r\n# 微信大数据营销平台招聘\r\n\r\n属于营销公关，数据咨询，移动互联网类\r\n\r\n## 公司制度\r\n\r\n* 可以迟到，可以早退，甚至可以不上班；*\r\n* 没有扣工资，没有考勤，加班可以打专车报销；*\r\n* 周末",
+        "node_id": 43
+    },
+    {
+        "url": "http://www.v2ex.com/t/184310",
+        "title": "假如一个字母对应一个网站，不看收藏夹，你能填满吗？",
+        "node_title": "问与答",
+        "replies": 26,
+        "created": 1429245527,
+        "last_modified": 1429245567,
+        "content": "然后我填不完。。。。你也可以来试试\r\n\r\n[http://shaw.ml/](http://shaw.ml/ \"index\")\r\n\r\n![](http://jkjoke.b0.upaiyun.com/img/s18123ha.jpg)",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184439",
+        "title": "Debian 开发者呼吁淘汰 Python 2",
+        "node_title": "Python",
+        "replies": 25,
+        "created": 1429278134,
+        "last_modified": 1429278423,
+        "content": "http://www.solidot.org/story?sid=43749\r\n\r\n问：哪个语言不怕升级？\r\n答：**PHP**",
+        "node_id": 90
+    },
+    {
+        "url": "http://www.v2ex.com/t/184419",
+        "title": "腾讯的 GSLB 新思路 HttpDNS 已经实现可用",
+        "node_title": "DNS",
+        "replies": 22,
+        "created": 1429271659,
+        "last_modified": 1429271659,
+        "content": "刚刚看到dnspod有个D+新功能，其实也是之前@Livid 分享的一篇文章的思路的具体实现。有兴趣的可以看看。\r\n\r\n思路说明\r\nhttp://mp.weixin.qq.com/s?__biz=MzA3ODgyNzcwMw==&mid=201837080&idx=1&sn=b2a152b84df1c7dbd294ea66037cf262&scene=2&from=timeline&isappinstalled=0#rd\r\n\r\n接入文档\r\nhttps://www.dnspod.cn/httpdns/gui",
+        "node_id": 199
+    },
+    {
+        "url": "http://www.v2ex.com/t/184439",
+        "title": "Debian 开发者呼吁淘汰 Python 2",
+        "node_title": "Python",
+        "replies": 36,
+        "created": 1429278134,
+        "last_modified": 1429278423,
+        "content": "http://www.solidot.org/story?sid=43749\r\n\r\n问：哪个语言不怕升级？\r\n答：**PHP**",
+        "node_id": 90
+    },
+    {
+        "url": "http://www.v2ex.com/t/184419",
+        "title": "腾讯的 GSLB 新思路 HttpDNS 已经实现可用",
+        "node_title": "DNS",
+        "replies": 27,
+        "created": 1429271659,
+        "last_modified": 1429271659,
+        "content": "刚刚看到dnspod有个D+新功能，其实也是之前@Livid 分享的一篇文章的思路的具体实现。有兴趣的可以看看。\r\n\r\n思路说明\r\nhttp://mp.weixin.qq.com/s?__biz=MzA3ODgyNzcwMw==&mid=201837080&idx=1&sn=b2a152b84df1c7dbd294ea66037cf262&scene=2&from=timeline&isappinstalled=0#rd\r\n\r\n接入文档\r\nhttps://www.dnspod.cn/httpdns/gui",
+        "node_id": 199
+    },
+    {
+        "url": "http://www.v2ex.com/t/184426",
+        "title": "如何搭建一个日发送量 3000 封的邮件服务器",
+        "node_title": "问与答",
+        "replies": 25,
+        "created": 1429273391,
+        "last_modified": 1429273410,
+        "content": "需要什么配置\r\n怎么保证邮件都能发出去，进垃圾箱没关系，只要能收到就行\r\n用哪个邮件服务器程序",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184454",
+        "title": "Markdown Plus Windows 版发布了！",
+        "node_title": "分享创造",
+        "replies": 23,
+        "created": 1429281331,
+        "last_modified": 1429281498,
+        "content": "长话短说，Markdown Plus Windows 版发布了！ \r\n\r\n下载安装请访问 https://s.tylingsoft.com/mdp/win/\r\n\r\n购买注册码请访问： https://tylingsoft.com/mdp\r\n\r\n所有人都能下载试用，满意了再付费。 目前试用版跟正版的功能是一模一样的，唯一的区别就是试用版启动会弹窗口提示输入注册码。由于时间仓促，各种问题和Bug在所难免，请大家反馈到邮箱： service@tylingsoft.com\r\n\r\n上周被 @zangbob 称为 跳",
+        "node_id": 17
+    }
+]

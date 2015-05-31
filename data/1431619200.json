@@ -1,0 +1,152 @@
+[
+    {
+        "url": "http://www.v2ex.com/t/191250",
+        "title": "对于国人的开源项目，你敢用吗？",
+        "node_title": "程序员",
+        "replies": 151,
+        "created": 1431660150,
+        "last_modified": 1431660150,
+        "content": "国人喜欢挖坑，弃坑。许多人只是为了利益做开源项目的，以便日后换工作、忽悠money提供强有力的说明。\r\n\r\n当然我并不是否认没有好的，不过大部分情况是这样\r\n\r\n轻喷",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/191217",
+        "title": "联通 1G 半年流量包 10 元",
+        "node_title": "4G",
+        "replies": 105,
+        "created": 1431653478,
+        "last_modified": 1431653478,
+        "content": "流量价格按在网时长算的，不过可以找基友‘合体’来增加购买折扣\r\n\r\n不要介意带个小尾巴..\r\n\r\nhttp://1abl.l.mob.com/12Q7Iw",
+        "node_id": 589
+    },
+    {
+        "url": "http://www.v2ex.com/t/191237",
+        "title": "其实我一直想问，面试后让你回去等消息（婉拒或者真等消息）最后连封邮件也不会通知你。",
+        "node_title": "职场话题",
+        "replies": 64,
+        "created": 1431658440,
+        "last_modified": 1431658440,
+        "content": "这种潜规则是从什么时候开始如何形成的？",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/191209",
+        "title": "我预感到我今天要和面试官就一道简单的算法题进行讨(si)论(bi)了，先上 v 站和你们讨论一下，寻找一下底气。",
+        "node_title": "求职",
+        "replies": 61,
+        "created": 1431648877,
+        "last_modified": 1431648964,
+        "content": "今天面试，有一道面试题是这样的：\r\n“首歌曲都是一个评分，现在有2000首歌曲，要求实现一个随机播放器，每首歌曲播放的概率应该正比于它的评分，例如评分9.1的歌曲，和评分7.9的歌曲，播放的次数应该是91：79”\r\n当时给出了一个比较复杂，但是有缺陷的接，之后面试官给出了答案，当时也没有细想，回家路上想出了更好的解法，就写在了我的博客上，顺便让面试官看一下（面试通过不通过无所谓，程序的孰优孰劣必须要分个清楚）。http://www.cnblogs.com/javanerd/p/4504482.html\r\n",
+        "node_id": 507
+    },
+    {
+        "url": "http://www.v2ex.com/t/191240",
+        "title": "大家安卓手机的支付宝敢绑定银行卡么?",
+        "node_title": "程序员",
+        "replies": 56,
+        "created": 1431659126,
+        "last_modified": 1431659126,
+        "content": "还是定期用网银往支付宝账号转账?",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/191257",
+        "title": "用国外 VPS 的个人网站是不是永远无法完美解决国内用户访问问题……",
+        "node_title": "问与答",
+        "replies": 56,
+        "created": 1431661110,
+        "last_modified": 1431661445,
+        "content": "有钱买网宿蓝汛CDN的请自行ctrl+w，都说了个人网站了！\r\n\r\n目前的情况是，用cloudflare一群人说打不开/慢，用自建反代另一群人说打不开/慢，直连还是有一群人说打不开/慢，什么百度云加速360加速加速乐安全宝各种奇奇怪怪的用了个遍（注：因为有备案所以会走国内线路），每个都有（不同的）一群人说打不开/慢。\r\n\r\n源站是DO的SFO，这几天都快把我折腾出神经衰弱了。\r\n\r\n话说用国外VPS做个人网站的同学们都是怎么解决的……",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/191301",
+        "title": "书巢 | 一座属于你的我的图书馆",
+        "node_title": "分享创造",
+        "replies": 51,
+        "created": 1431669809,
+        "last_modified": 1431670001,
+        "content": "#为什么创办书巢\r\n##一个故事\r\n在 2011 年，第一次去车库咖啡的时候，走到楼下听到了吆喝声，“正版图书，8 块钱一斤”，这声音算不上大，可总觉得那么刺耳，就在那一刻我决定要为那些书找到更好的归属，而不是在这里被论斤出售。\r\n##综合因素\r\n其实喜欢读书的人都知道，买过的书读完后大致分为两类：一类是认为日后一定会重读，希望从书中不断的获得新的领悟；而另一类则是这一生你都不会再次翻开这本书。随着时间的流转，第二类书就积累得越多，有时候你可能开始想着要把它们处理掉。扔掉的话似乎觉得有些可惜，卖掉的话又觉",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/191248",
+        "title": "[纠结跳槽] 工作两年，穷的混不下去了···",
+        "node_title": "职场话题",
+        "replies": 50,
+        "created": 1431660090,
+        "last_modified": 1431660799,
+        "content": "穷屌丝一枚，矿山机械公司电商部门，主要工作是SEO。\r\n\r\n工作两年了，工资低的惨不忍睹···第一年打酱油了，现在能解决点小问题了。工作还算顺手，业绩遇到滑铁卢，只剩可怜巴巴的底薪了。\r\n\r\n看着一天天长大的年龄和安静如初的工资，以及完全没有的存款，怎么破？\r\n\r\nPHP和Python能解决小问题，熟悉HTML、CSS和JS，能做网站，精通帝国CMS（求鄙视）和Wordpress，会采集网站内容，能管理VPS（Linux）等\r\n\r\n直接领导是个技术帝，学到了不少东西，他指一下，剩下的都是自己学的，我觉得他",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/191284",
+        "title": "：） 可能是世界上最小的导航网站",
+        "node_title": "分享创造",
+        "replies": 36,
+        "created": 1431666081,
+        "last_modified": 1431666409,
+        "content": "早几天在 [/t/183945](https://www.v2ex.com/t/183945) 看见了一个三年前的 [idea](https://www.v2ex.com/t/32295) 终于被实现...但是由于 [可能是世界上最小的导航网站](http://tok4.com) 的键盘字体采用的是非等宽字体...导致各个按键的宽度不一致，向楼主反馈没回复，干脆自己动手做了一个欢迎访问： [新标签页 - 准派](http://i.zhunpai.com.cn/)。\r\n\r\n#####抄送：@mrdunhao",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/191301",
+        "title": "书巢 | 一座属于你的我的图书馆",
+        "node_title": "分享创造",
+        "replies": 65,
+        "created": 1431669809,
+        "last_modified": 1431670001,
+        "content": "#为什么创办书巢\r\n##一个故事\r\n在 2011 年，第一次去车库咖啡的时候，走到楼下听到了吆喝声，“正版图书，8 块钱一斤”，这声音算不上大，可总觉得那么刺耳，就在那一刻我决定要为那些书找到更好的归属，而不是在这里被论斤出售。\r\n##综合因素\r\n其实喜欢读书的人都知道，买过的书读完后大致分为两类：一类是认为日后一定会重读，希望从书中不断的获得新的领悟；而另一类则是这一生你都不会再次翻开这本书。随着时间的流转，第二类书就积累得越多，有时候你可能开始想着要把它们处理掉。扔掉的话似乎觉得有些可惜，卖掉的话又觉",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/191337",
+        "title": "吼了几天的运营商降价，公布。。。我也就呵呵了",
+        "node_title": "问与答",
+        "replies": 32,
+        "created": 1431675604,
+        "last_modified": 1431675663,
+        "content": "移动\r\n\r\nhttps://i.imgur.com/xmfFClv.jpg\r\n\r\n\r\n\r\n电信\r\n\r\n\r\nhttps://i.imgur.com/xmfFClv.jpg",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/191351",
+        "title": "这种官翻的 SSD 寿命方面和全新有多大区别",
+        "node_title": "SSD",
+        "replies": 31,
+        "created": 1431678162,
+        "last_modified": 1431692721,
+        "content": "http://cdn.viglink.com/api/click?key=1453642896a3b07fc8f63b075c1aa836&out=http%3a%2f%2fwww.crucial.com%2fusa%2fen%2ffcct128m4ssd1\r\n有用过得么?",
+        "node_id": 688
+    },
+    {
+        "url": "http://www.v2ex.com/t/191363",
+        "title": "[Python] 顶级互联网办公大楼里的科技教育公司招后端工程师 Flask / MongoDB / Nginx",
+        "node_title": "酷工作",
+        "replies": 23,
+        "created": 1431680696,
+        "last_modified": 1431680696,
+        "content": "http://ww3.sinaimg.cn/large/628547dejw1erd0ospx3yj20ku4apne3.jpg\r\n\r\n目前我们已经招到最顶尖的教师团队,极可爱的设计师妹纸,很拉轰的办公大楼\r\n\r\nhttp://ww4.sinaimg.cn/large/628547dejw1es51iswdp9j20xc0m8gz0.jpg\r\n\r\n\r\nhttp://ww2.sinaimg.cn/large/628547dejw1es51cihns1j21kw16hgzl.jpg\r\n\r\n设计师妹纸的战斗岗位",
+        "node_id": 43
+    },
+    {
+        "url": "http://www.v2ex.com/t/191287",
+        "title": "是什么动了你跳的念头？",
+        "node_title": "职场话题",
+        "replies": 22,
+        "created": 1431667686,
+        "last_modified": 1431667828,
+        "content": "工作多久，你会想跳槽呢？什么触发的？",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/191417",
+        "title": "分享一个并没有什么卵用的 Python 库： PyTime",
+        "node_title": "Python",
+        "replies": 27,
+        "created": 1431696393,
+        "last_modified": 1431696407,
+        "content": "（其实就是厚着脸皮来求Star的， 噗）\r\n\r\n仓库地址：[https://github.com/shnode/PyTime](https://github.com/shnode/PyTime)\r\n\r\n安装：\r\n    \r\n    pip install pytime\r\n\r\n主要作用就是通过字符串的方法操纵时间戳，以及不规则的datetime string的规则化。\r\n\r\n    >>>from pytime import pytime\r\n    >>>\r\n    >>>pytime.before('20",
+        "node_id": 90
+    }
+]

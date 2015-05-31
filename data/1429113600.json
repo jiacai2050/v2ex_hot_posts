@@ -1,0 +1,292 @@
+[
+    {
+        "url": "http://www.v2ex.com/t/184042",
+        "title": "迄今为止最好的照片备份方案（苹果新出的 photos 离真正好用还有很长一段路要走）",
+        "node_title": "Apple",
+        "replies": 38,
+        "created": 1429147863,
+        "last_modified": 1429147863,
+        "content": "**使用背景\r\n1. 大部分时间你用手机拍照，iphone，或者android。\r\n2. 偶尔出去旅游或者定点的拍照项目，你会用单反拍照。\r\n3. 平时很少整理照片，也没空整理。平时拍的，留几张好看的照片发发朋友圈，其他的照片，只是个记录，无非是希望过几十年之后想要看了还能找得到而已。\r\n\r\n**Google Photos方案\r\n***优点：\r\n1.免费无限空间存储照片（仅限2048px以内的尺寸，大尺寸的还是算空间，或者3分钟以内的视频也不算占空间）\r\n2.全自动（只要装了g+软件，都是自动在后台备份，",
+        "node_id": 184
+    },
+    {
+        "url": "http://www.v2ex.com/t/184016",
+        "title": "请教有一个 javascript 问题",
+        "node_title": "JavaScript",
+        "replies": 31,
+        "created": 1429116339,
+        "last_modified": 1429116507,
+        "content": "如代码代示，js对象内访问，用 `this` 和 `obj` 都可以，但是在 对象方法内在 `callback` 里用 `this` 就会报未定义，但是用 `obj.remove` 就可以，求大神给指点一下，如何写比较好比较正确。\r\n\r\n``` javascript\r\ndefine(function() {\r\n\r\n    var obj = {\r\n\r\n        add: function(id) {\r\n            // 这里可以用 this\r\n            this.edit(",
+        "node_id": 146
+    },
+    {
+        "url": "http://www.v2ex.com/t/184042",
+        "title": "迄今为止最好的照片备份方案（苹果新出的 photos 离真正好用还有很长一段路要走）",
+        "node_title": "Apple",
+        "replies": 75,
+        "created": 1429147863,
+        "last_modified": 1429147863,
+        "content": "**使用背景\r\n1. 大部分时间你用手机拍照，iphone，或者android。\r\n2. 偶尔出去旅游或者定点的拍照项目，你会用单反拍照。\r\n3. 平时很少整理照片，也没空整理。平时拍的，留几张好看的照片发发朋友圈，其他的照片，只是个记录，无非是希望过几十年之后想要看了还能找得到而已。\r\n\r\n**Google Photos方案\r\n***优点：\r\n1.免费无限空间存储照片（仅限2048px以内的尺寸，大尺寸的还是算空间，或者3分钟以内的视频也不算占空间）\r\n2.全自动（只要装了g+软件，都是自动在后台备份，",
+        "node_id": 184
+    },
+    {
+        "url": "http://www.v2ex.com/t/184105",
+        "title": "请问面试的时候 HR 为什么要问有没有女朋友？",
+        "node_title": "职场话题",
+        "replies": 38,
+        "created": 1429158719,
+        "last_modified": 1429158939,
+        "content": "是基于什么前提发问的？\r\n自我感觉良好。。老以为人家要给我介绍或者对我有想法",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/184016",
+        "title": "请教有一个 javascript 问题",
+        "node_title": "JavaScript",
+        "replies": 31,
+        "created": 1429116339,
+        "last_modified": 1429116507,
+        "content": "如代码代示，js对象内访问，用 `this` 和 `obj` 都可以，但是在 对象方法内在 `callback` 里用 `this` 就会报未定义，但是用 `obj.remove` 就可以，求大神给指点一下，如何写比较好比较正确。\r\n\r\n``` javascript\r\ndefine(function() {\r\n\r\n    var obj = {\r\n\r\n        add: function(id) {\r\n            // 这里可以用 this\r\n            this.edit(",
+        "node_id": 146
+    },
+    {
+        "url": "http://www.v2ex.com/t/184064",
+        "title": "移动 4g 也会中假基站的招？",
+        "node_title": "程序员",
+        "replies": 30,
+        "created": 1429151610,
+        "last_modified": 1429151610,
+        "content": "昨天出去一趟，结果手机收到了10086发的积分兑现金短信，建设银行发的办理高额信用卡及货款短信。\r\n\r\n难道移动4g也会中假基站的招？是因为移动4g语音和短信还工作在2g下？只数据工作在4g下？\r\n\r\n换4g之前本地就没有假基站了，听说是两家打起来都进去了。本地快1年没收到过诈骗短信了,倒是有彩信诈骗的。",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/184075",
+        "title": "边学 PHP 边做了一个小网站，坚持两年了，主机游戏相关。",
+        "node_title": "分享创造",
+        "replies": 29,
+        "created": 1429153870,
+        "last_modified": 1429153945,
+        "content": "界面上肯定是大量抄袭了V2EX。\r\n做这个网站是从学写数据库连接开始的\r\nwww.vglook.com",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/184076",
+        "title": "在家丢了 1600 块钱 ！！！！我该怎么办",
+        "node_title": "问与答",
+        "replies": 29,
+        "created": 1429153918,
+        "last_modified": 1429153918,
+        "content": "毕业后一直几个同学一起租房子\r\n    4个同班的\r\n    2个别的班的但是挺熟的\r\n今天早上发现放在抽屉里1600元没了（怪我 没存到银行卡）\r\n所有来过的人都打过电话他们都不承认是自己拿的！\r\n\r\n我心里有大概想法知道是谁拿的了！（怀疑）　接下来怎么办！",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184083",
+        "title": "github 如何运用 git 进行多人合作开发？",
+        "node_title": "GitHub",
+        "replies": 27,
+        "created": 1429154670,
+        "last_modified": 1429154670,
+        "content": "# 问题描述\r\n* 在多人和做的时候，两个人同时从同一个分支branch自己的分支, 他们修改完代码提交的自己的分支后，管理员何必的时候出问题了，因为他们在同一行添加了自己的代码，导致何必失败，现在怎么办？怎么合作git开发才是正确的姿势？？",
+        "node_id": 772
+    },
+    {
+        "url": "http://www.v2ex.com/t/184042",
+        "title": "迄今为止最好的照片备份方案（苹果新出的 photos 离真正好用还有很长一段路要走）",
+        "node_title": "Apple",
+        "replies": 101,
+        "created": 1429147863,
+        "last_modified": 1429147863,
+        "content": "**使用背景\r\n1. 大部分时间你用手机拍照，iphone，或者android。\r\n2. 偶尔出去旅游或者定点的拍照项目，你会用单反拍照。\r\n3. 平时很少整理照片，也没空整理。平时拍的，留几张好看的照片发发朋友圈，其他的照片，只是个记录，无非是希望过几十年之后想要看了还能找得到而已。\r\n\r\n**Google Photos方案\r\n***优点：\r\n1.免费无限空间存储照片（仅限2048px以内的尺寸，大尺寸的还是算空间，或者3分钟以内的视频也不算占空间）\r\n2.全自动（只要装了g+软件，都是自动在后台备份，",
+        "node_id": 184
+    },
+    {
+        "url": "http://www.v2ex.com/t/184105",
+        "title": "请问面试的时候 HR 为什么要问有没有女朋友？",
+        "node_title": "职场话题",
+        "replies": 49,
+        "created": 1429158719,
+        "last_modified": 1429158939,
+        "content": "是基于什么前提发问的？\r\n自我感觉良好。。老以为人家要给我介绍或者对我有想法",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/184075",
+        "title": "边学 PHP 边做了一个小网站，坚持两年了，主机游戏相关。",
+        "node_title": "分享创造",
+        "replies": 48,
+        "created": 1429153870,
+        "last_modified": 1429153945,
+        "content": "界面上肯定是大量抄袭了V2EX。\r\n做这个网站是从学写数据库连接开始的\r\nwww.vglook.com",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/184174",
+        "title": "v2 里面有色弱的吗，色弱对以后生活工作有什么影响吗？帮同桌问问",
+        "node_title": "问与答",
+        "replies": 42,
+        "created": 1429175985,
+        "last_modified": 1429175985,
+        "content": "今天体检，我同桌被发现是色弱，体检表上被盖了个专业限制，是什么限制？对以后生活工作，考驾照有影响吗？他现在很担心，所以来这里问问，谢谢☺",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184162",
+        "title": "网易出新产品了，“网易热”：求邀请码",
+        "node_title": "互联网",
+        "replies": 39,
+        "created": 1429172057,
+        "last_modified": 1429218778,
+        "content": "这名字，这域名， hot.163.com ，不能不让人联想到东京热啊\r\n网易算是国内第一家进军reddit模式的大公司\r\n还蛮期待的，有码的同学求邀请",
+        "node_id": 56
+    },
+    {
+        "url": "http://www.v2ex.com/t/184064",
+        "title": "移动 4g 也会中假基站的招？",
+        "node_title": "程序员",
+        "replies": 35,
+        "created": 1429151610,
+        "last_modified": 1429151610,
+        "content": "昨天出去一趟，结果手机收到了10086发的积分兑现金短信，建设银行发的办理高额信用卡及货款短信。\r\n\r\n难道移动4g也会中假基站的招？是因为移动4g语音和短信还工作在2g下？只数据工作在4g下？\r\n\r\n换4g之前本地就没有假基站了，听说是两家打起来都进去了。本地快1年没收到过诈骗短信了,倒是有彩信诈骗的。",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/184154",
+        "title": "[报销交通费&免费食物供应]全国顶尖极客编程大赛 - 2015 Unique Hack Day",
+        "node_title": "程序员",
+        "replies": 32,
+        "created": 1429170553,
+        "last_modified": 1429171128,
+        "content": "在此通过V2EX，我们在全国范围（包括钓鱼岛）内召集所有热爱互联网，热爱技术的大学生极客们，在2015年6月6-7号两天相聚在华中科技大学（我们全额报销您往返武汉的交通费，并且两天提供免费无限量食品供应，还有8万元的大奖哦），相互熟悉后快速组队，然后在24小时内开发出一款属于你们自己的作品，题材范围不限。\r\n\r\n\r\n我们的极客大赛，还有一个diao diao 的名字哦，那就是  **Unique Hack Day**  大赛！\r\n\r\n\r\nDuang！Duang！Duang！什么！！！这么diao的比赛啊！",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/184076",
+        "title": "在家丢了 1600 块钱 ！！！！我该怎么办",
+        "node_title": "问与答",
+        "replies": 31,
+        "created": 1429153918,
+        "last_modified": 1429153918,
+        "content": "毕业后一直几个同学一起租房子\r\n    4个同班的\r\n    2个别的班的但是挺熟的\r\n今天早上发现放在抽屉里1600元没了（怪我 没存到银行卡）\r\n所有来过的人都打过电话他们都不承认是自己拿的！\r\n\r\n我心里有大概想法知道是谁拿的了！（怀疑）　接下来怎么办！",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184174",
+        "title": "v2 里面有色弱的吗，色弱对以后生活工作有什么影响吗？帮同桌问问",
+        "node_title": "问与答",
+        "replies": 69,
+        "created": 1429175985,
+        "last_modified": 1429175985,
+        "content": "今天体检，我同桌被发现是色弱，体检表上被盖了个专业限制，是什么限制？对以后生活工作，考驾照有影响吗？他现在很担心，所以来这里问问，谢谢☺",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/184162",
+        "title": "网易出新产品了，“网易热”：求邀请码",
+        "node_title": "互联网",
+        "replies": 59,
+        "created": 1429172057,
+        "last_modified": 1429218778,
+        "content": "这名字，这域名， hot.163.com ，不能不让人联想到东京热啊\r\n网易算是国内第一家进军reddit模式的大公司\r\n还蛮期待的，有码的同学求邀请",
+        "node_id": 56
+    },
+    {
+        "url": "http://www.v2ex.com/t/184105",
+        "title": "请问面试的时候 HR 为什么要问有没有女朋友？",
+        "node_title": "职场话题",
+        "replies": 54,
+        "created": 1429158719,
+        "last_modified": 1429158939,
+        "content": "是基于什么前提发问的？\r\n自我感觉良好。。老以为人家要给我介绍或者对我有想法",
+        "node_id": 770
+    },
+    {
+        "url": "http://www.v2ex.com/t/184154",
+        "title": "[报销交通费&免费食物供应]全国顶尖极客编程大赛 - 2015 Unique Hack Day",
+        "node_title": "程序员",
+        "replies": 41,
+        "created": 1429170553,
+        "last_modified": 1429171128,
+        "content": "在此通过V2EX，我们在全国范围（包括钓鱼岛）内召集所有热爱互联网，热爱技术的大学生极客们，在2015年6月6-7号两天相聚在华中科技大学（我们全额报销您往返武汉的交通费，并且两天提供免费无限量食品供应，还有8万元的大奖哦），相互熟悉后快速组队，然后在24小时内开发出一款属于你们自己的作品，题材范围不限。\r\n\r\n\r\n我们的极客大赛，还有一个diao diao 的名字哦，那就是  **Unique Hack Day**  大赛！\r\n\r\n\r\nDuang！Duang！Duang！什么！！！这么diao的比赛啊！",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/184177",
+        "title": "如果你喜欢简单并且有多台 vps/服务器，你需要这个，状态数据了然了然",
+        "node_title": "分享创造",
+        "replies": 32,
+        "created": 1429177235,
+        "last_modified": 1429177235,
+        "content": "无图无XX，首先请看图。\r\n\r\n![demo](https://raw.githubusercontent.com/likexian/stathub-go/master/demo.png)\r\n\r\n简单来说，这是一个收集众多vps/服务器状态数据并统一简单展示出来的玩意。\r\n你只需要在服务端（任选一台机器）放一个服务，客户端再放一个服务即可完成。\r\n我崇尚简单，并且会继续让它变得更简单，欢迎使用，专业求黑。谢谢大家。\r\n\r\n完整说明请移步：\r\nhttps://github.com/likexian/stat",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/184118",
+        "title": "再也不用被 rm * 困扰了",
+        "node_title": "程序员",
+        "replies": 30,
+        "created": 1429160188,
+        "last_modified": 1429160188,
+        "content": "从 V2EX 上搜索 rm。各种帖子内容都是叙述闻者伤心，听者流泪的手贱操作。\r\n\r\n今天看 https://www.youtube.com/user/wesbos/playlists 的 Command Line Power User 系列最后一讲发现了个好玩的东西。\r\n\r\ntrash\r\nhttps://github.com/sindresorhus/trash\r\n\r\n还不知道的兄弟们可以快去试试了。这是一个跨平台的命令行工具，用来替代 rm。它会把文件删除到回收站的位置，给你一个拯救自己的机会。",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/184148",
+        "title": "亚马逊图书满 200 减 120，说说你买什么？",
+        "node_title": "分享发现",
+        "replies": 27,
+        "created": 1429169836,
+        "last_modified": 1429169836,
+        "content": "http://www.amazon.cn/b/ref=bookslideshow_book_1?_encoding=UTF8&field-enc-merchantbin=A1AJ19PSB66TGU&node=1488458071&pf_rd_p=249312172&pf_rd_s=center-1&pf_rd_t=101&pf_rd_i=658390051&pf_rd_m=A1AJ19PSB66TGU&pf_rd_r=18YJ4CD2F13T70KR3YWV",
+        "node_id": 16
+    },
+    {
+        "url": "http://www.v2ex.com/t/184237",
+        "title": "尼玛杯具了，肾 6 无法输入特殊字符的解锁密码了，我该怎么进系统",
+        "node_title": "iPhone",
+        "replies": 27,
+        "created": 1429196172,
+        "last_modified": 1429196172,
+        "content": "事情的经过是这样的，之前看到v2上有人为了安全，建议把ip解锁密码设置成一个特殊字符，然后我也设置了一个特殊字符（E上面带一个^符号，长按E第四个，类似ê，好像是大写）。\r\n    然后发生了今天的杯具，两天前装了一个第三方输入法，不好用就删了，只保留了简体中文和表情两个键盘。\r\n    然后刚才洗完澡，手还没擦干，解锁了N次没成功，提示“输入你的密码才能启用touch id”。习惯性的长按E，咦？？咋不出现那个戴帽子的E呢。慌了。。。没法输入我的密码了。\r\n    \r\n貌似只有启用英文输入法（us）才能",
+        "node_id": 8
+    },
+    {
+        "url": "http://www.v2ex.com/t/184244",
+        "title": "20150417 午夜俱乐部",
+        "node_title": "天黑以后",
+        "replies": 27,
+        "created": 1429199830,
+        "last_modified": 1429199830,
+        "content": "去 Github 上 Star 自己感興趣的 Repo 去",
+        "node_id": 286
+    },
+    {
+        "url": "http://www.v2ex.com/t/184177",
+        "title": "如果你喜欢简单并且有多台 vps/服务器，你需要这个，状态数据了然了然",
+        "node_title": "分享创造",
+        "replies": 46,
+        "created": 1429177235,
+        "last_modified": 1429177235,
+        "content": "无图无XX，首先请看图。\r\n\r\n![demo](https://raw.githubusercontent.com/likexian/stathub-go/master/demo.png)\r\n\r\n简单来说，这是一个收集众多vps/服务器状态数据并统一简单展示出来的玩意。\r\n你只需要在服务端（任选一台机器）放一个服务，客户端再放一个服务即可完成。\r\n我崇尚简单，并且会继续让它变得更简单，欢迎使用，专业求黑。谢谢大家。\r\n\r\n完整说明请移步：\r\nhttps://github.com/likexian/stat",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/184237",
+        "title": "尼玛杯具了，肾 6 无法输入特殊字符的解锁密码了，我该怎么进系统",
+        "node_title": "iPhone",
+        "replies": 34,
+        "created": 1429196172,
+        "last_modified": 1429196172,
+        "content": "事情的经过是这样的，之前看到v2上有人为了安全，建议把ip解锁密码设置成一个特殊字符，然后我也设置了一个特殊字符（E上面带一个^符号，长按E第四个，类似ê，好像是大写）。\r\n    然后发生了今天的杯具，两天前装了一个第三方输入法，不好用就删了，只保留了简体中文和表情两个键盘。\r\n    然后刚才洗完澡，手还没擦干，解锁了N次没成功，提示“输入你的密码才能启用touch id”。习惯性的长按E，咦？？咋不出现那个戴帽子的E呢。慌了。。。没法输入我的密码了。\r\n    \r\n貌似只有启用英文输入法（us）才能",
+        "node_id": 8
+    },
+    {
+        "url": "http://www.v2ex.com/t/184230",
+        "title": "Mac OS 10.10.3 该升级吗",
+        "node_title": "Mac OS X",
+        "replies": 29,
+        "created": 1429194515,
+        "last_modified": 1429194515,
+        "content": "今天收到人生中第一台 mbpr 13  (2015),\r\n系统提示有 OS X  10.10.3 更新.\r\n看了些文章,更新后好像感觉会有卡顿或开机慢了.\r\n请问该更新吗? 还是暂时先不要",
+        "node_id": 22
+    }
+]

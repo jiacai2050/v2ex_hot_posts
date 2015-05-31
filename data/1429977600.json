@@ -1,0 +1,222 @@
+[
+    {
+        "url": "http://www.v2ex.com/t/186360",
+        "title": "互联网公司不允许用自己的电脑写代码，何解？",
+        "node_title": "程序员",
+        "replies": 29,
+        "created": 1429988636,
+        "last_modified": 1429988636,
+        "content": "配置还不如自己的电脑，莫非怕偷代码？？？？想不通。。。。。。。",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/186391",
+        "title": "为什么 os X 上得视频播放软件比 windows 平台的差那么多？",
+        "node_title": "Mac OS X",
+        "replies": 46,
+        "created": 1430017911,
+        "last_modified": 1430017911,
+        "content": "凭感觉，之前在 windows 上一直用 potplayer，很喜欢，但是自从转到os x，感觉都没有potplayer强悍。目前用的是MplayerX，但是MplayerX连调节窗口大小也没有。\r\n\r\n有没有谁开发过 os x 的视频播放器？难度真的很高吗？",
+        "node_id": 22
+    },
+    {
+        "url": "http://www.v2ex.com/t/186360",
+        "title": "互联网公司不允许用自己的电脑写代码，何解？",
+        "node_title": "程序员",
+        "replies": 42,
+        "created": 1429988636,
+        "last_modified": 1429988636,
+        "content": "配置还不如自己的电脑，莫非怕偷代码？？？？想不通。。。。。。。",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/186380",
+        "title": "大家学过哪些真正 Powerful 的东西？",
+        "node_title": "问与答",
+        "replies": 39,
+        "created": 1430014389,
+        "last_modified": 1430014591,
+        "content": "以前，执迷于互联网产品，觉得不需要特别高深的能力，增删查改好像就行了...\r\n可是现在才觉得，我大概错了\r\n看《Big Hero 6》，才想起来，技术可以如此深刻的改变我们\r\n\r\n不知道大家有学过哪些powerful的东西？\r\n我指的powerful，比如google搜索的算法，能够真正找到重要的信息\r\n\r\n我自己的话，勉强算上只有这些：\r\n\r\n1. Ruby on Rails，0.5 powerful：快速原型能力，（本身不是学计算机的）这个能力能让我快速的实现自己的一些小想法\r\n2. 英语, 0.5 ",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/186418",
+        "title": "多人开发时使用 git，能使用“git add . ”这个命令吗？",
+        "node_title": "iDev",
+        "replies": 24,
+        "created": 1430022993,
+        "last_modified": 1430023151,
+        "content": "我从事ios开发接近两个月了，代码管理使用的是git，我添加代码时都是使用git add . ，ios开发的同事看到后说不能这样添加，说容易出问题，请问各位是这样吗？我觉得git add .  之后commit的时候自然会显示文件的改变情况，和一个一个添加并没有什么区别。可是同事老揪着这个不放。烦",
+        "node_id": 13
+    },
+    {
+        "url": "http://www.v2ex.com/t/186375",
+        "title": "AngularJS 的学习门槛高么？如何快速学习它？",
+        "node_title": "程序员",
+        "replies": 20,
+        "created": 1430013564,
+        "last_modified": 1430039435,
+        "content": "各位有什么想法么？\r\n听说谷歌的东西不能学，因为谷歌家的东西没多久它自己都不用了，咋办？",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/186391",
+        "title": "为什么 os X 上得视频播放软件比 windows 平台的差那么多？",
+        "node_title": "Mac OS X",
+        "replies": 94,
+        "created": 1430017911,
+        "last_modified": 1430017911,
+        "content": "凭感觉，之前在 windows 上一直用 potplayer，很喜欢，但是自从转到os x，感觉都没有potplayer强悍。目前用的是MplayerX，但是MplayerX连调节窗口大小也没有。\r\n\r\n有没有谁开发过 os x 的视频播放器？难度真的很高吗？",
+        "node_id": 22
+    },
+    {
+        "url": "http://www.v2ex.com/t/186380",
+        "title": "大家学过哪些真正 Powerful 的东西？",
+        "node_title": "问与答",
+        "replies": 67,
+        "created": 1430014389,
+        "last_modified": 1430014591,
+        "content": "以前，执迷于互联网产品，觉得不需要特别高深的能力，增删查改好像就行了...\r\n可是现在才觉得，我大概错了\r\n看《Big Hero 6》，才想起来，技术可以如此深刻的改变我们\r\n\r\n不知道大家有学过哪些powerful的东西？\r\n我指的powerful，比如google搜索的算法，能够真正找到重要的信息\r\n\r\n我自己的话，勉强算上只有这些：\r\n\r\n1. Ruby on Rails，0.5 powerful：快速原型能力，（本身不是学计算机的）这个能力能让我快速的实现自己的一些小想法\r\n2. 英语, 0.5 ",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/186418",
+        "title": "多人开发时使用 git，能使用“git add . ”这个命令吗？",
+        "node_title": "iDev",
+        "replies": 42,
+        "created": 1430022993,
+        "last_modified": 1430023151,
+        "content": "我从事ios开发接近两个月了，代码管理使用的是git，我添加代码时都是使用git add . ，ios开发的同事看到后说不能这样添加，说容易出问题，请问各位是这样吗？我觉得git add .  之后commit的时候自然会显示文件的改变情况，和一个一个添加并没有什么区别。可是同事老揪着这个不放。烦",
+        "node_id": 13
+    },
+    {
+        "url": "http://www.v2ex.com/t/186394",
+        "title": "路由器还是得买大牌厂商的啊，神马智能路由器真的稳定吗？",
+        "node_title": "路由器",
+        "replies": 35,
+        "created": 1430018617,
+        "last_modified": 1430019865,
+        "content": "购买某智能路由器4个，自己家2个（已坏1），岳父家2个（已坏1），昨晚打电话过来，说连不上网了。然后联系当地电信报修，今早检测结果又是路由器坏掉了。\r\n\r\n果真是可怜之人必有可恨之处啊，为什么当初选择信任，多次的购买呢。。\r\n\r\nPS： 求推荐几个家用路由器，主要是稳定，神马国产智能/极客路由器就不要推荐了。",
+        "node_id": 824
+    },
+    {
+        "url": "http://www.v2ex.com/t/186383",
+        "title": "Debian 8 发布了",
+        "node_title": "Linux",
+        "replies": 27,
+        "created": 1430015249,
+        "last_modified": 1430015249,
+        "content": "https://bits.debian.org/2015/04/jessie-released.html",
+        "node_id": 11
+    },
+    {
+        "url": "http://www.v2ex.com/t/186393",
+        "title": "南京街头奇怪的设备",
+        "node_title": "南京",
+        "replies": 25,
+        "created": 1430018275,
+        "last_modified": 1430018347,
+        "content": "http://ww1.sinaimg.cn/mw1024/64019f66gw1erissr8pkwj21kw23ux4n.jpg\r\n\r\n虽然上面有个电话的标志，但应该不会是公用电话吧。\r\n\r\n那会是什么呢？电子阅报亭？ Wi-Fi 热点分享？信息查询机？",
+        "node_id": 154
+    },
+    {
+        "url": "http://www.v2ex.com/t/186466",
+        "title": "有没有人被自动跳转到 wpkg.org？",
+        "node_title": "问与答",
+        "replies": 25,
+        "created": 1430040266,
+        "last_modified": 1430040441,
+        "content": "某页游代理出现此情况，我自己的代理也有这个情况。\r\n据说和 facebook.net 有关系，但是我也没有搞明白哪里出的问题。\r\n出现问题的几个网站（中国大陆以外访问）：\r\nhttps://microsoftstore.com/\r\nhttp://dmm.com/\r\n\r\n附上某页游代理提供的解决方案：hosts\r\n127.0.0.1 facebook.net\r\n127.0.0.1 wpkg.org",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/186408",
+        "title": "弱弱的问一下，机械键盘有无线的吗？",
+        "node_title": "机械键盘",
+        "replies": 22,
+        "created": 1430021923,
+        "last_modified": 1430021923,
+        "content": "近几天听到/看到好几个夸机械键盘如何如何好的\r\n想入一个试试手\r\n但是无法忍受键盘线的牵绊\r\n请问有无线的机械键盘吗？\r\n\r\n有无背光无所谓，无线一般都是电池供电，背光肯定会非常耗电！",
+        "node_id": 693
+    },
+    {
+        "url": "http://www.v2ex.com/t/186418",
+        "title": "多人开发时使用 git，能使用“git add . ”这个命令吗？",
+        "node_title": "iDev",
+        "replies": 55,
+        "created": 1430022993,
+        "last_modified": 1430023151,
+        "content": "我从事ios开发接近两个月了，代码管理使用的是git，我添加代码时都是使用git add . ，ios开发的同事看到后说不能这样添加，说容易出问题，请问各位是这样吗？我觉得git add .  之后commit的时候自然会显示文件的改变情况，和一个一个添加并没有什么区别。可是同事老揪着这个不放。烦",
+        "node_id": 13
+    },
+    {
+        "url": "http://www.v2ex.com/t/186466",
+        "title": "有没有人被自动跳转到 wpkg.org？",
+        "node_title": "问与答",
+        "replies": 30,
+        "created": 1430040266,
+        "last_modified": 1430040441,
+        "content": "某页游代理出现此情况，我自己的代理也有这个情况。\r\n据说和 facebook.net 有关系，但是我也没有搞明白哪里出的问题。\r\n出现问题的几个网站（中国大陆以外访问）：\r\nhttps://microsoftstore.com/\r\nhttp://dmm.com/\r\n\r\n附上某页游代理提供的解决方案：hosts\r\n127.0.0.1 facebook.net\r\n127.0.0.1 wpkg.org",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/186408",
+        "title": "弱弱的问一下，机械键盘有无线的吗？",
+        "node_title": "机械键盘",
+        "replies": 27,
+        "created": 1430021923,
+        "last_modified": 1430021923,
+        "content": "近几天听到/看到好几个夸机械键盘如何如何好的\r\n想入一个试试手\r\n但是无法忍受键盘线的牵绊\r\n请问有无线的机械键盘吗？\r\n\r\n有无背光无所谓，无线一般都是电池供电，背光肯定会非常耗电！",
+        "node_id": 693
+    },
+    {
+        "url": "http://www.v2ex.com/t/186397",
+        "title": "用手机买一杯咖啡",
+        "node_title": "南京",
+        "replies": 21,
+        "created": 1430019945,
+        "last_modified": 1430019945,
+        "content": "昨天上午想去附近的咖啡馆看一会书，把手机和 kindle 揣兜里就出门了。下楼之后才想起钱包没有带，第一念头自然是回家拿，但转念一想在这个遍地是移动支付微信红包都能上亿的年代，回家拿钱包这样的举动是不是太 low ？不如尝试一下不用现金和卡能不能买到一杯咖啡。\r\n\r\n先是走到离家最近的 snow coffee，只有服务员一个人在店里。我说我没有带钱包，能不能用微信或者支付宝支付一杯咖啡，服务员先是说不行，然后很快在\"不行\"前面加了一个\"暂时\"，似乎她也觉得应该支持这样的支付。我说那能不能用我的支付宝或微信",
+        "node_id": 154
+    },
+    {
+        "url": "http://www.v2ex.com/t/186429",
+        "title": "有人要团购 paw 么？ 15 人团。",
+        "node_title": "Mac OS X",
+        "replies": 21,
+        "created": 1430026679,
+        "last_modified": 1430026679,
+        "content": "https://luckymarmot.com/paw\r\n\r\nRESET API 测试工具\r\n\r\n功能挺强大的\r\n\r\n15人团，每人大概139块。\r\n\r\n要的，留邮箱。",
+        "node_id": 22
+    },
+    {
+        "url": "http://www.v2ex.com/t/186507",
+        "title": "https 网站下 http 的 cdn 前端库混用问题",
+        "node_title": "程序员",
+        "replies": 21,
+        "created": 1430054052,
+        "last_modified": 1430054052,
+        "content": "目前很多网站都开始采用https了，但是https下对http的cdn混合方式访问存在限制，国内开源的cdn站点，大多未开启https的支持(⊙o⊙)哦，大家怎么看/怎么解决的呢？\r\n\r\n## 一些小诀窍\r\n    直接使用：\r\n    //www.site.domain/lib/version/plugin.min.js\r\n    方式可以自动匹配对应的访问方式，但是注意(⊙o⊙)哦（前提是它们的网站支持...）\r\n\r\n## 一些前端库\r\n\r\n### Bootcdn：\r\n    bootcss这网站大家",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/186529",
+        "title": "关于 NGINX 在 reload 时丢连接的问题",
+        "node_title": "NGINX",
+        "replies": 19,
+        "created": 1430058013,
+        "last_modified": 1430059413,
+        "content": "每次 reload 的时候，在 error_log 里可以看到类似这样的错误信息：\r\n\r\n```\r\n2015/04/26 13:48:07 [alert] 11215#0: *534 open socket #383 left in connection 20\r\n2015/04/26 13:48:07 [alert] 11215#0: *535 open socket #384 left in connection 21\r\n2015/04/26 13:48:07 [alert] 11215#0: *539",
+        "node_id": 82
+    },
+    {
+        "url": "http://www.v2ex.com/t/186508",
+        "title": "刚才入了 840,咨询一下..",
+        "node_title": "MacBook Pro",
+        "replies": 40,
+        "created": 1430054203,
+        "last_modified": 1430056555,
+        "content": "RT,刚才苹果团入了港版840,8800左右,过几天到货,请问有什么经验传授..\r\n以前玩过黑苹果,就是一些基本的软件,上去玩玩而已,现在入了白苹果,\r\n请问一些必备的软件啊,外设之类的,转接线啊啥的,在此谢过.\r\n没考虑买MM(鼠标),因为觉得新款的触摸板很强大,先用着.\r\n\r\n再次感谢!",
+        "node_id": 10
+    }
+]

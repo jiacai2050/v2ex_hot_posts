@@ -1,0 +1,252 @@
+[
+    {
+        "url": "http://www.v2ex.com/t/185644",
+        "title": "求助…学校“鼓励”就业协议造假怎么办？",
+        "node_title": "问与答",
+        "replies": 46,
+        "created": 1429753351,
+        "last_modified": 1429753377,
+        "content": "应届生\r\n学校要求这几天上交就业协议书，先要去单位盖公章，然后再去人才市场盖章。\r\n\r\n估摸着其实就是要统计就业率，不上交的话不给发毕业证、学位证和派遣证。\r\n\r\n我们说现在还暂时没找工作，老师说无论你找没找，必须5月以前上交证书，并且如果这周五之前不交我就得打电话找家长了。\r\n\r\n [总之就是无论你有没有工作，必须先去盖章] ←当然这句话老师没明着说，而是很隐晦的说什么“你的就业单位没必要和协议书上一样”“不上交协议书我怎么给你们发证”之类的……\r\n\r\n各位v2er们以前有遇到这样的情况吗？",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/185644",
+        "title": "求助…学校“鼓励”就业协议造假怎么办？",
+        "node_title": "问与答",
+        "replies": 58,
+        "created": 1429753351,
+        "last_modified": 1429753377,
+        "content": "应届生\r\n学校要求这几天上交就业协议书，先要去单位盖公章，然后再去人才市场盖章。\r\n\r\n估摸着其实就是要统计就业率，不上交的话不给发毕业证、学位证和派遣证。\r\n\r\n我们说现在还暂时没找工作，老师说无论你找没找，必须5月以前上交证书，并且如果这周五之前不交我就得打电话找家长了。\r\n\r\n [总之就是无论你有没有工作，必须先去盖章] ←当然这句话老师没明着说，而是很隐晦的说什么“你的就业单位没必要和协议书上一样”“不上交协议书我怎么给你们发证”之类的……\r\n\r\n各位v2er们以前有遇到这样的情况吗？",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/185653",
+        "title": "有没有淘宝客户端的童鞋，你们的产品后台偷跑了我 350 兆流量",
+        "node_title": "互联网",
+        "replies": 48,
+        "created": 1429754449,
+        "last_modified": 1429779335,
+        "content": "早上迷迷糊糊地睁开眼睛，拿起手机，发现联通给我发了一堆短信告诉我没流量了，再用就收钱了，然后就发现这货一晚上偷偷跑了我350兆流量啊！！我的心在滴血啊！！忘记关数据一睁眼睛房子就是联通的这句话原来不是段子啊！\r\n\r\nhttp://ww4.sinaimg.cn/large/82dfe143jw1erf9pjfg0bj20u01hcgp9.jpg",
+        "node_id": 56
+    },
+    {
+        "url": "http://www.v2ex.com/t/185684",
+        "title": "请教如何删除 6 万 txt 中重复的行",
+        "node_title": "Python",
+        "replies": 34,
+        "created": 1429760049,
+        "last_modified": 1429779152,
+        "content": "文本1中：\r\n\r\n```\r\n123.com.     3600    IN      SOA     ns1.dns.com. dns.dns.com. 1419473850 3600 3600 3600 3600\r\n123.com.     3600    IN      A       2.2.2.2\r\n123.com.     3600    IN      NS      ns2.dns.com.\r\n123.com.     3600    IN      NS      ns1.dns.com.",
+        "node_id": 90
+    },
+    {
+        "url": "http://www.v2ex.com/t/185621",
+        "title": "并不是什么东西都是隐私",
+        "node_title": "V2EX",
+        "replies": 33,
+        "created": 1429743832,
+        "last_modified": 1429743832,
+        "content": "关于这几天热炒的话题，删帖，备案，隐私等等，每个人当然都可以有自己的观点。但我觉得，有一点，有很多人从一开始就弄错了，就是隐私。\r\n\r\n什么是隐私？隐私不是所有关于你的所有数据。简单的说，你并没有主动想让别人知道的信息，才能属于隐私，反之则不是。\r\n\r\n说说其他网站，譬如说你在 Twitter，你自言自语，这可以属于隐私，你在 Facebook，自己的页面，自己写点东西，这可以属于隐私。而你如果@别人，如果跑到别人的专页去评论几句，这就不再属于隐私了。你自己邮箱收到的所有内容可以属于隐私，但你发给别人的不",
+        "node_id": 2
+    },
+    {
+        "url": "http://www.v2ex.com/t/185640",
+        "title": "我们老师教 OC，今天说内存管理，他把 NSString 的成员变量在 dealloc 里释放了",
+        "node_title": "iDev",
+        "replies": 33,
+        "created": 1429751779,
+        "last_modified": 1429771562,
+        "content": "![Alt V2EX](http://ww2.sinaimg.cn/large/71fb307agw1erf8fcanimj21f01w0h4x.jpg)\r\n\r\n_name 是 Person里NSString的成员变量\r\n然后他 property NSString 传 retain\r\n他是写错了吧？。。。。",
+        "node_id": 13
+    },
+    {
+        "url": "http://www.v2ex.com/t/185614",
+        "title": "你们的京东白条怎么提升额度的，问客服说只能通过玩客户端的游戏来提升额度",
+        "node_title": "问与答",
+        "replies": 31,
+        "created": 1429724086,
+        "last_modified": 1429724086,
+        "content": "为什么有这么傻逼的一种策划，信用额度不是个人消费能力的一种评估吗?玩那种弱智游戏来提升额度是谁提出来的啊？",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/185621",
+        "title": "并不是什么东西都是隐私",
+        "node_title": "V2EX",
+        "replies": 89,
+        "created": 1429743832,
+        "last_modified": 1429743832,
+        "content": "关于这几天热炒的话题，删帖，备案，隐私等等，每个人当然都可以有自己的观点。但我觉得，有一点，有很多人从一开始就弄错了，就是隐私。\r\n\r\n什么是隐私？隐私不是所有关于你的所有数据。简单的说，你并没有主动想让别人知道的信息，才能属于隐私，反之则不是。\r\n\r\n说说其他网站，譬如说你在 Twitter，你自言自语，这可以属于隐私，你在 Facebook，自己的页面，自己写点东西，这可以属于隐私。而你如果@别人，如果跑到别人的专页去评论几句，这就不再属于隐私了。你自己邮箱收到的所有内容可以属于隐私，但你发给别人的不",
+        "node_id": 2
+    },
+    {
+        "url": "http://www.v2ex.com/t/185644",
+        "title": "求助…学校“鼓励”就业协议造假怎么办？",
+        "node_title": "问与答",
+        "replies": 82,
+        "created": 1429753351,
+        "last_modified": 1429753377,
+        "content": "应届生\r\n学校要求这几天上交就业协议书，先要去单位盖公章，然后再去人才市场盖章。\r\n\r\n估摸着其实就是要统计就业率，不上交的话不给发毕业证、学位证和派遣证。\r\n\r\n我们说现在还暂时没找工作，老师说无论你找没找，必须5月以前上交证书，并且如果这周五之前不交我就得打电话找家长了。\r\n\r\n [总之就是无论你有没有工作，必须先去盖章] ←当然这句话老师没明着说，而是很隐晦的说什么“你的就业单位没必要和协议书上一样”“不上交协议书我怎么给你们发证”之类的……\r\n\r\n各位v2er们以前有遇到这样的情况吗？",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/185653",
+        "title": "有没有淘宝客户端的童鞋，你们的产品后台偷跑了我 350 兆流量",
+        "node_title": "互联网",
+        "replies": 61,
+        "created": 1429754449,
+        "last_modified": 1429779335,
+        "content": "早上迷迷糊糊地睁开眼睛，拿起手机，发现联通给我发了一堆短信告诉我没流量了，再用就收钱了，然后就发现这货一晚上偷偷跑了我350兆流量啊！！我的心在滴血啊！！忘记关数据一睁眼睛房子就是联通的这句话原来不是段子啊！\r\n\r\nhttp://ww4.sinaimg.cn/large/82dfe143jw1erf9pjfg0bj20u01hcgp9.jpg",
+        "node_id": 56
+    },
+    {
+        "url": "http://www.v2ex.com/t/185684",
+        "title": "请教如何删除 6 万 txt 中重复的行",
+        "node_title": "Python",
+        "replies": 54,
+        "created": 1429760049,
+        "last_modified": 1429779152,
+        "content": "文本1中：\r\n\r\n```\r\n123.com.     3600    IN      SOA     ns1.dns.com. dns.dns.com. 1419473850 3600 3600 3600 3600\r\n123.com.     3600    IN      A       2.2.2.2\r\n123.com.     3600    IN      NS      ns2.dns.com.\r\n123.com.     3600    IN      NS      ns1.dns.com.",
+        "node_id": 90
+    },
+    {
+        "url": "http://www.v2ex.com/t/185762",
+        "title": "王自如这哪来的自信？！",
+        "node_title": "iPhone",
+        "replies": 49,
+        "created": 1429781540,
+        "last_modified": 1429781540,
+        "content": "链接： http://fix.zealer.com/rephone\r\n看到王自如的二手iPhone售卖页面了，这价格真是惊着了！5S单机（16G）都要2600左右，且不说来源问题，看到机身照片，所谓的9.9新却能看到很明显的磕碰，难道是我对成色的概念错乱了么。。。想当初我过年期间卖掉的还在质保期的国行5S（16G）才2800哇，况且是全包装，而他这仅仅是一台单机而已。这是哪来的自信呢？！画面太屌不敢看。。。",
+        "node_id": 8
+    },
+    {
+        "url": "http://www.v2ex.com/t/185767",
+        "title": "大家有什么好书推荐一下吧.可以是任意类型的..",
+        "node_title": "阅读",
+        "replies": 41,
+        "created": 1429782626,
+        "last_modified": 1429791435,
+        "content": "",
+        "node_id": 111
+    },
+    {
+        "url": "http://www.v2ex.com/t/185640",
+        "title": "我们老师教 OC，今天说内存管理，他把 NSString 的成员变量在 dealloc 里释放了",
+        "node_title": "iDev",
+        "replies": 37,
+        "created": 1429751779,
+        "last_modified": 1429771562,
+        "content": "![Alt V2EX](http://ww2.sinaimg.cn/large/71fb307agw1erf8fcanimj21f01w0h4x.jpg)\r\n\r\n_name 是 Person里NSString的成员变量\r\n然后他 property NSString 传 retain\r\n他是写错了吧？。。。。",
+        "node_id": 13
+    },
+    {
+        "url": "http://www.v2ex.com/t/185745",
+        "title": "[最近的一个 Python Flask 小作品] 壹经典：每天分享好句子",
+        "node_title": "分享创造",
+        "replies": 37,
+        "created": 1429777380,
+        "last_modified": 1429777388,
+        "content": "最近和小伙伴 [Eric Peng](https://v2ex.com/member/ericpeng) 用 Flask & Bootstrap 写了个小站点：壹经典。\r\n\r\n* 网址： http://www.1jingdian.com\r\n* 代码： https://github.com/1jingdian/1jingdian\r\n\r\n 我们平时都很喜欢文字，就想一起做一个分享文字片段的产品。目前同类产品有：\r\n\r\n* [句子迷](http://www.juzimi.com)\r\n* [茴香](http://",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/185762",
+        "title": "王自如这哪来的自信？！",
+        "node_title": "iPhone",
+        "replies": 65,
+        "created": 1429781540,
+        "last_modified": 1429781540,
+        "content": "链接： http://fix.zealer.com/rephone\r\n看到王自如的二手iPhone售卖页面了，这价格真是惊着了！5S单机（16G）都要2600左右，且不说来源问题，看到机身照片，所谓的9.9新却能看到很明显的磕碰，难道是我对成色的概念错乱了么。。。想当初我过年期间卖掉的还在质保期的国行5S（16G）才2800哇，况且是全包装，而他这仅仅是一台单机而已。这是哪来的自信呢？！画面太屌不敢看。。。",
+        "node_id": 8
+    },
+    {
+        "url": "http://www.v2ex.com/t/185745",
+        "title": "[最近的一个 Python Flask 小作品] 壹经典：每天分享好句子",
+        "node_title": "分享创造",
+        "replies": 64,
+        "created": 1429777380,
+        "last_modified": 1429777388,
+        "content": "最近和小伙伴 [Eric Peng](https://v2ex.com/member/ericpeng) 用 Flask & Bootstrap 写了个小站点：壹经典。\r\n\r\n* 网址： http://www.1jingdian.com\r\n* 代码： https://github.com/1jingdian/1jingdian\r\n\r\n 我们平时都很喜欢文字，就想一起做一个分享文字片段的产品。目前同类产品有：\r\n\r\n* [句子迷](http://www.juzimi.com)\r\n* [茴香](http://",
+        "node_id": 17
+    },
+    {
+        "url": "http://www.v2ex.com/t/185767",
+        "title": "大家有什么好书推荐一下吧.可以是任意类型的..",
+        "node_title": "阅读",
+        "replies": 48,
+        "created": 1429782626,
+        "last_modified": 1429791435,
+        "content": "",
+        "node_id": 111
+    },
+    {
+        "url": "http://www.v2ex.com/t/185795",
+        "title": "每天做饭好麻烦！",
+        "node_title": "问与答",
+        "replies": 40,
+        "created": 1429786956,
+        "last_modified": 1429786956,
+        "content": "淘米，烧饭，洗菜，切配，烹炒，洗碗。每天花在这上面的时间超过2小时。\r\n\r\n如果改成欧化的浓汤+面包会不会好点？能支撑一周不停的换菜色么？",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/185690",
+        "title": "为什么码农没有过剩，反而供不应求",
+        "node_title": "程序员",
+        "replies": 33,
+        "created": 1429761029,
+        "last_modified": 1429761054,
+        "content": "之前在知乎看到这个问题，其实正好契合了我们团队做目前项目的初衷于是回答了，也分享来V2和大家共享，欢迎拍砖：\r\n***\r\n我越来越认为，代码，将成为像英语这样的一门“外语”，它将打开一扇人与更广泛世界沟通的窗户：\r\n\r\n当手机还只需要打电话的时候，没有IOS/Android程序员这整个庞大的队伍。\r\n现在，手表也开始要智能了。\r\n未来，更多软件，智能硬件，人工智能，机器人等等开始进入我们的日常生活，都离不开程序员的创造性工作。。\r\n\r\n回想一下，30年前，个人电脑还未普及，没有人觉得程序员能改变世界。\r\n",
+        "node_id": 300
+    },
+    {
+        "url": "http://www.v2ex.com/t/185796",
+        "title": "V2EX 的“ToS”又有更新",
+        "node_title": "V2EX",
+        "replies": 33,
+        "created": 1429787732,
+        "last_modified": 1429787732,
+        "content": "https://www.v2ex.com/about/index.html\r\n\r\n增加了一个新的条款：\r\n\r\n• 这里禁止发布人身攻击、仇恨、暴力、侮辱性的言辞、暴露他人隐私的“人肉贴”",
+        "node_id": 2
+    },
+    {
+        "url": "http://www.v2ex.com/t/185767",
+        "title": "大家有什么好书推荐一下吧.可以是任意类型的..",
+        "node_title": "阅读",
+        "replies": 64,
+        "created": 1429782626,
+        "last_modified": 1429791435,
+        "content": "",
+        "node_id": 111
+    },
+    {
+        "url": "http://www.v2ex.com/t/185795",
+        "title": "每天做饭好麻烦！",
+        "node_title": "问与答",
+        "replies": 61,
+        "created": 1429786956,
+        "last_modified": 1429786956,
+        "content": "淘米，烧饭，洗菜，切配，烹炒，洗碗。每天花在这上面的时间超过2小时。\r\n\r\n如果改成欧化的浓汤+面包会不会好点？能支撑一周不停的换菜色么？",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/185819",
+        "title": "收听量第一的华语科技播客整天把对 Android 和微软 “不知道/不了解/不清楚/没用过” 挂在嘴边是什么意思",
+        "node_title": "问与答",
+        "replies": 43,
+        "created": 1429796091,
+        "last_modified": 1429796091,
+        "content": "此微博被此博客转了，昨晚一个android用户+微软用户这个问题也困扰着我，今天终于有人问了",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/185796",
+        "title": "V2EX 的“ToS”又有更新",
+        "node_title": "V2EX",
+        "replies": 35,
+        "created": 1429787732,
+        "last_modified": 1429787732,
+        "content": "https://www.v2ex.com/about/index.html\r\n\r\n增加了一个新的条款：\r\n\r\n• 这里禁止发布人身攻击、仇恨、暴力、侮辱性的言辞、暴露他人隐私的“人肉贴”",
+        "node_id": 2
+    }
+]

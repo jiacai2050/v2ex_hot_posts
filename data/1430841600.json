@@ -1,0 +1,62 @@
+[
+    {
+        "url": "http://www.v2ex.com/t/188786",
+        "title": "请支招： redis || mysql 评论，赞，星标，这些互动数据",
+        "node_title": "Redis",
+        "replies": 49,
+        "created": 1430872714,
+        "last_modified": 1430872714,
+        "content": "最近遇上评论数据的瓶颈了，放 mysql 吧受不了这么大的请求量，放 redis 吧，内存受不了。\r\n\r\nmysql 请求太多，继续用的话只能再堆服务器了\r\n\r\nredis 吧，数据太多了，比如：`评论数据` 按 `item_comment:item_id` 去存取数据的话，那么现在的 item 已经到6位数了。。。那么也就是说 redis 里有 `item_comment:654321(n)` 仅仅评论数据就有 6 位数的 key 了，那么加上所有的互动就有 `5*654,321` 位数的 key，还是",
+        "node_id": 47
+    },
+    {
+        "url": "http://www.v2ex.com/t/188786",
+        "title": "请支招： redis || mysql 评论，赞，星标，这些互动数据",
+        "node_title": "Redis",
+        "replies": 59,
+        "created": 1430872714,
+        "last_modified": 1430872714,
+        "content": "最近遇上评论数据的瓶颈了，放 mysql 吧受不了这么大的请求量，放 redis 吧，内存受不了。\r\n\r\nmysql 请求太多，继续用的话只能再堆服务器了\r\n\r\nredis 吧，数据太多了，比如：`评论数据` 按 `item_comment:item_id` 去存取数据的话，那么现在的 item 已经到6位数了。。。那么也就是说 redis 里有 `item_comment:654321(n)` 仅仅评论数据就有 6 位数的 key 了，那么加上所有的互动就有 `5*654,321` 位数的 key，还是",
+        "node_id": 47
+    },
+    {
+        "url": "http://www.v2ex.com/t/188803",
+        "title": "快大二了，我感觉这一年没多点收获，求教技能树怎么点",
+        "node_title": "问与答",
+        "replies": 48,
+        "created": 1430876102,
+        "last_modified": 1430876355,
+        "content": ">CS专业，杭州某非211，周围大多数同学只知道按时上课按时交作业没事就打游戏，满足于考试不挂。\r\n>\r\n>感觉最能说出口的就是进了校ACM集训队，并去省赛打了块铁，毕竟是弱校。\r\n还有就是初步会做网站，后端。\r\n\r\n>\r\n>英语6级问题不大，数学还过得去，数据结构啃了大半，算法刚开始啃，看了下培养计划，甚至我感觉大二一年可以搞定大二大三两年的科目。\r\n>\r\n>下学期可以选择跟信息中心的老师管管机房，也可以跟别的院老师玩玩从单片机之类开始接触下底层的东西。\r\n>还有现在有个申报国创项目的机会，感觉掌握的技",
+        "node_id": 12
+    },
+    {
+        "url": "http://www.v2ex.com/t/188887",
+        "title": "RMBP 15 温度维持在 50 度正常吗",
+        "node_title": "MacBook Pro",
+        "replies": 48,
+        "created": 1430891254,
+        "last_modified": 1430896318,
+        "content": "2013款 Retina MacBook Pro 15寸，感觉没怎么开App 温度就有点热，装了个温度的软件，平常风扇调成中度速度还是挺热的。\r\n\r\n![](http://i2.tietuku.com/90164e8ad1db9423.png)",
+        "node_id": 10
+    },
+    {
+        "url": "http://www.v2ex.com/t/188863",
+        "title": "Block 功能可以双向么？",
+        "node_title": "V2EX",
+        "replies": 43,
+        "created": 1430885202,
+        "last_modified": 1430885221,
+        "content": "我不知道这样实现有没有什么特别的难度，但是考虑到如果一个人已经Block了对方，但对方没有任何通知，且仍然能看到他的帖子并且尝试和他讨论问题，这样是不是不太好？\r\n\r\n如果现在还不是双向Block的话，建议添加双向触发的功能：\r\n当A Block B的时候，B的Block列表里会自动添加A。\r\n\r\n@Livid",
+        "node_id": 2
+    },
+    {
+        "url": "http://www.v2ex.com/t/188908",
+        "title": "既然\"Lift is short, you need Python\" ，那么新手是该 print 'XX' ，还是 print('XX')",
+        "node_title": "Python",
+        "replies": 43,
+        "created": 1430895489,
+        "last_modified": 1430895607,
+        "content": "RT\r\n\r\n装的 python 3，print '' 的时候被一片红吓到了...\r\n\r\n不知道和 2 还有多少区别，未来一两年行业趋势又是什么？\r\n\r\n暂无该方向就业意向，入门是否有必要从某一版本起步？\r\n\r\n想听听从业人员的建议 ;)\r\n\r\nPS：在 Python 节点发的，其他语言你们奏开。(对，说的就是你，**PHP**(ง ˙з˙)ว)",
+        "node_id": 90
+    }
+]
