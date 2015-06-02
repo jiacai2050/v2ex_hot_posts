@@ -13,7 +13,8 @@
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
-            var d = new Date(parseInt(new Date().getTime()/1000/3600/24)*3600*24*1000); 
+            //得到昨天的日期
+            var d = new Date(parseInt(new Date().getTime()/1000/3600/24-1)*3600*24*1000); 
             d = d.format("/yyyy/MM/dd");
             window.onload = function() {
                 document.getElementById("lastest").innerHTML = "<a href='" + d + "'>"+ d + "</a>"; 
