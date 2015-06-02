@@ -4,6 +4,7 @@
         <title>V2EX 热帖收集站</title>
         <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
         <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
         <script>
             var _hmt = _hmt || [];
             (function() {
@@ -12,6 +13,11 @@
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
+            var d = new Date(parseInt(new Date().getTime()/1000/3600/24)*3600*24*1000); 
+            d = d.format("/yyyy/MM/dd");
+            window.onload = function() {
+                document.getElementById("lastest").innerHTML = "<a href='" + d + "'>"+ d + "</a>"; 
+            }
         </script>
     </head>
  
@@ -30,7 +36,7 @@
                     <td>浏览方式</td>
                 </tr>
                 <tr>
-                    <td>直接在地址栏输入日期即可，比如：<a href="/2015/05/05">/2015/05/05</a></td>
+                    <td>直接在地址栏输入日期即可，比如：<span id="lastest"></span></td>
                 </tr>
             </table>
         </td></tr></table>
