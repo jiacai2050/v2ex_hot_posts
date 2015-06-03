@@ -4,6 +4,7 @@
         <title>V2EX 2015/05/30热帖</title>
         <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
         <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
         <script>
             var _hmt = _hmt || [];
             (function() {
@@ -12,6 +13,31 @@
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/05/30");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
         </script>
 
         
@@ -34,6 +60,11 @@
 
             
             <tr>
+                <td>90</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/195162">煎蛋被扒站这事大家怎么看？</a></td>
+            </tr>
+            
+            <tr>
                 <td>78</td>
                 <td><a target="_blank" href="http://www.v2ex.com/t/195030">当 Apache， Nginx 站点受到严重 CC 攻击，我该怎么办？</a></td>
             </tr>
@@ -51,11 +82,6 @@
             <tr>
                 <td>42</td>
                 <td><a target="_blank" href="http://www.v2ex.com/t/195097">有关 JavaScript 中实例的 constructor 属性的问题。</a></td>
-            </tr>
-            
-            <tr>
-                <td>37</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/195162">煎蛋被扒站这事大家怎么看？</a></td>
             </tr>
             
             <tr>
@@ -83,44 +109,17 @@
                 <td><a target="_blank" href="http://www.v2ex.com/t/195110">预算 1k，面向客户为大陆用户，速度要求不高，只要稳定，请问 linode 是最好的选择吗？</a></td>
             </tr>
             
-        </table>
-</body>
-    </tr>
-            
             <tr>
-                <td>34</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/194968">放假了正确把台机带回家的姿势</a></td>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
             </tr>
-            
             <tr>
-                <td>32</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/194841">北京 6 月 1 日起施行控烟令！！！</a></td>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
             </tr>
-            
-            <tr>
-                <td>31</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/194932">扒一扒在家乡吃的日子~</a></td>
-            </tr>
-            
-            <tr>
-                <td>30</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/194861">有希望来加拿大工作的码农吗？</a></td>
-            </tr>
-            
-            <tr>
-                <td>24</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/195013">20150531 午夜俱乐部</a></td>
-            </tr>
-            
-            <tr>
-                <td>21</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/194967">这是什么骗术。。</a></td>
-            </tr>
-            
-            <tr>
-                <td>20</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/194946">诚衣的免费 T 恤</a></td>
-            </tr>
-            
         </table>
 </body>

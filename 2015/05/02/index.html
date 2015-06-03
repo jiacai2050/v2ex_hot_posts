@@ -4,6 +4,7 @@
         <title>V2EX 2015/05/02热帖</title>
         <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
         <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
         <script>
             var _hmt = _hmt || [];
             (function() {
@@ -12,6 +13,31 @@
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/05/02");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
         </script>
 
         
@@ -93,5 +119,17 @@
                 <td><a target="_blank" href="http://www.v2ex.com/t/188006">360 杀毒宣布退出 AV-C</a></td>
             </tr>
             
+            <tr>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
+            </tr>
         </table>
 </body>

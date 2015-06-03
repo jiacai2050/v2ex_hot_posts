@@ -4,6 +4,7 @@
         <title>V2EX 2015/05/31热帖</title>
         <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
         <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
         <script>
             var _hmt = _hmt || [];
             (function() {
@@ -12,6 +13,31 @@
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/05/31");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
         </script>
 
         
@@ -34,11 +60,6 @@
 
             
             <tr>
-                <td>288</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/195015">@Livid 先生 30 岁生日快乐！</a></td>
-            </tr>
-            
-            <tr>
                 <td>138</td>
                 <td><a target="_blank" href="http://www.v2ex.com/t/195280">技术总监还要用 svn，大家怎么看？</a></td>
             </tr>
@@ -49,8 +70,8 @@
             </tr>
             
             <tr>
-                <td>81</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/195162">煎蛋被扒站这事大家怎么看？</a></td>
+                <td>72</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/195015">@Livid 先生 30 岁生日快乐！</a></td>
             </tr>
             
             <tr>
@@ -69,18 +90,8 @@
             </tr>
             
             <tr>
-                <td>64</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/195081">奉劝要看《哆啦 A 梦：伴我同行》的，准备好足够的纸巾</a></td>
-            </tr>
-            
-            <tr>
                 <td>61</td>
                 <td><a target="_blank" href="http://www.v2ex.com/t/195052">阿里在知乎上又被爆料了</a></td>
-            </tr>
-            
-            <tr>
-                <td>58</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/195132">Win10 用户在哪里？</a></td>
             </tr>
             
             <tr>
@@ -104,11 +115,6 @@
             </tr>
             
             <tr>
-                <td>47</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/195112">发现了一个很浪漫的网站！！！</a></td>
-            </tr>
-            
-            <tr>
                 <td>46</td>
                 <td><a target="_blank" href="http://www.v2ex.com/t/195328">来来来，谁来帮我分析一下女票的想法。</a></td>
             </tr>
@@ -129,9 +135,16 @@
             </tr>
             
             <tr>
-                <td>35</td>
-                <td><a target="_blank" href="http://www.v2ex.com/t/195110">预算 1k，面向客户为大陆用户，速度要求不高，只要稳定，请问 linode 是最好的选择吗？</a></td>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
             </tr>
-            
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
+            </tr>
         </table>
 </body>
