@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <meta charset="utf8"/>
+        <title>V2EX 2015/06/05热帖</title>
+        <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
+        <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "//hm.baidu.com/hm.js?44705b87ac3ece362fddcbcd2774c067";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/06/05");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
+        </script>
+
+        
+    </head>
+
+    <body background="/bg.gif">
+        <a href="https://github.com/jiacai2050/v2ex_hot_posts"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/c6625ac1f3ee0a12250227cf83ce904423abf351/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_gray_6d6d6d.png"></a>
+        <h1 align="center">
+            2015/06/05热帖
+        </h1>
+        <table border="1" align="center">
+            <tr>
+                <th>
+                    回贴数
+                </th>
+                <th>
+                     题目
+                </th>
+            </tr>
+
+            
+            <tr>
+                <td>463</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196193">对 V2EX 提出抗议！</a></td>
+            </tr>
+            
+            <tr>
+                <td>83</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196195">网站在线运行代码</a></td>
+            </tr>
+            
+            <tr>
+                <td>66</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196208">有多少“命令行狂热者” 没装桌面系统的？</a></td>
+            </tr>
+            
+            <tr>
+                <td>63</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196207">20150605 午夜俱乐部</a></td>
+            </tr>
+            
+            <tr>
+                <td>62</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196218">各位对 LeanCloud 这样的透明薪酬体系怎么看？</a></td>
+            </tr>
+            
+            <tr>
+                <td>47</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196257">Google Photo 不是说好的无限空间么? 给我限制到 2PB 是啥意思 [doge]</a></td>
+            </tr>
+            
+            <tr>
+                <td>46</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196216">陈述一段在北京东城区苏州胡同某创业团队的经历</a></td>
+            </tr>
+            
+            <tr>
+                <td>46</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196285">奔三之际，任性一把 ——从华为南研所裸辞后的一些体会和感想</a></td>
+            </tr>
+            
+            <tr>
+                <td>37</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196231">纯 HTML 网页会泄露源站 IP 吗</a></td>
+            </tr>
+            
+            <tr>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
+            </tr>
+        </table>
+</body>
