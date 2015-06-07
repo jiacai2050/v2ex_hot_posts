@@ -1,0 +1,452 @@
+[
+    {
+        "id": 196285,
+        "title": "奔三之际，任性一把 ——从华为南研所裸辞后的一些体会和感想",
+        "url": "http://www.v2ex.com/t/196285",
+        "content": "“国际惯例”有一阵子了，最近尚算清闲，写写裸辞后的一些体会和感想。\r\n\r\n \r\n＊关于离开＊\r\n \r\n\r\n知乎上“你为什么从腾讯离职”、“你为什么从百度离职”这类话题长盛不衰，华为的话题下，也有这样的讨论。不同公司、不同部门乃至不同的人，从某种程度上来说，无论是来是去都有相似的缘由，参与的人多了，免不了抱怨、吐槽，于事无补，于人无益。\r\n\r\n我的离开，有长期出差几乎只有法定节假日才能回家这样的因素在，但最关键的一点还是工作本身。2011年社招进来，从Java+Flex开发到MDE，再后来转SE，在华为来说，这个节奏不算多快但也不算慢，走得挺稳当，与领导、同事相处也很融洽。也许，就这么一直走下去，人生也不会太差。\r\n\r\n只是，渐渐会有一些不安，得空反思，发觉自己在做的这些事于个人成长而言价值不大。\r\n\r\n人太浮于事，如同浮萍，随波逐荡。\r\n\r\n \r\n今年年初，决心离开南研所，并离开南京这座城市。\r\n\r\n正如离开南研所去了Amazon的一个兄弟说的那样，南京太小，圈子太小，视野太小。华为南研所只是南京雨花区软件大道上的那么一块园区，但对于一部分人而言，南京所能给你的，比南研所还要少。\r\n\r\n这番话说出来有些沉痛，我2004年到南京，读书、恋爱、工作、生活，已十年有余，说南京是第二故乡也不为过，因此这一次离开，是经过了深思熟虑的决定，虽有依恋，但走得义无反顾。\r\n\r\n\r\n＊走出华为才知道的一些坑＊\r\n\r\n\r\n真正关心你为什么从华为离职的人，往往都是那些打算进华为的人；\r\n\r\n打算离开华为的人，更关心离开华为后你去了哪里，去的路上有什么坑。\r\n\r\n我来说说这些坑。\r\n\r\n \r\n第一个坑，其实是在华为挖下的，而且很大。就是上文提到的，个人修为不够精深。不过这个问题不能全赖华为，你选了大平台就要相应地承担它带给你的副作用。BAT的一些同学也有相似的烦恼，还有360，接触过360出来的混子，我想他们进360的时候绝不是立志要做个混子吧。\r\n\r\n第二个坑是部分企业“拿来即用”的用人理念。华为的系统工程师与互联网公司所定义的架构师区别很大，因此很难沿着架构师这个Title继续走，我尝试着投过阿里的相关岗位，面试时发现能力差距还是比较明显的。\r\n\r\n但从需求分析、产品设计、敏捷项目管理等方面来说，与大部分互联网公司产品岗的定位相符。然而由于以往做的不是纯互联网产品，有的公司不愿意承担这样的用人风险，简单来说，就是华为出身，跨领域找工作并不见得那么好找。\r\n\r\n在脉脉上我曾发过一条实名动态，引起了不少求职者的共鸣：“太多的招聘方过多地关注求职者曾经是什么，而忽略了未来能成为什么”。\r\n\r\n其实一个人如果在某个领域做得可圈可点，在相近意义的事情上，通常都会做得不错，甚至更大范围的事情上，也值得托付。\r\n\r\n \r\n还有一个说大不大说小不小的坑，之前在心声有写过：华为的信息安全很牛X，但是导致开发氛围比较沉寂，与外部隔绝。很多互联网公司要求看你的技术文章，Github代码、Stackoverflow/邮件组/Quora/SegmentFault等网站的活跃度及回答，我除了个人博客（说得好像经常更似的），其它平台都没有深入过，大家引以为戒。\r\n\r\n\r\n＊正确求职的姿势＊\r\n\r\n \r\n传统招聘网站（51job、智联）：招聘信息相对齐全，全行业、大小公司都有，没有针对性，对于求职者信息筛选的成本比较高。\r\n我一般是用来检验简历修改的效果，刷新后看有没有用人单位主动联系，时间宽裕时也会给中意的企业投递简历试试。\r\n\r\n\r\n猎头网站（猎聘网）：主要有猎头岗位、企业岗位，也在做高端职位的招聘，猎头水平参差不齐，而且发布的岗位有重复、待遇虚报。\r\n我一般只看企业发布的岗位，没有精力为猎头们提供陪聊服务。\r\n\r\n \r\n互联网招聘（拉勾、内推）：垂直招聘，信息获取便捷，但企业覆盖不够全面，有些岗位搜索不到。\r\n\r\n个人建议还是直接找目标公司的内部人员推荐，直达用人部门，靠谱系数最高，可以避免被HR误下杀手。\r\n\r\n \r\n人才竞拍（100offer）：角色反转，求职者发布简历，企业向求职者发起面试邀请。主导权握在自己手里的感觉，挺好！\r\n\r\n虽然主要服务对象是中高端程序员，我也还是去体验了一把，一周内接到6个企业邀请，待遇相对比较好，企业实力也都不错。\r\n\r\n此外，100offer提供面试接送（Uber——接我的是Passat）、入职奖金（3K——据说成功入职就有，可惜我没拿到），壕气侧漏！建议体验下～\r\n\r\n \r\n\r\n＊最后，扯点闲话＊\r\n\r\n \r\n08年大学毕业，迄今七年，共有两份工作经历，都在大公司。从一般意义上来说，步伐稳健，但两次辞职，都是裸辞，并且空窗期都留得相对较长，用来旅行和学习。工作上的很多事情往往没有时间和能量去做到精益求精，譬如我会用jQuery，它简洁、高效，但我并不知道为何可以这样；再如HashMap、HashTable主要区别在于线程安全与否，但原理是什么我还不清楚……因为这些，感觉自己像个破筛子一样，有许多窟窿，正好趁此机会补补。不过裸辞并不是一件值得学习的事，一方面，外面的机会不像想象中的那么多那么好；另一方面，人一旦舒舒服服窝在家里，勤奋程度与学习效率都有所折减，这是天性。\r\n\r\n最后的最后，说句题外话，有人说，在华为加班的人分两种，一种是真傻，一种是狡猾。无论在哪里，不管是事的原因还是体制的原因，如果不得不加班，真傻好过狡猾，于人于己都是如此。",
+        "content_rendered": "“国际惯例”有一阵子了，最近尚算清闲，写写裸辞后的一些体会和感想。\r<br />\r<br /> \r<br />＊关于离开＊\r<br /> \r<br />\r<br />知乎上“你为什么从腾讯离职”、“你为什么从百度离职”这类话题长盛不衰，华为的话题下，也有这样的讨论。不同公司、不同部门乃至不同的人，从某种程度上来说，无论是来是去都有相似的缘由，参与的人多了，免不了抱怨、吐槽，于事无补，于人无益。\r<br />\r<br />我的离开，有长期出差几乎只有法定节假日才能回家这样的因素在，但最关键的一点还是工作本身。2011年社招进来，从Java+Flex开发到MDE，再后来转SE，在华为来说，这个节奏不算多快但也不算慢，走得挺稳当，与领导、同事相处也很融洽。也许，就这么一直走下去，人生也不会太差。\r<br />\r<br />只是，渐渐会有一些不安，得空反思，发觉自己在做的这些事于个人成长而言价值不大。\r<br />\r<br />人太浮于事，如同浮萍，随波逐荡。\r<br />\r<br /> \r<br />今年年初，决心离开南研所，并离开南京这座城市。\r<br />\r<br />正如离开南研所去了Amazon的一个兄弟说的那样，南京太小，圈子太小，视野太小。华为南研所只是南京雨花区软件大道上的那么一块园区，但对于一部分人而言，南京所能给你的，比南研所还要少。\r<br />\r<br />这番话说出来有些沉痛，我2004年到南京，读书、恋爱、工作、生活，已十年有余，说南京是第二故乡也不为过，因此这一次离开，是经过了深思熟虑的决定，虽有依恋，但走得义无反顾。\r<br />\r<br />\r<br />＊走出华为才知道的一些坑＊\r<br />\r<br />\r<br />真正关心你为什么从华为离职的人，往往都是那些打算进华为的人；\r<br />\r<br />打算离开华为的人，更关心离开华为后你去了哪里，去的路上有什么坑。\r<br />\r<br />我来说说这些坑。\r<br />\r<br /> \r<br />第一个坑，其实是在华为挖下的，而且很大。就是上文提到的，个人修为不够精深。不过这个问题不能全赖华为，你选了大平台就要相应地承担它带给你的副作用。BAT的一些同学也有相似的烦恼，还有360，接触过360出来的混子，我想他们进360的时候绝不是立志要做个混子吧。\r<br />\r<br />第二个坑是部分企业“拿来即用”的用人理念。华为的系统工程师与互联网公司所定义的架构师区别很大，因此很难沿着架构师这个Title继续走，我尝试着投过阿里的相关岗位，面试时发现能力差距还是比较明显的。\r<br />\r<br />但从需求分析、产品设计、敏捷项目管理等方面来说，与大部分互联网公司产品岗的定位相符。然而由于以往做的不是纯互联网产品，有的公司不愿意承担这样的用人风险，简单来说，就是华为出身，跨领域找工作并不见得那么好找。\r<br />\r<br />在脉脉上我曾发过一条实名动态，引起了不少求职者的共鸣：“太多的招聘方过多地关注求职者曾经是什么，而忽略了未来能成为什么”。\r<br />\r<br />其实一个人如果在某个领域做得可圈可点，在相近意义的事情上，通常都会做得不错，甚至更大范围的事情上，也值得托付。\r<br />\r<br /> \r<br />还有一个说大不大说小不小的坑，之前在心声有写过：华为的信息安全很牛X，但是导致开发氛围比较沉寂，与外部隔绝。很多互联网公司要求看你的技术文章，Github代码、Stackoverflow/邮件组/Quora/SegmentFault等网站的活跃度及回答，我除了个人博客（说得好像经常更似的），其它平台都没有深入过，大家引以为戒。\r<br />\r<br />\r<br />＊正确求职的姿势＊\r<br />\r<br /> \r<br />传统招聘网站（51job、智联）：招聘信息相对齐全，全行业、大小公司都有，没有针对性，对于求职者信息筛选的成本比较高。\r<br />我一般是用来检验简历修改的效果，刷新后看有没有用人单位主动联系，时间宽裕时也会给中意的企业投递简历试试。\r<br />\r<br />\r<br />猎头网站（猎聘网）：主要有猎头岗位、企业岗位，也在做高端职位的招聘，猎头水平参差不齐，而且发布的岗位有重复、待遇虚报。\r<br />我一般只看企业发布的岗位，没有精力为猎头们提供陪聊服务。\r<br />\r<br /> \r<br />互联网招聘（拉勾、内推）：垂直招聘，信息获取便捷，但企业覆盖不够全面，有些岗位搜索不到。\r<br />\r<br />个人建议还是直接找目标公司的内部人员推荐，直达用人部门，靠谱系数最高，可以避免被HR误下杀手。\r<br />\r<br /> \r<br />人才竞拍（100offer）：角色反转，求职者发布简历，企业向求职者发起面试邀请。主导权握在自己手里的感觉，挺好！\r<br />\r<br />虽然主要服务对象是中高端程序员，我也还是去体验了一把，一周内接到6个企业邀请，待遇相对比较好，企业实力也都不错。\r<br />\r<br />此外，100offer提供面试接送（Uber——接我的是Passat）、入职奖金（3K——据说成功入职就有，可惜我没拿到），壕气侧漏！建议体验下～\r<br />\r<br /> \r<br />\r<br />＊最后，扯点闲话＊\r<br />\r<br /> \r<br />08年大学毕业，迄今七年，共有两份工作经历，都在大公司。从一般意义上来说，步伐稳健，但两次辞职，都是裸辞，并且空窗期都留得相对较长，用来旅行和学习。工作上的很多事情往往没有时间和能量去做到精益求精，譬如我会用jQuery，它简洁、高效，但我并不知道为何可以这样；再如HashMap、HashTable主要区别在于线程安全与否，但原理是什么我还不清楚……因为这些，感觉自己像个破筛子一样，有许多窟窿，正好趁此机会补补。不过裸辞并不是一件值得学习的事，一方面，外面的机会不像想象中的那么多那么好；另一方面，人一旦舒舒服服窝在家里，勤奋程度与学习效率都有所折减，这是天性。\r<br />\r<br />最后的最后，说句题外话，有人说，在华为加班的人分两种，一种是真傻，一种是狡猾。无论在哪里，不管是事的原因还是体制的原因，如果不得不加班，真傻好过狡猾，于人于己都是如此。",
+        "replies": 67,
+        "member": {
+            "id": 89822,
+            "username": "vanvesee",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/6647/331f/89822_mini.png?m=1433474452",
+            "avatar_normal": "//cdn.v2ex.co/avatar/6647/331f/89822_normal.png?m=1433474452",
+            "avatar_large": "//cdn.v2ex.co/avatar/6647/331f/89822_large.png?m=1433474452"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 504,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433474672,
+        "last_modified": 1433474672,
+        "last_touched": 1433524540
+    },
+    {
+        "id": 196436,
+        "title": "程序员人际交往真是难题！:dege:",
+        "url": "http://www.v2ex.com/t/196436",
+        "content": "为什么发在问与答呢，因为确实是很好奇。为什么你们这些程序员那么会吹牛打屁。而我只能做个冷漠的肥宅。",
+        "content_rendered": "为什么发在问与答呢，因为确实是很好奇。为什么你们这些程序员那么会吹牛打屁。而我只能做个冷漠的肥宅。",
+        "replies": 65,
+        "member": {
+            "id": 21760,
+            "username": "silvernoo",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/2169/a2cc/21760_mini.png?m=1430664694",
+            "avatar_normal": "//cdn.v2ex.co/avatar/2169/a2cc/21760_normal.png?m=1430664694",
+            "avatar_large": "//cdn.v2ex.co/avatar/2169/a2cc/21760_large.png?m=1430664694"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50708,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1433516602,
+        "last_modified": 1433516889,
+        "last_touched": 1433536695
+    },
+    {
+        "id": 196257,
+        "title": "Google Photo 不是说好的无限空间么? 给我限制到 2PB 是啥意思 [doge]",
+        "url": "http://www.v2ex.com/t/196257",
+        "content": "http://ww2.sinaimg.cn/large/8f17ffccgw1essb5d2gjfg200m00m741.gif\r\nhttp://ww2.sinaimg.cn/large/8f17ffccgw1essb5d2gjfg200m00m741.gif\r\nhttp://ww2.sinaimg.cn/large/8f17ffccgw1essb5d2gjfg200m00m741.gif\r\nhttp://ww2.sinaimg.cn/large/8f17ffccgw1essb5d2gjfg200m00m741.gif\r\nhttp://i.imgur.com/Ipqb6IS.png",
+        "content_rendered": "<img src=\"http://ww2.sinaimg.cn/large/8f17ffccgw1essb5d2gjfg200m00m741.gif\" class=\"imgly\" style=\"max-width: 660px;\" border=\"0\" /> \r<br /><img src=\"http://ww2.sinaimg.cn/large/8f17ffccgw1essb5d2gjfg200m00m741.gif\" class=\"imgly\" style=\"max-width: 660px;\" border=\"0\" /> \r<br /><img src=\"http://ww2.sinaimg.cn/large/8f17ffccgw1essb5d2gjfg200m00m741.gif\" class=\"imgly\" style=\"max-width: 660px;\" border=\"0\" /> \r<br /><img src=\"http://ww2.sinaimg.cn/large/8f17ffccgw1essb5d2gjfg200m00m741.gif\" class=\"imgly\" style=\"max-width: 660px;\" border=\"0\" /> \r<br /><a target=\"_blank\" href=\"http://i.imgur.com/Ipqb6IS.png\" target=\"_blank\"><img src=\"http://i.imgur.com/Ipqb6IS.png\" border=\"0\" style=\"max-width: 660px;\" class=\"imgly\" /></a>",
+        "replies": 57,
+        "member": {
+            "id": 99979,
+            "username": "exit",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/82428a5261767272fd295fffc4744290?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/82428a5261767272fd295fffc4744290?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/82428a5261767272fd295fffc4744290?s=73&d=retro"
+        },
+        "node": {
+            "id": 65,
+            "name": "google",
+            "title": "Google",
+            "title_alternative": "Google",
+            "url": "http://www.v2ex.com/go/google",
+            "topics": 1085,
+            "avatar_mini": "//cdn.v2ex.co/navatar/fc49/0ca4/65_mini.png?m=1405233616",
+            "avatar_normal": "//cdn.v2ex.co/navatar/fc49/0ca4/65_normal.png?m=1405233616",
+            "avatar_large": "//cdn.v2ex.co/navatar/fc49/0ca4/65_large.png?m=1405233616"
+        },
+        "created": 1433471086,
+        "last_modified": 1433471086,
+        "last_touched": 1433521786
+    },
+    {
+        "id": 196365,
+        "title": "不到百元的 WiFi 小车，可以 Lua 云端编程",
+        "url": "http://www.v2ex.com/t/196365",
+        "content": "视频介绍：\r\n小车当热点：\r\nhttp://player.youku.com/player.php/sid/XOTU4NTUwNzky/v.swf\r\n远程控制：\r\nhttp://player.youku.com/player.php/sid/XOTU4NjAxNDA4/v.swf\r\n\r\n小车包括：NodeMcu的核心板+扩展板+小车底盘\r\n可以进行云端编程：\r\nhttp://bbs.doit.am/forum.php?mod=viewthread&tid=46&extra=page%3D1\r\n\r\n公司介绍： http://www.doit.am\r\n购买链接：\r\nhttp://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-1811579830.12.5JQ9Ek&id=45464292620\r\n客服QQ：114209716",
+        "content_rendered": "<p>视频介绍：<br>\n小车当热点：<br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://player.youku.com/player.php/sid/XOTU4NTUwNzky/v.swf\">http://player.youku.com/player.php/sid/XOTU4NTUwNzky/v.swf</a><br>\n远程控制：<br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://player.youku.com/player.php/sid/XOTU4NjAxNDA4/v.swf\">http://player.youku.com/player.php/sid/XOTU4NjAxNDA4/v.swf</a></p>\n\n<p>小车包括：NodeMcu的核心板+扩展板+小车底盘<br>\n可以进行云端编程：<br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://bbs.doit.am/forum.php?mod=viewthread&amp;tid=46&amp;extra=page%3D1\">http://bbs.doit.am/forum.php?mod=viewthread&amp;tid=46&amp;extra=page%3D1</a></p>\n\n<p>公司介绍： <a target=\"_blank\" rel=\"nofollow\" href=\"http://www.doit.am\">http://www.doit.am</a><br>\n购买链接：<br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-1811579830.12.5JQ9Ek&amp;id=45464292620\">http://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-1811579830.12.5JQ9Ek&amp;id=45464292620</a><br>\n客服QQ：114209716</p>\n",
+        "replies": 43,
+        "member": {
+            "id": 23618,
+            "username": "liqinliqin",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/80d4/c0e3/23618_mini.png?m=1347417410",
+            "avatar_normal": "//cdn.v2ex.co/avatar/80d4/c0e3/23618_normal.png?m=1347417410",
+            "avatar_large": "//cdn.v2ex.co/avatar/80d4/c0e3/23618_large.png?m=1347417410"
+        },
+        "node": {
+            "id": 17,
+            "name": "create",
+            "title": "分享创造",
+            "title_alternative": "Create",
+            "url": "http://www.v2ex.com/go/create",
+            "topics": 3954,
+            "avatar_mini": "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1433388902",
+            "avatar_normal": "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1433388902",
+            "avatar_large": "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1433388902"
+        },
+        "created": 1433494933,
+        "last_modified": 1433495283,
+        "last_touched": 1433531554
+    },
+    {
+        "id": 196231,
+        "title": "纯 HTML 网页会泄露源站 IP 吗",
+        "url": "http://www.v2ex.com/t/196231",
+        "content": "开了网宿CDN，一个服务器上就跑了一个纯静态的网页，然后昨晚被DDoS了。直接打在源站上，请问会是什么原因泄露的？\r\nhttps://image.andy1999.com/image.php?di=MU5L",
+        "content_rendered": "开了网宿CDN，一个服务器上就跑了一个纯静态的网页，然后昨晚被DDoS了。直接打在源站上，请问会是什么原因泄露的？\r<br /><a target=\"_blank\" href=\"https://image.andy1999.com/image.php?di=MU5L\" rel=\"nofollow\">https://image.andy1999.com/image.php?di=MU5L</a>",
+        "replies": 42,
+        "member": {
+            "id": 99470,
+            "username": "Andy1999",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=73&d=retro"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50708,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1433464304,
+        "last_modified": 1433464304,
+        "last_touched": 1433527226
+    },
+    {
+        "id": 196301,
+        "title": "去泰国普吉岛缺一个人要补 2000 差价求解救",
+        "url": "http://www.v2ex.com/t/196301",
+        "content": "坐标成都，天府软件园。公司组织去泰国普吉岛玩，时间为19号到24号。团已经组建好了，2800纯玩团无购物。宾馆是双人间。\r\n\r\n其他都是一对一对的，就我一个人。狗B黑心旅行社不准打地铺，不准开单间。一个人还是只能住标间，但是要补2000差价。。。。。旅行社里面其他不认识的人都是一对一对的，连拼房都没有办法。\r\n\r\n求解救。\r\n\r\n解救方式随意，可以给一个有效的举报旅行社的办法，或者各位想去的也可以联系我。",
+        "content_rendered": "坐标成都，天府软件园。公司组织去泰国普吉岛玩，时间为19号到24号。团已经组建好了，2800纯玩团无购物。宾馆是双人间。\r<br />\r<br />其他都是一对一对的，就我一个人。狗B黑心旅行社不准打地铺，不准开单间。一个人还是只能住标间，但是要补2000差价。。。。。旅行社里面其他不认识的人都是一对一对的，连拼房都没有办法。\r<br />\r<br />求解救。\r<br />\r<br />解救方式随意，可以给一个有效的举报旅行社的办法，或者各位想去的也可以联系我。",
+        "replies": 34,
+        "member": {
+            "id": 93871,
+            "username": "kingname",
+            "tagline": "给时光以生命。",
+            "avatar_mini": "//cdn.v2ex.co/avatar/d1ef/a44d/93871_mini.png?m=1422257751",
+            "avatar_normal": "//cdn.v2ex.co/avatar/d1ef/a44d/93871_normal.png?m=1422257751",
+            "avatar_large": "//cdn.v2ex.co/avatar/d1ef/a44d/93871_large.png?m=1422257751"
+        },
+        "node": {
+            "id": 30,
+            "name": "chengdu",
+            "title": "成都",
+            "title_alternative": "Chengdu",
+            "url": "http://www.v2ex.com/go/chengdu",
+            "topics": 159,
+            "avatar_mini": "/static/img/node_mini.png",
+            "avatar_normal": "/static/img/node_normal.png",
+            "avatar_large": "/static/img/node_large.png"
+        },
+        "created": 1433477093,
+        "last_modified": 1433477145,
+        "last_touched": 1433499512
+    },
+    {
+        "id": 196337,
+        "title": "此时的 Telegram 似乎是停止服务了",
+        "url": "http://www.v2ex.com/t/196337",
+        "content": "15:05 GMT+8",
+        "content_rendered": "<p>15:05 GMT+8</p>\n",
+        "replies": 31,
+        "member": {
+            "id": 43045,
+            "username": "orancho",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/7c2f86334c4d0fb651ddb84e87d84e4b?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/7c2f86334c4d0fb651ddb84e87d84e4b?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/7c2f86334c4d0fb651ddb84e87d84e4b?s=73&d=retro"
+        },
+        "node": {
+            "id": 836,
+            "name": "telegram",
+            "title": "Telegram",
+            "title_alternative": "Telegram",
+            "url": "http://www.v2ex.com/go/telegram",
+            "topics": 24,
+            "avatar_mini": "//cdn.v2ex.co/navatar/ab88/b157/836_mini.png?m=1425209312",
+            "avatar_normal": "//cdn.v2ex.co/navatar/ab88/b157/836_normal.png?m=1425209312",
+            "avatar_large": "//cdn.v2ex.co/navatar/ab88/b157/836_large.png?m=1425209312"
+        },
+        "created": 1433487940,
+        "last_modified": 1433488984,
+        "last_touched": 1433511523
+    },
+    {
+        "id": 196268,
+        "title": "在 OSX 下使用 2K 显示器的正确姿势是？",
+        "url": "http://www.v2ex.com/t/196268",
+        "content": "买了台DELL P2416，分辨率是2560x1440，外接Mac使用时，字体实在太小了，切换到Hi-Res模式后，相当于把分辨率降到了720P，又觉得有些大。\r\n\r\n我几年前使用U3011时，也没有觉得字小呀，难道是我使用的姿势不对？",
+        "content_rendered": "买了台DELL P2416，分辨率是2560x1440，外接Mac使用时，字体实在太小了，切换到Hi-Res模式后，相当于把分辨率降到了720P，又觉得有些大。\r<br />\r<br />我几年前使用U3011时，也没有觉得字小呀，难道是我使用的姿势不对？",
+        "replies": 29,
+        "member": {
+            "id": 16479,
+            "username": "XuanYuan",
+            "tagline": "不是忙于生计，就是赶着去死。",
+            "avatar_mini": "//cdn.v2ex.co/avatar/2539/7b4a/16479_mini.png?m=1430378115",
+            "avatar_normal": "//cdn.v2ex.co/avatar/2539/7b4a/16479_normal.png?m=1430378115",
+            "avatar_large": "//cdn.v2ex.co/avatar/2539/7b4a/16479_large.png?m=1430378115"
+        },
+        "node": {
+            "id": 22,
+            "name": "macosx",
+            "title": "Mac OS X",
+            "title_alternative": "Mac OS X",
+            "url": "http://www.v2ex.com/go/macosx",
+            "topics": 5974,
+            "avatar_mini": "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1433389146",
+            "avatar_normal": "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1433389146",
+            "avatar_large": "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1433389146"
+        },
+        "created": 1433472356,
+        "last_modified": 1433472356,
+        "last_touched": 1433522793
+    },
+    {
+        "id": 196401,
+        "title": "如果给出的是另一个网站，会不会结果不同？",
+        "url": "http://www.v2ex.com/t/196401",
+        "content": "当然，对于有神论无神论个人没有太大兴趣讨论。\r\n那篇热门帖子下面喷LZ的人，说了半天绝大多数只是针对LZ发表内容的“观点”进行攻击，而对LZ提出的“自己正当诉求”直接视而不见。\r\n\r\n那么那群拿着“这里是技术社区，不适合发这些内容”的人，如果那个LZ发的链接是一个“领红包”的链接，然后被管理员取消置顶后，不知道还会不会继续骂？毕竟这个红包也和“技术社区”没有啥关系啊。",
+        "content_rendered": "当然，对于有神论无神论个人没有太大兴趣讨论。\r<br />那篇热门帖子下面喷LZ的人，说了半天绝大多数只是针对LZ发表内容的“观点”进行攻击，而对LZ提出的“自己正当诉求”直接视而不见。\r<br />\r<br />那么那群拿着“这里是技术社区，不适合发这些内容”的人，如果那个LZ发的链接是一个“领红包”的链接，然后被管理员取消置顶后，不知道还会不会继续骂？毕竟这个红包也和“技术社区”没有啥关系啊。",
+        "replies": 28,
+        "member": {
+            "id": 17234,
+            "username": "breestealth",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/6a40/c7d8/17234_mini.png?m=1353718632",
+            "avatar_normal": "//cdn.v2ex.co/avatar/6a40/c7d8/17234_normal.png?m=1353718632",
+            "avatar_large": "//cdn.v2ex.co/avatar/6a40/c7d8/17234_large.png?m=1353718632"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50708,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1433505675,
+        "last_modified": 1433505675,
+        "last_touched": 1433526440
+    },
+    {
+        "id": 196193,
+        "title": "对 V2EX 提出抗议！",
+        "url": "http://www.v2ex.com/t/196193",
+        "content": "一年前，我通过支付宝，向V2EX支付费用成为付费会员 http://v2ex.com/balance/add/alipay\r\nhttp://v2ex.com/t/130150#reply1\r\n一年后，我行使自己的会员权利，置顶自己认为可以分享的信息，被多次已出置顶\r\n\r\n我认为管理员这个行为严重侵犯了我的会员权利，希望大家来评评理！",
+        "content_rendered": "一年前，我通过支付宝，向V2EX支付费用成为付费会员 <a target=\"_blank\" href=\"http://v2ex.com/balance/add/alipay\" rel=\"nofollow\">http://v2ex.com/balance/add/alipay</a>\r<br /><a target=\"_blank\" href=\"http://v2ex.com/t/130150#reply1\" rel=\"nofollow\">http://v2ex.com/t/130150#reply1</a>\r<br />一年后，我行使自己的会员权利，置顶自己认为可以分享的信息，被多次已出置顶\r<br />\r<br />我认为管理员这个行为严重侵犯了我的会员权利，希望大家来评评理！",
+        "replies": 463,
+        "member": {
+            "id": 7606,
+            "username": "xiaop",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/a8ac/c287/7606_mini.png?m=1356333080",
+            "avatar_normal": "//cdn.v2ex.co/avatar/a8ac/c287/7606_normal.png?m=1356333080",
+            "avatar_large": "//cdn.v2ex.co/avatar/a8ac/c287/7606_large.png?m=1356333080"
+        },
+        "node": {
+            "id": 2,
+            "name": "v2ex",
+            "title": "V2EX",
+            "title_alternative": "V2EX",
+            "url": "http://www.v2ex.com/go/v2ex",
+            "topics": 2423,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c81e/728d/2_mini.png?m=1432284545",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c81e/728d/2_normal.png?m=1432284545",
+            "avatar_large": "//cdn.v2ex.co/navatar/c81e/728d/2_large.png?m=1432284545"
+        },
+        "created": 1433428237,
+        "last_modified": 1433431365,
+        "last_touched": 1433502356
+    },
+    {
+        "id": 196195,
+        "title": "网站在线运行代码",
+        "url": "http://www.v2ex.com/t/196195",
+        "content": "像 http://zh.scala-tour.com/ 这样的网站，他们的代码直接在服务器上运行然后返还结果吗？还是在什么沙箱或虚拟机里运行。\r\n\r\n如果在服务器上运行，是不是我在他的代码框里执行以下代码就可以把它的进程给杀了。。。\r\nval rt:Runtime = Runtime.getRuntime();\r\nval p:Process = rt.exec(\"kill n\");",
+        "content_rendered": "<p>像 <a target=\"_blank\" rel=\"nofollow\" href=\"http://zh.scala-tour.com/\">http://zh.scala-tour.com/</a> 这样的网站，他们的代码直接在服务器上运行然后返还结果吗？还是在什么沙箱或虚拟机里运行。</p>\n\n<p>如果在服务器上运行，是不是我在他的代码框里执行以下代码就可以把它的进程给杀了。。。<br>\nval rt:Runtime = Runtime.getRuntime();<br>\nval p:Process = rt.exec(&quot;kill n&quot;);</p>\n",
+        "replies": 83,
+        "member": {
+            "id": 103107,
+            "username": "hellomsg",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/d947e2986e8b68d20c41b10d649a95a1?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/d947e2986e8b68d20c41b10d649a95a1?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/d947e2986e8b68d20c41b10d649a95a1?s=73&d=retro"
+        },
+        "node": {
+            "id": 63,
+            "name": "java",
+            "title": "Java",
+            "title_alternative": "Java",
+            "url": "http://www.v2ex.com/go/java",
+            "topics": 245,
+            "avatar_mini": "//cdn.v2ex.co/navatar/03af/dbd6/63_mini.png?m=1433335519",
+            "avatar_normal": "//cdn.v2ex.co/navatar/03af/dbd6/63_normal.png?m=1433335519",
+            "avatar_large": "//cdn.v2ex.co/navatar/03af/dbd6/63_large.png?m=1433335519"
+        },
+        "created": 1433429899,
+        "last_modified": 1433430191,
+        "last_touched": 1433502006
+    },
+    {
+        "id": 196208,
+        "title": "有多少“命令行狂热者” 没装桌面系统的？",
+        "url": "http://www.v2ex.com/t/196208",
+        "content": "今天装了 Alpine Linux ，开始还挺兴奋，后来对着黑黑的命令行，也觉得有点枯燥了！有木有……\r\n\r\n不要笑我\r\n\r\n这里有对命令行狂热到不装桌面系统的么？哇咔咔",
+        "content_rendered": "今天装了 Alpine Linux ，开始还挺兴奋，后来对着黑黑的命令行，也觉得有点枯燥了！有木有……\r<br />\r<br />不要笑我\r<br />\r<br />这里有对命令行狂热到不装桌面系统的么？哇咔咔",
+        "replies": 66,
+        "member": {
+            "id": 116441,
+            "username": "Linusyeung",
+            "tagline": "自由和安全难两全？",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/ed1c72396f3d8b6eda460899bcf919ad?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/ed1c72396f3d8b6eda460899bcf919ad?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/ed1c72396f3d8b6eda460899bcf919ad?s=73&d=retro"
+        },
+        "node": {
+            "id": 11,
+            "name": "linux",
+            "title": "Linux",
+            "title_alternative": "Linux",
+            "url": "http://www.v2ex.com/go/linux",
+            "topics": 1693,
+            "avatar_mini": "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1433335168",
+            "avatar_normal": "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1433335168",
+            "avatar_large": "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1433335168"
+        },
+        "created": 1433433399,
+        "last_modified": 1433433399,
+        "last_touched": 1433501879
+    },
+    {
+        "id": 196207,
+        "title": "20150605 午夜俱乐部",
+        "url": "http://www.v2ex.com/t/196207",
+        "content": "有点想买AKG K323。\r\n_(:з」∠)_",
+        "content_rendered": "有点想买AKG K323。\r<br />_(:з」∠)_",
+        "replies": 63,
+        "member": {
+            "id": 93120,
+            "username": "constance",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/b16f/ab97/93120_mini.png?m=1429701878",
+            "avatar_normal": "//cdn.v2ex.co/avatar/b16f/ab97/93120_normal.png?m=1429701878",
+            "avatar_large": "//cdn.v2ex.co/avatar/b16f/ab97/93120_large.png?m=1429701878"
+        },
+        "node": {
+            "id": 286,
+            "name": "afterdark",
+            "title": "天黑以后",
+            "title_alternative": "After Dark",
+            "url": "http://www.v2ex.com/go/afterdark",
+            "topics": 1534,
+            "avatar_mini": "//cdn.v2ex.co/navatar/16a5/cdae/286_mini.png?m=1430514985",
+            "avatar_normal": "//cdn.v2ex.co/navatar/16a5/cdae/286_normal.png?m=1430514985",
+            "avatar_large": "//cdn.v2ex.co/navatar/16a5/cdae/286_large.png?m=1430514985"
+        },
+        "created": 1433433133,
+        "last_modified": 1433433133,
+        "last_touched": 1433493265
+    },
+    {
+        "id": 196218,
+        "title": "各位对 LeanCloud 这样的透明薪酬体系怎么看？",
+        "url": "http://www.v2ex.com/t/196218",
+        "content": "http://open.leancloud.cn/salary.html",
+        "content_rendered": "<a target=\"_blank\" href=\"http://open.leancloud.cn/salary.html\" rel=\"nofollow\">http://open.leancloud.cn/salary.html</a>",
+        "replies": 62,
+        "member": {
+            "id": 1,
+            "username": "Livid",
+            "tagline": "Beautifully Advance",
+            "avatar_mini": "//cdn.v2ex.co/avatar/c4ca/4238/1_mini.png?m=1427926997",
+            "avatar_normal": "//cdn.v2ex.co/avatar/c4ca/4238/1_normal.png?m=1427926997",
+            "avatar_large": "//cdn.v2ex.co/avatar/c4ca/4238/1_large.png?m=1427926997"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 504,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433439406,
+        "last_modified": 1433439406,
+        "last_touched": 1433499714
+    },
+    {
+        "id": 196216,
+        "title": "陈述一段在北京东城区苏州胡同某创业团队的经历",
+        "url": "http://www.v2ex.com/t/196216",
+        "content": "2014年11月中旬开始，我加入北京一个微型创业团队，2个月后提出离职，4个月时正式离开，然而我的工资却被扣押，仅仅领到一个半月薪资。协调不成，最终对薄公堂。\r\n\r\n原本是我和老板及公司之间的纠纷，为何要在网上陈述？其一，因为公司不肯和我签普通正常的劳动合同，现在借此在仲裁庭上全盘否认我在公司的劳动经历，我需要公示这段经历给前同事们及相关朋友。其二，这4个月从最初的热火朝天到最后的灰色，不仅是因为低劣的潜规则，也是因为我们自己没有以纸为凭，太粗心了。因此，公示所有这些走过的坑可能对程序员们及创业者们是一个有益的提醒。\r\n\r\n为何想发在v2ex？缘分，当初我在这里看到招聘广告。\r\n\r\n我为自己的言行负责。欢迎对方及其他同事一起来陈述。\r\n\r\n欢迎阅读我的陈述及更新： http://notepad.cc/share/rbKkyv3rcW",
+        "content_rendered": "<p>2014年11月中旬开始，我加入北京一个微型创业团队，2个月后提出离职，4个月时正式离开，然而我的工资却被扣押，仅仅领到一个半月薪资。协调不成，最终对薄公堂。</p>\n\n<p>原本是我和老板及公司之间的纠纷，为何要在网上陈述？其一，因为公司不肯和我签普通正常的劳动合同，现在借此在仲裁庭上全盘否认我在公司的劳动经历，我需要公示这段经历给前同事们及相关朋友。其二，这4个月从最初的热火朝天到最后的灰色，不仅是因为低劣的潜规则，也是因为我们自己没有以纸为凭，太粗心了。因此，公示所有这些走过的坑可能对程序员们及创业者们是一个有益的提醒。</p>\n\n<p>为何想发在v2ex？缘分，当初我在这里看到招聘广告。</p>\n\n<p>我为自己的言行负责。欢迎对方及其他同事一起来陈述。</p>\n\n<p>欢迎阅读我的陈述及更新： <a target=\"_blank\" rel=\"nofollow\" href=\"http://notepad.cc/share/rbKkyv3rcW\">http://notepad.cc/share/rbKkyv3rcW</a></p>\n",
+        "replies": 46,
+        "member": {
+            "id": 119706,
+            "username": "yge2014",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/75b43b3312816473d38f63e34ec8968b?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/75b43b3312816473d38f63e34ec8968b?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/75b43b3312816473d38f63e34ec8968b?s=73&d=retro"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 504,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433437504,
+        "last_modified": 1433437989,
+        "last_touched": 1433502463
+    }
+]

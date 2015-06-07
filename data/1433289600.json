@@ -1,5 +1,275 @@
 [
     {
+        "id": 195696,
+        "title": "组装电脑那么简单，为什么品牌机还有市场？",
+        "url": "http://www.v2ex.com/t/195696",
+        "content": "我个朋友不听我百般劝说，最终还是买了品牌机，i3+4Gram+500Ghdd花了3000多……3000多！说起理由就是不会组装，担心售后之类的……\r\n\r\n我就很纳闷，电脑配件屈指可数：CPU，内存，主板，硬盘，显卡（选），电源，机箱，光驱（选），比小时候组装四驱车还简单吧，更有玩高达等等的复杂度都不是一个次元的……\r\n\r\n初二时第一次组装了电脑，看着说明书不用半小时完成了，感觉比较烦的只有电源了\r\n\r\n当然有人会说，我不想装罢了，钱不是问题。然而，品牌机真的太坑了，对于这样的阔气，只能说人傻钱多了",
+        "content_rendered": "我个朋友不听我百般劝说，最终还是买了品牌机，i3+4Gram+500Ghdd花了3000多……3000多！说起理由就是不会组装，担心售后之类的……\r<br />\r<br />我就很纳闷，电脑配件屈指可数：CPU，内存，主板，硬盘，显卡（选），电源，机箱，光驱（选），比小时候组装四驱车还简单吧，更有玩高达等等的复杂度都不是一个次元的……\r<br />\r<br />初二时第一次组装了电脑，看着说明书不用半小时完成了，感觉比较烦的只有电源了\r<br />\r<br />当然有人会说，我不想装罢了，钱不是问题。然而，品牌机真的太坑了，对于这样的阔气，只能说人傻钱多了",
+        "replies": 107,
+        "member": {
+            "id": 109125,
+            "username": "Syaoran",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/c0d6/540c/109125_mini.png?m=1431919123",
+            "avatar_normal": "//cdn.v2ex.co/avatar/c0d6/540c/109125_normal.png?m=1431919123",
+            "avatar_large": "//cdn.v2ex.co/avatar/c0d6/540c/109125_large.png?m=1431919123"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50605,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1430764047",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1430764047",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1430764047"
+        },
+        "created": 1433295285,
+        "last_modified": 1433295285,
+        "last_touched": 1433361410
+    },
+    {
+        "id": 195728,
+        "title": "第一次去成都，成都真的好大，比杭州市区大两倍都不止",
+        "url": "http://www.v2ex.com/t/195728",
+        "content": "",
+        "content_rendered": "",
+        "replies": 83,
+        "member": {
+            "id": 22194,
+            "username": "thisisvoa",
+            "tagline": "我就是我，",
+            "avatar_mini": "//cdn.v2ex.co/avatar/8ff7/d9ec/22194_mini.png?m=1416885044",
+            "avatar_normal": "//cdn.v2ex.co/avatar/8ff7/d9ec/22194_normal.png?m=1416885044",
+            "avatar_large": "//cdn.v2ex.co/avatar/8ff7/d9ec/22194_large.png?m=1416885044"
+        },
+        "node": {
+            "id": 30,
+            "name": "chengdu",
+            "title": "成都",
+            "title_alternative": "Chengdu",
+            "url": "http://www.v2ex.com/go/chengdu",
+            "topics": 157,
+            "avatar_mini": "/static/img/node_mini.png",
+            "avatar_normal": "/static/img/node_normal.png",
+            "avatar_large": "/static/img/node_large.png"
+        },
+        "created": 1433300344,
+        "last_modified": 1433300344,
+        "last_touched": 1433350840
+    },
+    {
+        "id": 195811,
+        "title": "写代码花括号不另起一行的好处是什么",
+        "url": "http://www.v2ex.com/t/195811",
+        "content": "另起一行的好处：\r\n没有编辑器提示的情况下仍然能轻松的看出内外关系；\r\n对称，美观。",
+        "content_rendered": "<p>另起一行的好处：<br>\n没有编辑器提示的情况下仍然能轻松的看出内外关系；<br>\n对称，美观。</p>\n",
+        "replies": 74,
+        "member": {
+            "id": 63015,
+            "username": "professorz",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/887b388cf65067fc08d3beeed0618118?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/887b388cf65067fc08d3beeed0618118?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/887b388cf65067fc08d3beeed0618118?s=73&d=retro"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 7984,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433335150",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433335150",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433335150"
+        },
+        "created": 1433316278,
+        "last_modified": 1433316278,
+        "last_touched": 1433369746
+    },
+    {
+        "id": 195826,
+        "title": "没有 Macbook，但是想尝试一下 iOS 开发，如何破？",
+        "url": "http://www.v2ex.com/t/195826",
+        "content": "屌丝程序猿一枚，心血来潮想搞一下iOS，苦于没有Mac，但是想看看好不好玩\r\n\r\nPS：虚拟机已经试了，好大的硬盘占有量，而且机子不好，特别卡。。。",
+        "content_rendered": "屌丝程序猿一枚，心血来潮想搞一下iOS，苦于没有Mac，但是想看看好不好玩\r<br />\r<br />PS：虚拟机已经试了，好大的硬盘占有量，而且机子不好，特别卡。。。",
+        "replies": 60,
+        "member": {
+            "id": 107010,
+            "username": "hifever",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/4f57/5fb7/107010_mini.png?m=1433313152",
+            "avatar_normal": "//cdn.v2ex.co/avatar/4f57/5fb7/107010_normal.png?m=1433313152",
+            "avatar_large": "//cdn.v2ex.co/avatar/4f57/5fb7/107010_large.png?m=1433313152"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 7984,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433335150",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433335150",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433335150"
+        },
+        "created": 1433317935,
+        "last_modified": 1433317935,
+        "last_touched": 1433357624
+    },
+    {
+        "id": 195700,
+        "title": "PinCap, 复制既存、全屏网页截图、色彩分析与自动聚类、全文检的 APP for Mac/Win",
+        "url": "http://www.v2ex.com/t/195700",
+        "content": "![](http://zrey.com/images/pincap.png)\r\n\r\n**软件地址：** <http://zrey.com/app/pincap>\r\n\r\n# PinCap的一些特性\r\n- 支持从Chrome/Safari（Windows版则支持Chrome/IE/FireFox）中截取完整的网页截图。\r\n- 内置Web浏览器，可以另外截取登录、某个元素鼠标交互后状态的完整截图。\r\n- 支持对图片进行标题、URL、备注的添加，并且可以进行全文检索式的图片查找。\r\n- 超快速地保存图片素材（浏览器中右键点击图片，选择“复制”）的方式。\r\n- 无数据库设计，对云端友好，可以将PinCap的根目录设定于某个云上，多设备就能同步使用PinCap了。\r\n- 全本地文件夹结构设计，当要进行复杂的素材整理、归档，可以直接在本地文件夹中操作完成，并不会影响PinCap的使用。\r\n- 图片的基本色彩分析，点击色表中的色彩，即可复制对应的HEX值到粘贴板中。\r\n- 颜色自动聚类，实际上图片数量少的时候，貌似很鸡肋；但当一个文件夹内图片数量多的时候，色彩聚类有时会有意外惊喜。\r\n\r\n# 针对V2EX的免单与特殊折扣\r\n- 前三单免单，在回帖中补上自己的OrderID（购买PinCap可获得，也就是支付宝里的订单ID），在支付宝里申请退款（全额）。\r\n- 前十单（第4-第10）在目前半价的基础上再半价，也就是申请退款时，退款为￥15。\r\n- 回帖内需要留下OrderID，退款是需要备注来自V2EX。\r\n\r\n:)",
+        "content_rendered": "<p><img src=\"http://zrey.com/images/pincap.png\" alt=\"\"></p>\n\n<p><strong>软件地址：</strong> <a target=\"_blank\" rel=\"nofollow\" href=\"http://zrey.com/app/pincap\">http://zrey.com/app/pincap</a></p>\n\n<h1>PinCap的一些特性</h1>\n\n<ul>\n<li>支持从Chrome/Safari（Windows版则支持Chrome/IE/FireFox）中截取完整的网页截图。</li>\n<li>内置Web浏览器，可以另外截取登录、某个元素鼠标交互后状态的完整截图。</li>\n<li>支持对图片进行标题、URL、备注的添加，并且可以进行全文检索式的图片查找。</li>\n<li>超快速地保存图片素材（浏览器中右键点击图片，选择“复制”）的方式。</li>\n<li>无数据库设计，对云端友好，可以将PinCap的根目录设定于某个云上，多设备就能同步使用PinCap了。</li>\n<li>全本地文件夹结构设计，当要进行复杂的素材整理、归档，可以直接在本地文件夹中操作完成，并不会影响PinCap的使用。</li>\n<li>图片的基本色彩分析，点击色表中的色彩，即可复制对应的HEX值到粘贴板中。</li>\n<li>颜色自动聚类，实际上图片数量少的时候，貌似很鸡肋；但当一个文件夹内图片数量多的时候，色彩聚类有时会有意外惊喜。</li>\n</ul>\n\n<h1>针对V2EX的免单与特殊折扣</h1>\n\n<ul>\n<li>前三单免单，在回帖中补上自己的OrderID（购买PinCap可获得，也就是支付宝里的订单ID），在支付宝里申请退款（全额）。</li>\n<li>前十单（第4-第10）在目前半价的基础上再半价，也就是申请退款时，退款为￥15。</li>\n<li>回帖内需要留下OrderID，退款是需要备注来自V2EX。</li>\n</ul>\n\n<p>:)</p>\n",
+        "replies": 45,
+        "member": {
+            "id": 119611,
+            "username": "ZreySoft",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/e660/5009/119611_mini.png?m=1433237261",
+            "avatar_normal": "//cdn.v2ex.co/avatar/e660/5009/119611_normal.png?m=1433237261",
+            "avatar_large": "//cdn.v2ex.co/avatar/e660/5009/119611_large.png?m=1433237261"
+        },
+        "node": {
+            "id": 17,
+            "name": "create",
+            "title": "分享创造",
+            "title_alternative": "Create",
+            "url": "http://www.v2ex.com/go/create",
+            "topics": 3944,
+            "avatar_mini": "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1430764222",
+            "avatar_normal": "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1430764222",
+            "avatar_large": "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1430764222"
+        },
+        "created": 1433295819,
+        "last_modified": 1433295872,
+        "last_touched": 1433332498
+    },
+    {
+        "id": 195693,
+        "title": "[北京] 目前最火的那个 FORK， 正在招聘各种工程师！！！！！",
+        "url": "http://www.v2ex.com/t/195693",
+        "content": "# FORK 寻找靠谱工程师\r\n\r\n工作地点：北京朝阳双井\r\n职位：Ruby 工程师\r\n职责：FORK 后端 API 开发，架构设计，代码重构，性能优化。\r\n\r\n职位：iOS 工程师\r\n职责：FORK iOS 客户端开发，性能优化，重构\r\n\r\n职位：Android 工程师\r\n职责：FORK Android 客户端开发，性能优化，重构\r\n\r\n公司官网：[www.dafork.com](http://www.dafork.com).\r\n\r\n# 关于 FORK\r\n\r\n北京灵光闪现科技有限公司（Blink Academy Ltd.）是一支勤奋的初创团队。目前主要产品为 FORK。刚刚获得 Apple App Store 首页推荐。这个 App 本身就是比较 Geek 的产物，如果你知道 github，那你肯定知道 Fork，我们把 Fork 这种概念做到了图片上！！！目前反响还不错。\r\n\r\n我们的后端核心系统全部基于 Ruby 构建。用到的技术有 ElasticSearch，Redis，MySQL，Sidekiq，Puma，Capistrano，Rails 等等。\r\n\r\n[36氪报道](http://36kr.com/p/533485.html)\r\n[少数派报道](http://sspai.com/28994)\r\n\r\n# 关于职位\r\n\r\n因为业务快速发展，我们诚挚邀请技术好手加盟 ，一些要求如下：\r\n\r\n1 年以上工作经验；\r\n编程基础良好，追求优雅的代码；\r\n热爱技术开发，有极客精神，参与过开源项目或常写技术博客加分哦！\r\n我们注重能力包括：\r\n\r\n解决问题能力。自信，积极主动，做事有条理，目标导向。\r\n学习能力。乐于学习，善于总结分享，渴望每天都在进步。\r\n团队协作能力。诚实，坦率，有责任心，信任、尊重、包容。\r\n（最好还有幽默感）。\r\n\r\n# FORK 有什么不同\r\n\r\nRuby 的工作机会不少，如果你足够优秀，一定有很多的选择，我们有些什么不同呢？\r\n\r\n## 挑战你能力的舞台\r\n作为一个社区，我们的用户量肯定不会少，并发量很高，因此要应对大数据量，性能和并发性的严格挑战，同时必须有良好的代码质量以应对系统变化和扩展的要求。在这里你的能力一定会飞速提升。\r\n\r\n## 良好的工作氛围，舒适的工作环境\r\n假如你玩过我们的 App，你可能知道这是个偏向搞笑的 App。我们日常的办公气氛也是如此的脱线。当然，代码上面我们是绝不妥协的。（偶尔也有脱线的曲线解决办法，不过都称为 Hack 啦）\r\n\r\n## 超出你预期的回报\r\n中级职位 10~15k，高级职位 15~30k，上不封顶，取决于你的能力和业绩。目前公司处于快速发展阶段，公司商业模式确定, 也有靠谱风投背书。\r\n\r\n联系方式\r\n\r\n如果您对我们的工作职位感兴趣，请把您的简历或情况发邮件到 pepsin(at)me.com，最好能充分展示您的能力，谢谢！",
+        "content_rendered": "<h1>FORK 寻找靠谱工程师</h1>\n\n<p>工作地点：北京朝阳双井<br>\n职位：Ruby 工程师<br>\n职责：FORK 后端 API 开发，架构设计，代码重构，性能优化。</p>\n\n<p>职位：iOS 工程师<br>\n职责：FORK iOS 客户端开发，性能优化，重构</p>\n\n<p>职位：Android 工程师<br>\n职责：FORK Android 客户端开发，性能优化，重构</p>\n\n<p>公司官网：<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.dafork.com\">www.dafork.com</a>.</p>\n\n<h1>关于 FORK</h1>\n\n<p>北京灵光闪现科技有限公司（Blink Academy Ltd.）是一支勤奋的初创团队。目前主要产品为 FORK。刚刚获得 Apple App Store 首页推荐。这个 App 本身就是比较 Geek 的产物，如果你知道 github，那你肯定知道 Fork，我们把 Fork 这种概念做到了图片上！！！目前反响还不错。</p>\n\n<p>我们的后端核心系统全部基于 Ruby 构建。用到的技术有 ElasticSearch，Redis，MySQL，Sidekiq，Puma，Capistrano，Rails 等等。</p>\n\n<p><a target=\"_blank\" rel=\"nofollow\" href=\"http://36kr.com/p/533485.html\">36氪报道</a><br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://sspai.com/28994\">少数派报道</a></p>\n\n<h1>关于职位</h1>\n\n<p>因为业务快速发展，我们诚挚邀请技术好手加盟 ，一些要求如下：</p>\n\n<p>1 年以上工作经验；<br>\n编程基础良好，追求优雅的代码；<br>\n热爱技术开发，有极客精神，参与过开源项目或常写技术博客加分哦！<br>\n我们注重能力包括：</p>\n\n<p>解决问题能力。自信，积极主动，做事有条理，目标导向。<br>\n学习能力。乐于学习，善于总结分享，渴望每天都在进步。<br>\n团队协作能力。诚实，坦率，有责任心，信任、尊重、包容。<br>\n（最好还有幽默感）。</p>\n\n<h1>FORK 有什么不同</h1>\n\n<p>Ruby 的工作机会不少，如果你足够优秀，一定有很多的选择，我们有些什么不同呢？</p>\n\n<h2>挑战你能力的舞台</h2>\n\n<p>作为一个社区，我们的用户量肯定不会少，并发量很高，因此要应对大数据量，性能和并发性的严格挑战，同时必须有良好的代码质量以应对系统变化和扩展的要求。在这里你的能力一定会飞速提升。</p>\n\n<h2>良好的工作氛围，舒适的工作环境</h2>\n\n<p>假如你玩过我们的 App，你可能知道这是个偏向搞笑的 App。我们日常的办公气氛也是如此的脱线。当然，代码上面我们是绝不妥协的。（偶尔也有脱线的曲线解决办法，不过都称为 Hack 啦）</p>\n\n<h2>超出你预期的回报</h2>\n\n<p>中级职位 10~15k，高级职位 15~30k，上不封顶，取决于你的能力和业绩。目前公司处于快速发展阶段，公司商业模式确定, 也有靠谱风投背书。</p>\n\n<p>联系方式</p>\n\n<p>如果您对我们的工作职位感兴趣，请把您的简历或情况发邮件到 pepsin(at)me.com，最好能充分展示您的能力，谢谢！</p>\n",
+        "replies": 42,
+        "member": {
+            "id": 2782,
+            "username": "pepsin",
+            "tagline": "An Immature Digestive Ase",
+            "avatar_mini": "//cdn.v2ex.co/avatar/6024/3f9b/2782_mini.png?m=1432111910",
+            "avatar_normal": "//cdn.v2ex.co/avatar/6024/3f9b/2782_normal.png?m=1432111910",
+            "avatar_large": "//cdn.v2ex.co/avatar/6024/3f9b/2782_large.png?m=1432111910"
+        },
+        "node": {
+            "id": 43,
+            "name": "jobs",
+            "title": "酷工作",
+            "title_alternative": "Jobs",
+            "url": "http://www.v2ex.com/go/jobs",
+            "topics": 10003,
+            "avatar_mini": "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1433239520",
+            "avatar_normal": "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1433239520",
+            "avatar_large": "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1433239520"
+        },
+        "created": 1433294718,
+        "last_modified": 1433294718,
+        "last_touched": 1433361817
+    },
+    {
+        "id": 195715,
+        "title": "博客域名被恶意泛解析，如何在虚拟主机做 404 解决？",
+        "url": "http://www.v2ex.com/t/195715",
+        "content": "博客域名被恶意泛解析了，网上说解决的关键在于将泛解析解析到另一个IP，并做404。\r\n\r\n但现在用的是虚拟主机，只对应一个IP，目前有限资源下，除了上面的办法，是不是就没法解决了？\r\n\r\n已经被博彩占领了 /哭\r\n\r\nhttp://ww2.sinaimg.cn/mw690/632941f5jw1esqovz7ukaj20le0h5q77.jpg",
+        "content_rendered": "博客域名被恶意泛解析了，网上说解决的关键在于将泛解析解析到另一个IP，并做404。\r<br />\r<br />但现在用的是虚拟主机，只对应一个IP，目前有限资源下，除了上面的办法，是不是就没法解决了？\r<br />\r<br />已经被博彩占领了 /哭\r<br />\r<br /><img src=\"http://ww2.sinaimg.cn/mw690/632941f5jw1esqovz7ukaj20le0h5q77.jpg\" class=\"imgly\" style=\"max-width: 660px;\" border=\"0\" /> ",
+        "replies": 41,
+        "member": {
+            "id": 14718,
+            "username": "heylogo",
+            "tagline": "www.huangzhi.org",
+            "avatar_mini": "//cdn.v2ex.co/avatar/3f80/25f8/14718_mini.png?m=1404813535",
+            "avatar_normal": "//cdn.v2ex.co/avatar/3f80/25f8/14718_normal.png?m=1404813535",
+            "avatar_large": "//cdn.v2ex.co/avatar/3f80/25f8/14718_large.png?m=1404813535"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50605,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1430764047",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1430764047",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1430764047"
+        },
+        "created": 1433298308,
+        "last_modified": 1433298308,
+        "last_touched": 1433325301
+    },
+    {
+        "id": 195859,
+        "title": "用程序实现一个预测股票走势",
+        "url": "http://www.v2ex.com/t/195859",
+        "content": "有一类股票当日走势被称为织布机 大体趋势为：\r\n00000000000000000000|  涨停 \r\n00000000000000000000| \r\n00000000000000000000|\r\n日线***********^^^`~2%\r\n\r\n大体走势就是 开盘的很长一段时间在中低位横盘，一段时间内涨跌幅通常很小，这种很多都是在蓄力，然后在某个时间点直接直线拉起，根本不给介入时间（这时你就会在五分钟快速涨幅里看到他上榜了），如果留心观察看同花顺的 五分钟快速涨幅 的话，会发现绝大多数上榜的股票都是这种曲线，尤其在大盘不是剧烈上下震荡的阶段特别明显。\r\n那么是否有人可以做这么一个程序或者脚本，开盘后收集两市股票价格，每五分钟保存一次，然后根据上述条件选出合适股票（比如在盘中1.5个小时内振幅一直在0.5%之内即可入选），这样可以及时抓住即将爆发的票，吃到直线上涨的点数，然后在第二天开盘挂2个涨幅卖掉，继续抓下一轮。",
+        "content_rendered": "<p>有一类股票当日走势被称为织布机 大体趋势为：<br>\n00000000000000000000|  涨停 <br>\n00000000000000000000| <br>\n00000000000000000000|<br>\n日线***********^^^`~2%</p>\n\n<p>大体走势就是 开盘的很长一段时间在中低位横盘，一段时间内涨跌幅通常很小，这种很多都是在蓄力，然后在某个时间点直接直线拉起，根本不给介入时间（这时你就会在五分钟快速涨幅里看到他上榜了），如果留心观察看同花顺的 五分钟快速涨幅 的话，会发现绝大多数上榜的股票都是这种曲线，尤其在大盘不是剧烈上下震荡的阶段特别明显。<br>\n那么是否有人可以做这么一个程序或者脚本，开盘后收集两市股票价格，每五分钟保存一次，然后根据上述条件选出合适股票（比如在盘中1.5个小时内振幅一直在0.5%之内即可入选），这样可以及时抓住即将爆发的票，吃到直线上涨的点数，然后在第二天开盘挂2个涨幅卖掉，继续抓下一轮。</p>\n",
+        "replies": 38,
+        "member": {
+            "id": 103636,
+            "username": "fxxkgw",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/3726f005480ca1702c28144e026c63a8?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/3726f005480ca1702c28144e026c63a8?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/3726f005480ca1702c28144e026c63a8?s=73&d=retro"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 7984,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433335150",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433335150",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433335150"
+        },
+        "created": 1433324627,
+        "last_modified": 1433324759,
+        "last_touched": 1433372305
+    },
+    {
+        "id": 195704,
+        "title": "奇妙清单 加盟 微软",
+        "url": "http://www.v2ex.com/t/195704",
+        "content": "http://ww3.sinaimg.cn/large/6db393f7jw1esqo4a1unvj20uo0augms.jpg\r\n\r\n\r\nhttps://www.wunderlist.com/blog/our-future-wunderlist-joins-microsoft/",
+        "content_rendered": "<img src=\"http://ww3.sinaimg.cn/large/6db393f7jw1esqo4a1unvj20uo0augms.jpg\" class=\"imgly\" style=\"max-width: 660px;\" border=\"0\" /> \r<br />\r<br />\r<br /><a target=\"_blank\" href=\"https://www.wunderlist.com/blog/our-future-wunderlist-joins-microsoft/\" rel=\"nofollow\">https://www.wunderlist.com/blog/our-future-wunderlist-joins-microsoft/</a>",
+        "replies": 34,
+        "member": {
+            "id": 48771,
+            "username": "mailunion",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/0ecf/4782/48771_mini.png?m=1423355188",
+            "avatar_normal": "//cdn.v2ex.co/avatar/0ecf/4782/48771_normal.png?m=1423355188",
+            "avatar_large": "//cdn.v2ex.co/avatar/0ecf/4782/48771_large.png?m=1423355188"
+        },
+        "node": {
+            "id": 840,
+            "name": "wunderlist",
+            "title": "奇妙清单",
+            "title_alternative": "Wunderlist",
+            "url": "http://www.v2ex.com/go/wunderlist",
+            "topics": 1,
+            "avatar_mini": "//cdn.v2ex.co/navatar/fa83/a11a/840_mini.png?m=1428260780",
+            "avatar_normal": "//cdn.v2ex.co/navatar/fa83/a11a/840_normal.png?m=1428260780",
+            "avatar_large": "//cdn.v2ex.co/navatar/fa83/a11a/840_large.png?m=1428260780"
+        },
+        "created": 1433296637,
+        "last_modified": 1433338086,
+        "last_touched": 1433349114
+    },
+    {
         "id": 195651,
         "title": "这样的父亲该不该帮下去",
         "url": "http://www.v2ex.com/t/195651",
@@ -28,66 +298,6 @@
         "created": 1433258730,
         "last_modified": 1433258730,
         "last_touched": 1433328854
-    },
-    {
-        "id": 195696,
-        "title": "组装电脑那么简单，为什么品牌机还有市场？",
-        "url": "http://www.v2ex.com/t/195696",
-        "content": "我个朋友不听我百般劝说，最终还是买了品牌机，i3+4Gram+500Ghdd花了3000多……3000多！说起理由就是不会组装，担心售后之类的……\r\n\r\n我就很纳闷，电脑配件屈指可数：CPU，内存，主板，硬盘，显卡（选），电源，机箱，光驱（选），比小时候组装四驱车还简单吧，更有玩高达等等的复杂度都不是一个次元的……\r\n\r\n初二时第一次组装了电脑，看着说明书不用半小时完成了，感觉比较烦的只有电源了\r\n\r\n当然有人会说，我不想装罢了，钱不是问题。然而，品牌机真的太坑了，对于这样的阔气，只能说人傻钱多了",
-        "content_rendered": "我个朋友不听我百般劝说，最终还是买了品牌机，i3+4Gram+500Ghdd花了3000多……3000多！说起理由就是不会组装，担心售后之类的……\r<br />\r<br />我就很纳闷，电脑配件屈指可数：CPU，内存，主板，硬盘，显卡（选），电源，机箱，光驱（选），比小时候组装四驱车还简单吧，更有玩高达等等的复杂度都不是一个次元的……\r<br />\r<br />初二时第一次组装了电脑，看着说明书不用半小时完成了，感觉比较烦的只有电源了\r<br />\r<br />当然有人会说，我不想装罢了，钱不是问题。然而，品牌机真的太坑了，对于这样的阔气，只能说人傻钱多了",
-        "replies": 85,
-        "member": {
-            "id": 109125,
-            "username": "Syaoran",
-            "tagline": "",
-            "avatar_mini": "//cdn.v2ex.co/avatar/c0d6/540c/109125_mini.png?m=1431919123",
-            "avatar_normal": "//cdn.v2ex.co/avatar/c0d6/540c/109125_normal.png?m=1431919123",
-            "avatar_large": "//cdn.v2ex.co/avatar/c0d6/540c/109125_large.png?m=1431919123"
-        },
-        "node": {
-            "id": 12,
-            "name": "qna",
-            "title": "问与答",
-            "title_alternative": "Questions and Answers",
-            "url": "http://www.v2ex.com/go/qna",
-            "topics": 50588,
-            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1430764047",
-            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1430764047",
-            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1430764047"
-        },
-        "created": 1433295285,
-        "last_modified": 1433295285,
-        "last_touched": 1433329091
-    },
-    {
-        "id": 195728,
-        "title": "第一次去成都，成都真的好大，比杭州市区大两倍都不止",
-        "url": "http://www.v2ex.com/t/195728",
-        "content": "",
-        "content_rendered": "",
-        "replies": 72,
-        "member": {
-            "id": 22194,
-            "username": "thisisvoa",
-            "tagline": "我就是我，",
-            "avatar_mini": "//cdn.v2ex.co/avatar/8ff7/d9ec/22194_mini.png?m=1416885044",
-            "avatar_normal": "//cdn.v2ex.co/avatar/8ff7/d9ec/22194_normal.png?m=1416885044",
-            "avatar_large": "//cdn.v2ex.co/avatar/8ff7/d9ec/22194_large.png?m=1416885044"
-        },
-        "node": {
-            "id": 30,
-            "name": "chengdu",
-            "title": "成都",
-            "title_alternative": "Chengdu",
-            "url": "http://www.v2ex.com/go/chengdu",
-            "topics": 157,
-            "avatar_mini": "/static/img/node_mini.png",
-            "avatar_normal": "/static/img/node_normal.png",
-            "avatar_large": "/static/img/node_large.png"
-        },
-        "created": 1433300344,
-        "last_modified": 1433300344,
-        "last_touched": 1433329288
     },
     {
         "id": 195645,
@@ -148,66 +358,6 @@
         "created": 1433248266,
         "last_modified": 1433248266,
         "last_touched": 1433320919
-    },
-    {
-        "id": 195811,
-        "title": "写代码花括号不另起一行的好处是什么",
-        "url": "http://www.v2ex.com/t/195811",
-        "content": "另起一行的好处：\r\n没有编辑器提示的情况下仍然能轻松的看出内外关系；\r\n对称，美观。",
-        "content_rendered": "<p>另起一行的好处：<br>\n没有编辑器提示的情况下仍然能轻松的看出内外关系；<br>\n对称，美观。</p>\n",
-        "replies": 47,
-        "member": {
-            "id": 63015,
-            "username": "professorz",
-            "tagline": "",
-            "avatar_mini": "//cdn.v2ex.co/gravatar/887b388cf65067fc08d3beeed0618118?s=24&d=retro",
-            "avatar_normal": "//cdn.v2ex.co/gravatar/887b388cf65067fc08d3beeed0618118?s=48&d=retro",
-            "avatar_large": "//cdn.v2ex.co/gravatar/887b388cf65067fc08d3beeed0618118?s=73&d=retro"
-        },
-        "node": {
-            "id": 300,
-            "name": "programmer",
-            "title": "程序员",
-            "title_alternative": "Programmer",
-            "url": "http://www.v2ex.com/go/programmer",
-            "topics": 7979,
-            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433239463",
-            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433239463",
-            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433239463"
-        },
-        "created": 1433316278,
-        "last_modified": 1433316278,
-        "last_touched": 1433329460
-    },
-    {
-        "id": 195700,
-        "title": "PinCap, 复制既存、全屏网页截图、色彩分析与自动聚类、全文检的 APP for Mac/Win",
-        "url": "http://www.v2ex.com/t/195700",
-        "content": "![](http://zrey.com/images/pincap.png)\r\n\r\n**软件地址：** <http://zrey.com/app/pincap>\r\n\r\n# PinCap的一些特性\r\n- 支持从Chrome/Safari（Windows版则支持Chrome/IE/FireFox）中截取完整的网页截图。\r\n- 内置Web浏览器，可以另外截取登录、某个元素鼠标交互后状态的完整截图。\r\n- 支持对图片进行标题、URL、备注的添加，并且可以进行全文检索式的图片查找。\r\n- 超快速地保存图片素材（浏览器中右键点击图片，选择“复制”）的方式。\r\n- 无数据库设计，对云端友好，可以将PinCap的根目录设定于某个云上，多设备就能同步使用PinCap了。\r\n- 全本地文件夹结构设计，当要进行复杂的素材整理、归档，可以直接在本地文件夹中操作完成，并不会影响PinCap的使用。\r\n- 图片的基本色彩分析，点击色表中的色彩，即可复制对应的HEX值到粘贴板中。\r\n- 颜色自动聚类，实际上图片数量少的时候，貌似很鸡肋；但当一个文件夹内图片数量多的时候，色彩聚类有时会有意外惊喜。\r\n\r\n# 针对V2EX的免单与特殊折扣\r\n- 前三单免单，在回帖中补上自己的OrderID（购买PinCap可获得，也就是支付宝里的订单ID），在支付宝里申请退款（全额）。\r\n- 前十单（第4-第10）在目前半价的基础上再半价，也就是申请退款时，退款为￥15。\r\n- 回帖内需要留下OrderID，退款是需要备注来自V2EX。\r\n\r\n:)",
-        "content_rendered": "<p><img src=\"http://zrey.com/images/pincap.png\" alt=\"\"></p>\n\n<p><strong>软件地址：</strong> <a target=\"_blank\" rel=\"nofollow\" href=\"http://zrey.com/app/pincap\">http://zrey.com/app/pincap</a></p>\n\n<h1>PinCap的一些特性</h1>\n\n<ul>\n<li>支持从Chrome/Safari（Windows版则支持Chrome/IE/FireFox）中截取完整的网页截图。</li>\n<li>内置Web浏览器，可以另外截取登录、某个元素鼠标交互后状态的完整截图。</li>\n<li>支持对图片进行标题、URL、备注的添加，并且可以进行全文检索式的图片查找。</li>\n<li>超快速地保存图片素材（浏览器中右键点击图片，选择“复制”）的方式。</li>\n<li>无数据库设计，对云端友好，可以将PinCap的根目录设定于某个云上，多设备就能同步使用PinCap了。</li>\n<li>全本地文件夹结构设计，当要进行复杂的素材整理、归档，可以直接在本地文件夹中操作完成，并不会影响PinCap的使用。</li>\n<li>图片的基本色彩分析，点击色表中的色彩，即可复制对应的HEX值到粘贴板中。</li>\n<li>颜色自动聚类，实际上图片数量少的时候，貌似很鸡肋；但当一个文件夹内图片数量多的时候，色彩聚类有时会有意外惊喜。</li>\n</ul>\n\n<h1>针对V2EX的免单与特殊折扣</h1>\n\n<ul>\n<li>前三单免单，在回帖中补上自己的OrderID（购买PinCap可获得，也就是支付宝里的订单ID），在支付宝里申请退款（全额）。</li>\n<li>前十单（第4-第10）在目前半价的基础上再半价，也就是申请退款时，退款为￥15。</li>\n<li>回帖内需要留下OrderID，退款是需要备注来自V2EX。</li>\n</ul>\n\n<p>:)</p>\n",
-        "replies": 44,
-        "member": {
-            "id": 119611,
-            "username": "ZreySoft",
-            "tagline": "",
-            "avatar_mini": "//cdn.v2ex.co/avatar/e660/5009/119611_mini.png?m=1433237261",
-            "avatar_normal": "//cdn.v2ex.co/avatar/e660/5009/119611_normal.png?m=1433237261",
-            "avatar_large": "//cdn.v2ex.co/avatar/e660/5009/119611_large.png?m=1433237261"
-        },
-        "node": {
-            "id": 17,
-            "name": "create",
-            "title": "分享创造",
-            "title_alternative": "Create",
-            "url": "http://www.v2ex.com/go/create",
-            "topics": 3943,
-            "avatar_mini": "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1430764222",
-            "avatar_normal": "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1430764222",
-            "avatar_large": "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1430764222"
-        },
-        "created": 1433295819,
-        "last_modified": 1433295872,
-        "last_touched": 1433327800
     },
     {
         "id": 195664,
