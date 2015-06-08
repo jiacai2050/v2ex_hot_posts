@@ -1,0 +1,422 @@
+[
+    {
+        "id": 196819,
+        "title": "如果同事买房，开口向你借钱了，你能借多少给他？",
+        "url": "http://www.v2ex.com/t/196819",
+        "content": "",
+        "content_rendered": "",
+        "replies": 107,
+        "member": {
+            "id": 89352,
+            "username": "shopin",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/9e615aafbafabd239f6ab07ddeed6617?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/9e615aafbafabd239f6ab07ddeed6617?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/9e615aafbafabd239f6ab07ddeed6617?s=73&d=retro"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 510,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433722854,
+        "last_modified": 1433742715,
+        "last_touched": 1433759208
+    },
+    {
+        "id": 196862,
+        "title": "关于找工作的迷茫",
+        "url": "http://www.v2ex.com/t/196862",
+        "content": "首先如果不喜欢此类主题，欢迎大家block，但请别在下面发已block，生怕别人不知道似的\r\n#  背景 \r\n首先我是一个大专，临近毕业的学生。网络技术专业，自己觉得在学校没学到过什么东西。算是自学了一点东西吧\r\n现在是随女票来北京，身上也是没有多少钱。\r\n\r\n# 会的技术\r\n会点python\r\n会html + css + javascript\r\n用过linux（桌面）\r\nTCP/IP了解一些\r\n\r\n#\r\n招聘我也投过一些，不是要求本科学历，就是要求X年工作经验，差点都有点不想投了。\r\n基本都是没什么人理我，然后去过两家，基本也是技术不够，加上不善言谈，都是失败了\r\n\r\n#\r\n所以现在面临的问题是继续投简历，还是先找一份其他工作先顶着\r\n希望大家能给点建议，技术方面的也行\r\n\r\n差不多就这些，后面有人问到我再补充",
+        "content_rendered": "<p>首先如果不喜欢此类主题，欢迎大家block，但请别在下面发已block，生怕别人不知道似的</p>\n\n<h1>背景</h1>\n\n<p>首先我是一个大专，临近毕业的学生。网络技术专业，自己觉得在学校没学到过什么东西。算是自学了一点东西吧<br>\n现在是随女票来北京，身上也是没有多少钱。</p>\n\n<h1>会的技术</h1>\n\n<p>会点python<br>\n会html + css + javascript<br>\n用过linux（桌面）<br>\nTCP/IP了解一些</p>\n\n<p>招聘我也投过一些，不是要求本科学历，就是要求X年工作经验，差点都有点不想投了。<br>\n基本都是没什么人理我，然后去过两家，基本也是技术不够，加上不善言谈，都是失败了</p>\n\n<p>所以现在面临的问题是继续投简历，还是先找一份其他工作先顶着<br>\n希望大家能给点建议，技术方面的也行</p>\n\n<p>差不多就这些，后面有人问到我再补充</p>\n",
+        "replies": 66,
+        "member": {
+            "id": 120682,
+            "username": "Guanrenfu",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/64f2/32c7/120682_mini.png?m=1433742280",
+            "avatar_normal": "//cdn.v2ex.co/avatar/64f2/32c7/120682_normal.png?m=1433742280",
+            "avatar_large": "//cdn.v2ex.co/avatar/64f2/32c7/120682_large.png?m=1433742280"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8019,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433388951",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433388951",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433388951"
+        },
+        "created": 1433732973,
+        "last_modified": 1433734420,
+        "last_touched": 1433759687
+    },
+    {
+        "id": 196740,
+        "title": "不得不来吐槽一下 CloudXNS 了",
+        "url": "http://www.v2ex.com/t/196740",
+        "content": "# 今天下午18:00左右，想改下域名解析，于是用了一下CloudXNS（我的域名都托管在这）\r\n## 然后因为本人手拙，不小心把A记录改错了\r\n![](https://tool.liujiantao.me/upload/up/1433674771.png)\r\n\r\n---\r\n\r\n## 当我意识到这个问题时（时间已经过去10多分钟）\r\n## 谁知道这么巧，因为页面还在没刷掉，我就直接改，点击确定之后，奇迹出现了\r\n![](https://tool.liujiantao.me/upload/up/1433674872.png)\r\n## 这是在逗我？我以为自己人品问题（因为根本没有任何提醒嘛。。。）又刷了一下，还是这样，好吧，我认了\r\n\r\n---\r\n\r\n# 我想说，这样维护不需要提前通知吗？\r\n## 反正我是没收到\r\n![](https://tool.liujiantao.me/upload/up/1433674964.png)\r\n## 同样。系统没有拦截，我就是没收到！别说我自己的原因\r\n![](https://tool.liujiantao.me/upload/up/1433675128.png)\r\n![](https://tool.liujiantao.me/upload/up/1433675180.png)\r\n## 这是群友问客服的\r\n![](https://tool.liujiantao.me/upload/up/1433675233.png)\r\n我问客服他是没有回答我的，那我真想不通，在维护页面挂出QQ咨询有什么用处？\r\n![](https://tool.liujiantao.me/upload/up/1433675337.png)\r\n\r\n----\r\n\r\n我在这里就是想问一下，维护之前不通知，客服不理就算CloudXNS的态度吗？\r\n@CloudXNS\r\n绝不是来黑XNS的，之前我对XNS一直很喜欢，也有很多域名托管在XNS，上次愚人节事件吓了我一跳，这次又是运维的锅？",
+        "content_rendered": "<h1>今天下午18:00左右，想改下域名解析，于是用了一下CloudXNS（我的域名都托管在这）</h1>\n\n<h2>然后因为本人手拙，不小心把A记录改错了</h2>\n\n<p><img src=\"https://tool.liujiantao.me/upload/up/1433674771.png\" alt=\"\"></p>\n\n<hr>\n\n<h2>当我意识到这个问题时（时间已经过去10多分钟）</h2>\n\n<h2>谁知道这么巧，因为页面还在没刷掉，我就直接改，点击确定之后，奇迹出现了</h2>\n\n<p><img src=\"https://tool.liujiantao.me/upload/up/1433674872.png\" alt=\"\"></p>\n\n<h2>这是在逗我？我以为自己人品问题（因为根本没有任何提醒嘛。。。）又刷了一下，还是这样，好吧，我认了</h2>\n\n<hr>\n\n<h1>我想说，这样维护不需要提前通知吗？</h1>\n\n<h2>反正我是没收到</h2>\n\n<p><img src=\"https://tool.liujiantao.me/upload/up/1433674964.png\" alt=\"\"></p>\n\n<h2>同样。系统没有拦截，我就是没收到！别说我自己的原因</h2>\n\n<p><img src=\"https://tool.liujiantao.me/upload/up/1433675128.png\" alt=\"\"><br>\n<img src=\"https://tool.liujiantao.me/upload/up/1433675180.png\" alt=\"\"></p>\n\n<h2>这是群友问客服的</h2>\n\n<p><img src=\"https://tool.liujiantao.me/upload/up/1433675233.png\" alt=\"\"><br>\n我问客服他是没有回答我的，那我真想不通，在维护页面挂出QQ咨询有什么用处？<br>\n<img src=\"https://tool.liujiantao.me/upload/up/1433675337.png\" alt=\"\"></p>\n\n<hr>\n\n<p>我在这里就是想问一下，维护之前不通知，客服不理就算CloudXNS的态度吗？<br>\n@CloudXNS<br>\n绝不是来黑XNS的，之前我对XNS一直很喜欢，也有很多域名托管在XNS，上次愚人节事件吓了我一跳，这次又是运维的锅？</p>\n",
+        "replies": 61,
+        "member": {
+            "id": 85504,
+            "username": "liujiantao",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/3b11/76ee/85504_mini.png?m=1430485905",
+            "avatar_normal": "//cdn.v2ex.co/avatar/3b11/76ee/85504_normal.png?m=1430485905",
+            "avatar_large": "//cdn.v2ex.co/avatar/3b11/76ee/85504_large.png?m=1430485905"
+        },
+        "node": {
+            "id": 199,
+            "name": "dns",
+            "title": "DNS",
+            "title_alternative": "DNS",
+            "url": "http://www.v2ex.com/go/dns",
+            "topics": 740,
+            "avatar_mini": "//cdn.v2ex.co/navatar/84d9/ee44/199_mini.png?m=1429512710",
+            "avatar_normal": "//cdn.v2ex.co/navatar/84d9/ee44/199_normal.png?m=1429512710",
+            "avatar_large": "//cdn.v2ex.co/navatar/84d9/ee44/199_large.png?m=1429512710"
+        },
+        "created": 1433675601,
+        "last_modified": 1433675761,
+        "last_touched": 1433753074
+    },
+    {
+        "id": 196742,
+        "title": "昨天刚才华山回来，写了一篇攻略给大家参考",
+        "url": "http://www.v2ex.com/t/196742",
+        "content": "爬完才发现身子远不如以前了，虽然是第一次挑战华山！\r\n\r\n感悟\r\n\r\n1） 要经常运动，作为程序员更要经常运动！\r\n2） 趁着年轻，果断找华山找找刺激的感觉吧！\r\n3） 注意安全\r\n\r\n\r\n\r\nhttp://www.phpgao.com/climb-and-conquer-mount-hua.html",
+        "content_rendered": "<p>爬完才发现身子远不如以前了，虽然是第一次挑战华山！</p>\n\n<p>感悟</p>\n\n<p>1） 要经常运动，作为程序员更要经常运动！<br>\n2） 趁着年轻，果断找华山找找刺激的感觉吧！<br>\n3） 注意安全</p>\n\n<p><a target=\"_blank\" rel=\"nofollow\" href=\"http://www.phpgao.com/climb-and-conquer-mount-hua.html\">http://www.phpgao.com/climb-and-conquer-mount-hua.html</a></p>\n",
+        "replies": 51,
+        "member": {
+            "id": 69144,
+            "username": "endoffight",
+            "tagline": "Always explorer.",
+            "avatar_mini": "//cdn.v2ex.co/avatar/d8b6/528b/69144_mini.png?m=1432795287",
+            "avatar_normal": "//cdn.v2ex.co/avatar/d8b6/528b/69144_normal.png?m=1432795287",
+            "avatar_large": "//cdn.v2ex.co/avatar/d8b6/528b/69144_large.png?m=1432795287"
+        },
+        "node": {
+            "id": 181,
+            "name": "travel",
+            "title": "旅行",
+            "title_alternative": "Travel",
+            "url": "http://www.v2ex.com/go/travel",
+            "topics": 170,
+            "avatar_mini": "//cdn.v2ex.co/navatar/fc22/1309/181_mini.png?m=1421631725",
+            "avatar_normal": "//cdn.v2ex.co/navatar/fc22/1309/181_normal.png?m=1421631725",
+            "avatar_large": "//cdn.v2ex.co/navatar/fc22/1309/181_large.png?m=1421631725"
+        },
+        "created": 1433676340,
+        "last_modified": 1433683812,
+        "last_touched": 1433758844
+    },
+    {
+        "id": 196843,
+        "title": "当我要下属写周报，变成了自己不希望成为的人",
+        "url": "http://www.v2ex.com/t/196843",
+        "content": "很多人都是厌恶写周报的吧？我没有当上管理之前也是。\r\n但是现在每周要去开会，要写月报，季度报告，如果没有周报，很难想起每一件事情的细节，以至于写不出什么东西，于是我也让下面的人写周报了，听到了他们的抱怨。\r\n还有一点私心，希望调动他们的积极性。",
+        "content_rendered": "很多人都是厌恶写周报的吧？我没有当上管理之前也是。\r<br />但是现在每周要去开会，要写月报，季度报告，如果没有周报，很难想起每一件事情的细节，以至于写不出什么东西，于是我也让下面的人写周报了，听到了他们的抱怨。\r<br />还有一点私心，希望调动他们的积极性。",
+        "replies": 48,
+        "member": {
+            "id": 42293,
+            "username": "s2555",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/72e8/1de9/42293_mini.png?m=1393046855",
+            "avatar_normal": "//cdn.v2ex.co/avatar/72e8/1de9/42293_normal.png?m=1393046855",
+            "avatar_large": "//cdn.v2ex.co/avatar/72e8/1de9/42293_large.png?m=1393046855"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 510,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433729266,
+        "last_modified": 1433739104,
+        "last_touched": 1433759278
+    },
+    {
+        "id": 196899,
+        "title": "用了百度云加速海外比源站速度还慢",
+        "url": "http://www.v2ex.com/t/196899",
+        "content": "纯静态文件CSS，js，jpg组成的html网页，用百度云加速CDN，理应全部缓存在节点上，结果打开比源站还慢！\r\n域名没有备案，但由于是特殊域名，托关于腾讯云不会被查。\r\n欢迎大家来测试\r\n域名1 使用百度云加速美国节点 www.moe.edu.ky\r\n域名2 源站日本 www.moecraft.net\r\n域名2加载的文件比1要多很多，但是却可以在3-4s内打开\r\n是不是可以说百度海外节点就是一个笑话？",
+        "content_rendered": "纯静态文件CSS，js，jpg组成的html网页，用百度云加速CDN，理应全部缓存在节点上，结果打开比源站还慢！\r<br />域名没有备案，但由于是特殊域名，托关于腾讯云不会被查。\r<br />欢迎大家来测试\r<br />域名1 使用百度云加速美国节点 <a target=\"_blank\" href=\"http://www.moe.edu.ky\" rel=\"nofollow\">www.moe.edu.ky</a>\r<br />域名2 源站日本 <a target=\"_blank\" href=\"http://www.moecraft.net\" rel=\"nofollow\">www.moecraft.net</a>\r<br />域名2加载的文件比1要多很多，但是却可以在3-4s内打开\r<br />是不是可以说百度海外节点就是一个笑话？",
+        "replies": 47,
+        "member": {
+            "id": 99470,
+            "username": "Andy1999",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=73&d=retro"
+        },
+        "node": {
+            "id": 104,
+            "name": "cloud",
+            "title": "云计算",
+            "title_alternative": "Cloud Computing",
+            "url": "http://www.v2ex.com/go/cloud",
+            "topics": 1009,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1433057967",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1433057967",
+            "avatar_large": "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1433057967"
+        },
+        "created": 1433741791,
+        "last_modified": 1433741791,
+        "last_touched": 1433758966
+    },
+    {
+        "id": 196854,
+        "title": "为回馈 V2EX 的用户， CloudXNS 首次活动盛大开启！",
+        "url": "http://www.v2ex.com/t/196854",
+        "content": "##对不起！我们来晚了！\r\n回首CloudXNS产品新版发布这半年多来的历程，最大的收获就是在v2ex社区上认识了很多新用户。大家给我们提意见找问题帮助我们一步步改进，虽然时至今日我们仍然有很多需要完善的地方，但无论怎样，是时候抽出时间回馈下了。\r\n![](http://www.cloudxns.net/Public/Sun/images/award/emailhead.jpg) \r\n#\r\n##本次活动的主题是：**晒CloudXNS产品体验，轻松赢千元大奖！**\r\n###**您只需要在任意一稳定的站点上发表CloudXNS相关内容体验然后把链接反馈给我们，剩下的事情交由我们来做。**\r\n详情请见： http://show2015.cloudxns.net/Activity/index.html\r\n\r\n\r\n##致歉&致谢\r\n我们不善运营，这是我们的第一次官方活动，准备了很长时间。关于昨天出现维护通知的意外，也是由于准备活动所致，由于没有什么经验导致出现意外，还望见谅。\r\n很抱歉这么晚才推出活动，希望大家能积极参与支持并将活动信息分享给周边的朋友。\r\n我们以后还会不定期推出活动，有了这次经验，相信一定会越来越好的。么么哒~",
+        "content_rendered": "<h2>对不起！我们来晚了！</h2>\n\n<p>回首CloudXNS产品新版发布这半年多来的历程，最大的收获就是在v2ex社区上认识了很多新用户。大家给我们提意见找问题帮助我们一步步改进，虽然时至今日我们仍然有很多需要完善的地方，但无论怎样，是时候抽出时间回馈下了。<br>\n<img src=\"http://www.cloudxns.net/Public/Sun/images/award/emailhead.jpg\" alt=\"\"> </p>\n\n<h2>本次活动的主题是：<strong>晒CloudXNS产品体验，轻松赢千元大奖！</strong></h2>\n\n<h3><strong>您只需要在任意一稳定的站点上发表CloudXNS相关内容体验然后把链接反馈给我们，剩下的事情交由我们来做。</strong></h3>\n\n<p>详情请见： <a target=\"_blank\" rel=\"nofollow\" href=\"http://show2015.cloudxns.net/Activity/index.html\">http://show2015.cloudxns.net/Activity/index.html</a></p>\n\n<h2>致歉&amp;致谢</h2>\n\n<p>我们不善运营，这是我们的第一次官方活动，准备了很长时间。关于昨天出现维护通知的意外，也是由于准备活动所致，由于没有什么经验导致出现意外，还望见谅。<br>\n很抱歉这么晚才推出活动，希望大家能积极参与支持并将活动信息分享给周边的朋友。<br>\n我们以后还会不定期推出活动，有了这次经验，相信一定会越来越好的。么么哒~</p>\n",
+        "replies": 46,
+        "member": {
+            "id": 101236,
+            "username": "CloudXNS",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_mini.png?m=1426241408",
+            "avatar_normal": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_normal.png?m=1426241408",
+            "avatar_large": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_large.png?m=1426241408"
+        },
+        "node": {
+            "id": 199,
+            "name": "dns",
+            "title": "DNS",
+            "title_alternative": "DNS",
+            "url": "http://www.v2ex.com/go/dns",
+            "topics": 740,
+            "avatar_mini": "//cdn.v2ex.co/navatar/84d9/ee44/199_mini.png?m=1429512710",
+            "avatar_normal": "//cdn.v2ex.co/navatar/84d9/ee44/199_normal.png?m=1429512710",
+            "avatar_large": "//cdn.v2ex.co/navatar/84d9/ee44/199_large.png?m=1429512710"
+        },
+        "created": 1433730844,
+        "last_modified": 1433730844,
+        "last_touched": 1433759234
+    },
+    {
+        "id": 196797,
+        "title": "20150608 午夜俱乐部",
+        "url": "http://www.v2ex.com/t/196797",
+        "content": "希望这个星期事情可以顺利，希望你我都可以拥有自己想要的人生。",
+        "content_rendered": "希望这个星期事情可以顺利，希望你我都可以拥有自己想要的人生。",
+        "replies": 41,
+        "member": {
+            "id": 41639,
+            "username": "niklaus520",
+            "tagline": "Kinda love u",
+            "avatar_mini": "//cdn.v2ex.co/avatar/d429/78e2/41639_mini.png?m=1412771856",
+            "avatar_normal": "//cdn.v2ex.co/avatar/d429/78e2/41639_normal.png?m=1412771856",
+            "avatar_large": "//cdn.v2ex.co/avatar/d429/78e2/41639_large.png?m=1412771856"
+        },
+        "node": {
+            "id": 286,
+            "name": "afterdark",
+            "title": "天黑以后",
+            "title_alternative": "After Dark",
+            "url": "http://www.v2ex.com/go/afterdark",
+            "topics": 1537,
+            "avatar_mini": "//cdn.v2ex.co/navatar/16a5/cdae/286_mini.png?m=1430514985",
+            "avatar_normal": "//cdn.v2ex.co/navatar/16a5/cdae/286_normal.png?m=1430514985",
+            "avatar_large": "//cdn.v2ex.co/navatar/16a5/cdae/286_large.png?m=1430514985"
+        },
+        "created": 1433692488,
+        "last_modified": 1433692488,
+        "last_touched": 1433749226
+    },
+    {
+        "id": 196858,
+        "title": "大家对 WWDC 2015 有什么期望",
+        "url": "http://www.v2ex.com/t/196858",
+        "content": "",
+        "content_rendered": "",
+        "replies": 38,
+        "member": {
+            "id": 93309,
+            "username": "crayhuang",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=73&d=retro"
+        },
+        "node": {
+            "id": 184,
+            "name": "apple",
+            "title": "Apple",
+            "title_alternative": "Apple",
+            "url": "http://www.v2ex.com/go/apple",
+            "topics": 1263,
+            "avatar_mini": "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1433239477",
+            "avatar_normal": "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1433239477",
+            "avatar_large": "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1433239477"
+        },
+        "created": 1433731507,
+        "last_modified": 1433731507,
+        "last_touched": 1433754930
+    },
+    {
+        "id": 196721,
+        "title": "[讨论]基于卷积神经网深度学习的图像降噪算法初步探究",
+        "url": "http://www.v2ex.com/t/196721",
+        "content": "最近在Github上发现一个有趣的[项目](https://github.com/nagadomi/waifu2x)，是一个专门为AniPic优化的图像放大算法，基于卷积神经网深度学习，通过大量数据让算法自行优化处理方式，官方提供了一个在线demo - [waifu2x](http://waifu2x.udp.jp/)，效果令人惊讶，先上个图。\r\n\r\n原图\r\n![原图](http://ww1.sinaimg.cn/large/711c9247tw1esr6s43wzuj20890bj3z6.jpg)\r\n处理后（参数：Noise Reduction: low; Upscaling: 2x;)\r\n![waifu2x](http://ww4.sinaimg.cn/large/711c9247tw1esr6sr740yj20gi0n20x7.jpg)\r\n作为对照放出用PS处理的效果（参数: 两次平方扩大2x，noiseware full luma noise reduction, 表面模糊0.1, USM锐化）\r\n![PS](http://ww1.sinaimg.cn/large/711c9247tw1esr9piwzk6j20gi0n20v1.jpg)\r\n效果强差人意，明显不如waifu2x的效果。\r\n\r\n而且根据核心算法的[论文](http://arxiv.org/abs/1501.00092)，算法本身实际上可以不对图像进行预处理，直接处理RBG，而waifu2x提供的demo是将RBG图像先转化成YUV，这个过程会对效果造成负面影响，但即便如此效果依旧理想，下一步目标是尝试直接处理RBG图像测试效果。\r\n\r\n目前demo是基于N卡的CUDA运算，但实际上核心算法可提取出来基于CPU运算，能处理视频和图像，算法本身的目标是降噪而非放大，但用来放大图像也是可以的。虽然算法本身是用来降噪的，但实际也可作为压缩算法，对图像视频进行有损压缩后，在接收端进行放大并降噪，能节省不少带宽和空间，有可能成为有损版的H.265(?)\r\n\r\n本文的主要目的就是介绍一下这个降噪算法，诸君有需要处理的扫图可以直接丢到[这里](http://waifu2x.udp.jp/)进行处理，但要注意2M的文件限制，也可以部署算法到本地环境，部署方式有[提供](https://github.com/nagadomi/waifu2x#installation)。\r\n\r\nPS.我并不是DeepLearning专业的，也是刚刚接触，正在啃基础论文，对此方面很感兴趣，本文旨在抛砖引玉之效，上面的观点部分来自之前和坛友的讨论，可能认识有错误，朱军尽管指正，希望能推荐一些入门资料和相关大牛的部落格。\r\n\r\n以上\r\n\r\n [参考文献] \r\n[1] [nagadomi/waifu2x Image Super-Resolution for Anime-Style-Art - Github](https://github.com/nagadomi/waifu2x#installation)\r\n[2] [Image Super-Resolution Using Deep Convolutional Networks - arxiv](http://arxiv.org/abs/1501.00092)\r\n[3] [卡通图片的压缩 - 风云的BLOG](http://blog.codingnow.com/2015/05/rgbyuv.html)\r\n[4] [UFLDL教程 - Stanford](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)\r\n[5] [zouxy09的专栏 - CSDN](http://blog.csdn.net/zouxy09)\r\n\r\n本网站（或页面）的文字允许在 [知识共享 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh) 下修改和再使用。",
+        "content_rendered": "<p>最近在Github上发现一个有趣的<a target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/nagadomi/waifu2x\">项目</a>，是一个专门为AniPic优化的图像放大算法，基于卷积神经网深度学习，通过大量数据让算法自行优化处理方式，官方提供了一个在线demo - <a target=\"_blank\" rel=\"nofollow\" href=\"http://waifu2x.udp.jp/\">waifu2x</a>，效果令人惊讶，先上个图。</p>\n\n<p>原图<br>\n<img src=\"http://ww1.sinaimg.cn/large/711c9247tw1esr6s43wzuj20890bj3z6.jpg\" alt=\"原图\"><br>\n处理后（参数：Noise Reduction: low; Upscaling: 2x;)<br>\n<img src=\"http://ww4.sinaimg.cn/large/711c9247tw1esr6sr740yj20gi0n20x7.jpg\" alt=\"waifu2x\"><br>\n作为对照放出用PS处理的效果（参数: 两次平方扩大2x，noiseware full luma noise reduction, 表面模糊0.1, USM锐化）<br>\n<img src=\"http://ww1.sinaimg.cn/large/711c9247tw1esr9piwzk6j20gi0n20v1.jpg\" alt=\"PS\"><br>\n效果强差人意，明显不如waifu2x的效果。</p>\n\n<p>而且根据核心算法的<a target=\"_blank\" rel=\"nofollow\" href=\"http://arxiv.org/abs/1501.00092\">论文</a>，算法本身实际上可以不对图像进行预处理，直接处理RBG，而waifu2x提供的demo是将RBG图像先转化成YUV，这个过程会对效果造成负面影响，但即便如此效果依旧理想，下一步目标是尝试直接处理RBG图像测试效果。</p>\n\n<p>目前demo是基于N卡的CUDA运算，但实际上核心算法可提取出来基于CPU运算，能处理视频和图像，算法本身的目标是降噪而非放大，但用来放大图像也是可以的。虽然算法本身是用来降噪的，但实际也可作为压缩算法，对图像视频进行有损压缩后，在接收端进行放大并降噪，能节省不少带宽和空间，有可能成为有损版的H.265(?)</p>\n\n<p>本文的主要目的就是介绍一下这个降噪算法，诸君有需要处理的扫图可以直接丢到<a target=\"_blank\" rel=\"nofollow\" href=\"http://waifu2x.udp.jp/\">这里</a>进行处理，但要注意2M的文件限制，也可以部署算法到本地环境，部署方式有<a target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/nagadomi/waifu2x#installation\">提供</a>。</p>\n\n<p>PS.我并不是DeepLearning专业的，也是刚刚接触，正在啃基础论文，对此方面很感兴趣，本文旨在抛砖引玉之效，上面的观点部分来自之前和坛友的讨论，可能认识有错误，朱军尽管指正，希望能推荐一些入门资料和相关大牛的部落格。</p>\n\n<p>以上</p>\n\n<p>[参考文献] <br>\n[1] <a target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/nagadomi/waifu2x#installation\">nagadomi/waifu2x Image Super-Resolution for Anime-Style-Art - Github</a><br>\n[2] <a target=\"_blank\" rel=\"nofollow\" href=\"http://arxiv.org/abs/1501.00092\">Image Super-Resolution Using Deep Convolutional Networks - arxiv</a><br>\n[3] <a target=\"_blank\" rel=\"nofollow\" href=\"http://blog.codingnow.com/2015/05/rgbyuv.html\">卡通图片的压缩 - 风云的BLOG</a><br>\n[4] <a target=\"_blank\" rel=\"nofollow\" href=\"http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B\">UFLDL教程 - Stanford</a><br>\n[5] <a target=\"_blank\" rel=\"nofollow\" href=\"http://blog.csdn.net/zouxy09\">zouxy09的专栏 - CSDN</a></p>\n\n<p>本网站（或页面）的文字允许在 <a target=\"_blank\" rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh\">知识共享 署名-相同方式共享 3.0协议</a> 下修改和再使用。</p>\n",
+        "replies": 69,
+        "member": {
+            "id": 42238,
+            "username": "Explorare",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/a0c36d268cd2588e658ba40b62cb16e5?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/a0c36d268cd2588e658ba40b62cb16e5?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/a0c36d268cd2588e658ba40b62cb16e5?s=73&d=retro"
+        },
+        "node": {
+            "id": 11,
+            "name": "linux",
+            "title": "Linux",
+            "title_alternative": "Linux",
+            "url": "http://www.v2ex.com/go/linux",
+            "topics": 1700,
+            "avatar_mini": "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1433335168",
+            "avatar_normal": "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1433335168",
+            "avatar_large": "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1433335168"
+        },
+        "created": 1433664856,
+        "last_modified": 1433664856,
+        "last_touched": 1433738231
+    },
+    {
+        "id": 196735,
+        "title": "内存小于 4G 是否应该装 64 位操作系统?",
+        "url": "http://www.v2ex.com/t/196735",
+        "content": "以windows 7 为例\r\n比如内存只有2G,是否应该装 64bit操作系统?\r\n在2G内存上,32位和64位使用上有什么区别?",
+        "content_rendered": "以windows 7 为例\r<br />比如内存只有2G,是否应该装 64bit操作系统?\r<br />在2G内存上,32位和64位使用上有什么区别?",
+        "replies": 49,
+        "member": {
+            "id": 5941,
+            "username": "tux",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/e0b6/0d93/5941_mini.png?m=1334724519",
+            "avatar_normal": "//cdn.v2ex.co/avatar/e0b6/0d93/5941_normal.png?m=1334724519",
+            "avatar_large": "//cdn.v2ex.co/avatar/e0b6/0d93/5941_large.png?m=1334724519"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50786,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1433673398,
+        "last_modified": 1433673398,
+        "last_touched": 1433739193
+    },
+    {
+        "id": 196691,
+        "title": "为什么大家都不倾向于进外包公司",
+        "url": "http://www.v2ex.com/t/196691",
+        "content": "对于刚毕业的那些大学生，进外包公司貌似是大多数。\r\n\r\n可否结合你们的实际经历，谈谈在以服务外包为主的公司做项目具体有哪些不好的地方么？\r\n\r\n愿闻其详。\r\n如果大家都愿意讨论一下，那么这个主题也算是可以给刚毕业的大学生们一些些参考。",
+        "content_rendered": "对于刚毕业的那些大学生，进外包公司貌似是大多数。\r<br />\r<br />可否结合你们的实际经历，谈谈在以服务外包为主的公司做项目具体有哪些不好的地方么？\r<br />\r<br />愿闻其详。\r<br />如果大家都愿意讨论一下，那么这个主题也算是可以给刚毕业的大学生们一些些参考。",
+        "replies": 45,
+        "member": {
+            "id": 67019,
+            "username": "Hamniba",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/5d0d/ee08/67019_mini.png?m=1432273490",
+            "avatar_normal": "//cdn.v2ex.co/avatar/5d0d/ee08/67019_normal.png?m=1432273490",
+            "avatar_large": "//cdn.v2ex.co/avatar/5d0d/ee08/67019_large.png?m=1432273490"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 509,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433655895,
+        "last_modified": 1433658335,
+        "last_touched": 1433736564
+    },
+    {
+        "id": 196759,
+        "title": "DigitalOcean 是不是对中国客户不太友好？",
+        "url": "http://www.v2ex.com/t/196759",
+        "content": "貌似经常封中国客户的vps帐号",
+        "content_rendered": "貌似经常封中国客户的vps帐号",
+        "replies": 41,
+        "member": {
+            "id": 120591,
+            "username": "543400",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/2104cad927fadd55f2b7452ff97cf05b?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/2104cad927fadd55f2b7452ff97cf05b?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/2104cad927fadd55f2b7452ff97cf05b?s=73&d=retro"
+        },
+        "node": {
+            "id": 11,
+            "name": "linux",
+            "title": "Linux",
+            "title_alternative": "Linux",
+            "url": "http://www.v2ex.com/go/linux",
+            "topics": 1700,
+            "avatar_mini": "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1433335168",
+            "avatar_normal": "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1433335168",
+            "avatar_large": "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1433335168"
+        },
+        "created": 1433680221,
+        "last_modified": 1433680221,
+        "last_touched": 1433736334
+    },
+    {
+        "id": 196722,
+        "title": "大家在学习新语言新技术的时候，都是怎么学习的？",
+        "url": "http://www.v2ex.com/t/196722",
+        "content": "最近在学些React，教程中讲的东西都看得懂，但是抛开教程，自己动手去实现一个页面的时候，总是不知道从何下手，而且连React的语法格式怎么写都记不起来了……\r\n请问大家在学习新东西的时候，都是如何学习的？\r\n有哪些好的学习方法可以改变自己这种被动的状态？\r\n请分享自己确确实实实践过的学习方法，谢谢",
+        "content_rendered": "<p>最近在学些React，教程中讲的东西都看得懂，但是抛开教程，自己动手去实现一个页面的时候，总是不知道从何下手，而且连React的语法格式怎么写都记不起来了……<br>\n请问大家在学习新东西的时候，都是如何学习的？<br>\n有哪些好的学习方法可以改变自己这种被动的状态？<br>\n请分享自己确确实实实践过的学习方法，谢谢</p>\n",
+        "replies": 37,
+        "member": {
+            "id": 79558,
+            "username": "Nixus",
+            "tagline": "天天刷v2ex",
+            "avatar_mini": "//cdn.v2ex.co/avatar/1ed8/5a76/79558_mini.png?m=1428457457",
+            "avatar_normal": "//cdn.v2ex.co/avatar/1ed8/5a76/79558_normal.png?m=1428457457",
+            "avatar_large": "//cdn.v2ex.co/avatar/1ed8/5a76/79558_large.png?m=1428457457"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8014,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433388951",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433388951",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433388951"
+        },
+        "created": 1433665263,
+        "last_modified": 1433665263,
+        "last_touched": 1433703635
+    }
+]
