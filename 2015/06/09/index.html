@@ -1,0 +1,121 @@
+<html>
+    <head>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+        <meta name="baidu-site-verification" content="v4PBvJNJAh" />
+        <title>V2EX 2015/06/09热帖</title>
+        <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
+        <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "//hm.baidu.com/hm.js?44705b87ac3ece362fddcbcd2774c067";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/06/09");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
+        </script>
+
+        
+    </head>
+
+    <body background="/bg.gif">
+        <h1 align="center">
+            2015/06/09热帖
+        </h1>
+        <table border="1" align="center">
+            <tr>
+                <th>
+                    回贴数
+                </th>
+                <th>
+                     题目
+                </th>
+            </tr>
+
+            
+            <tr>
+                <td>111</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/197107">发现一面试者熟悉 jquery， prototypejs 操作 ajax，但是却不会写原生的 ajax</a></td>
+            </tr>
+            
+            <tr>
+                <td>97</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196909">在招人时什么样的 Github 能让你眼前一亮呢</a></td>
+            </tr>
+            
+            <tr>
+                <td>68</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/197078">前端荒？</a></td>
+            </tr>
+            
+            <tr>
+                <td>68</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/197080">WWDC 2015 Keynote 讨论</a></td>
+            </tr>
+            
+            <tr>
+                <td>60</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196899">用了百度云加速海外比源站速度还慢</a></td>
+            </tr>
+            
+            <tr>
+                <td>54</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196991">国内软件思维</a></td>
+            </tr>
+            
+            <tr>
+                <td>39</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/197123">想问一下，你的公司开发机会禁止上外网吗？</a></td>
+            </tr>
+            
+            <tr>
+                <td>39</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/196952">大家对公共场合 比如办公室公交车等地方吃鸡蛋有啥看法</a></td>
+            </tr>
+            
+            <tr>
+                <td>39</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/197108">有升级 OX X 10.11 Developer Beta 没有呢？</a></td>
+            </tr>
+            
+            <tr>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
+            </tr>
+        </table>
+</body>
