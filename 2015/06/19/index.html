@@ -1,0 +1,121 @@
+<html>
+    <head>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+        <meta name="baidu-site-verification" content="v4PBvJNJAh" />
+        <title>V2EX 2015/06/19热帖</title>
+        <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
+        <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "//hm.baidu.com/hm.js?44705b87ac3ece362fddcbcd2774c067";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/06/19");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
+        </script>
+
+        
+    </head>
+
+    <body background="/bg.gif">
+        <h1 align="center">
+            2015/06/19热帖
+        </h1>
+        <table border="1" align="center">
+            <tr>
+                <th>
+                    回贴数
+                </th>
+                <th>
+                     题目
+                </th>
+            </tr>
+
+            
+            <tr>
+                <td>126</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199650">有人说我的头像丑，都投诉到我博客去了</a></td>
+            </tr>
+            
+            <tr>
+                <td>77</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199609">为什么 要这样说：人生苦短，我用 Python</a></td>
+            </tr>
+            
+            <tr>
+                <td>55</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199593">同事离职，代码交接给我，基本没什么注释，还不愿意写文档。</a></td>
+            </tr>
+            
+            <tr>
+                <td>54</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199690">晒一下你最常用的 10 个 Vim 命令？</a></td>
+            </tr>
+            
+            <tr>
+                <td>49</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199563">已入 极 3 路由器 大坑，发现没啥好的。</a></td>
+            </tr>
+            
+            <tr>
+                <td>49</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199566">10W 个代理 ip 能用来干什么</a></td>
+            </tr>
+            
+            <tr>
+                <td>45</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199668">论坛被攻击得出名了，现在自己陷入无限 302 中。。。</a></td>
+            </tr>
+            
+            <tr>
+                <td>44</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199652">写写最近面试几家公司的感受吧，找工作就要告一段落了</a></td>
+            </tr>
+            
+            <tr>
+                <td>41</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/199727">你们都激活京东白条了吗？</a></td>
+            </tr>
+            
+            <tr>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
+            </tr>
+        </table>
+</body>
