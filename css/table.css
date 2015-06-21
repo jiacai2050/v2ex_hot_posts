@@ -12,13 +12,13 @@ th {
   text-align: left;
 }
 td {
-  line-height: 50px;
+  padding: 15px 0;
   border-top: 1px solid #ddd;
 }
 th:first-child,
 td:first-child {
   text-align: center;
-  width: 80px;
+  width: 53px;
 }
 a,
 a:visited,
