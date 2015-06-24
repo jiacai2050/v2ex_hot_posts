@@ -1,0 +1,602 @@
+[
+    {
+        "id": 197799,
+        "title": "大家觉得是谷歌需要中国还是中国需要谷歌？",
+        "url": "http://www.v2ex.com/t/197799",
+        "content": "市场的需求总是双方的。但是究竟是谁更需要谁？",
+        "content_rendered": "市场的需求总是双方的。但是究竟是谁更需要谁？",
+        "replies": 113,
+        "member": {
+            "id": 55175,
+            "username": "sadaharu09",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/1733/0af5/55175_mini.png?m=1408796952",
+            "avatar_normal": "//cdn.v2ex.co/avatar/1733/0af5/55175_normal.png?m=1408796952",
+            "avatar_large": "//cdn.v2ex.co/avatar/1733/0af5/55175_large.png?m=1408796952"
+        },
+        "node": {
+            "id": 65,
+            "name": "google",
+            "title": "Google",
+            "title_alternative": "Google",
+            "url": "http://www.v2ex.com/go/google",
+            "topics": 1091,
+            "avatar_mini": "//cdn.v2ex.co/navatar/fc49/0ca4/65_mini.png?m=1405233616",
+            "avatar_normal": "//cdn.v2ex.co/navatar/fc49/0ca4/65_normal.png?m=1405233616",
+            "avatar_large": "//cdn.v2ex.co/navatar/fc49/0ca4/65_large.png?m=1405233616"
+        },
+        "created": 1434011457,
+        "last_modified": 1434057306,
+        "last_touched": 1434058406
+    },
+    {
+        "id": 197666,
+        "title": "为什么有那么多人用移动呢？",
+        "url": "http://www.v2ex.com/t/197666",
+        "content": "以前用过移动，感觉移动远不及联通啊！难道那些人都没用过联通吗？",
+        "content_rendered": "以前用过移动，感觉移动远不及联通啊！难道那些人都没用过联通吗？",
+        "replies": 105,
+        "member": {
+            "id": 73867,
+            "username": "xz",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/9ab9/bcbc/73867_mini.png?m=1414329634",
+            "avatar_normal": "//cdn.v2ex.co/avatar/9ab9/bcbc/73867_normal.png?m=1414329634",
+            "avatar_large": "//cdn.v2ex.co/avatar/9ab9/bcbc/73867_large.png?m=1414329634"
+        },
+        "node": {
+            "id": 589,
+            "name": "4g",
+            "title": "4G",
+            "title_alternative": "4G",
+            "url": "http://www.v2ex.com/go/4g",
+            "topics": 58,
+            "avatar_mini": "/static/img/node_mini.png",
+            "avatar_normal": "/static/img/node_normal.png",
+            "avatar_large": "/static/img/node_large.png"
+        },
+        "created": 1433980575,
+        "last_modified": 1434062027,
+        "last_touched": 1433974021
+    },
+    {
+        "id": 197722,
+        "title": "考虑在香港建立一个产品研发团队，求各位看法",
+        "url": "http://www.v2ex.com/t/197722",
+        "content": "是这样的，我们 ( http://alpha.huaxing.com/d ) 在北京有一个开发团队，但是因为北京正处在全民创业的狂欢中，而且大家对于「互联网投行」的认知程度不高，绝大多数人看到投资银行，就认为是「银行」，然后想想各大银行的的U盾的那个难用，就觉得技术一定没什么前途。其实真的不是这样的，我们是一个用 Ruby, AngularJS, Ionic 的团队，做的事情和市面上绝大多数互联网产品并无差别。\r\n\r\nAnyway，所以我们考虑在香港建立一个开发团队，把一部分产品线交给香港。选择香港是因为我们在香港正好有office (ICC 81楼，欢迎各位香港的朋友来参观)，而且香港远离创业泡沫，我个人考虑如下：\r\n\r\n1. 香港对于投行的认知度比较高，传统投行IT大多是技术支持的工作，其他有意思的Tech工作并不多，绝大多数都是外包，如果在投行中，做一个自己的有意思的互联网产品，还是有吸引力的。\r\n2. 工作签证是一个问题，如果是永久居民或者**本地毕业生 (本科 or Master)**，就比较简单；但是如果是从在内地 (主要是广东，因为广东的各位不大喜欢去北京) 直接引入，就比较麻烦，签证不是很好推进。\r\n3. 香港本地的科技产业一直处于最底层，这几年也没什么发展，技术氛围也一般，真正顶尖的技术人才，留在香港的不多；不过话说，绝大多数创业公司也真的不是靠纯技术取胜的啦，都也不是rocket science，所以我觉得人还是有的，还是一个match的问题。\r\n4. 香港的技术人才有本地人，内地人和歪果仁三个大群体，大家貌似平常也不在一起玩，考虑到和北京团队的协作，肯定还是要会说中文 (普通话) 会好一些。\r\n5. 香港也算是肉翻吧，网速快，也没墙，国际化视野也不错，住久了还是挺舒服的，就是房子小了点。\r\n\r\n各位怎么看？在香港的各位也欢迎找我喝咖啡 (ruoyusun @ chinarenaissance.com) ，一起聊聊。",
+        "content_rendered": "<p>是这样的，我们 ( <a target=\"_blank\" rel=\"nofollow\" href=\"http://alpha.huaxing.com/d\">http://alpha.huaxing.com/d</a> ) 在北京有一个开发团队，但是因为北京正处在全民创业的狂欢中，而且大家对于「互联网投行」的认知程度不高，绝大多数人看到投资银行，就认为是「银行」，然后想想各大银行的的U盾的那个难用，就觉得技术一定没什么前途。其实真的不是这样的，我们是一个用 Ruby, AngularJS, Ionic 的团队，做的事情和市面上绝大多数互联网产品并无差别。</p>\n\n<p>Anyway，所以我们考虑在香港建立一个开发团队，把一部分产品线交给香港。选择香港是因为我们在香港正好有office (ICC 81楼，欢迎各位香港的朋友来参观)，而且香港远离创业泡沫，我个人考虑如下：</p>\n\n<ol>\n<li>香港对于投行的认知度比较高，传统投行IT大多是技术支持的工作，其他有意思的Tech工作并不多，绝大多数都是外包，如果在投行中，做一个自己的有意思的互联网产品，还是有吸引力的。</li>\n<li>工作签证是一个问题，如果是永久居民或者<strong>本地毕业生 (本科 or Master)</strong>，就比较简单；但是如果是从在内地 (主要是广东，因为广东的各位不大喜欢去北京) 直接引入，就比较麻烦，签证不是很好推进。</li>\n<li>香港本地的科技产业一直处于最底层，这几年也没什么发展，技术氛围也一般，真正顶尖的技术人才，留在香港的不多；不过话说，绝大多数创业公司也真的不是靠纯技术取胜的啦，都也不是rocket science，所以我觉得人还是有的，还是一个match的问题。</li>\n<li>香港的技术人才有本地人，内地人和歪果仁三个大群体，大家貌似平常也不在一起玩，考虑到和北京团队的协作，肯定还是要会说中文 (普通话) 会好一些。</li>\n<li>香港也算是肉翻吧，网速快，也没墙，国际化视野也不错，住久了还是挺舒服的，就是房子小了点。</li>\n</ol>\n\n<p>各位怎么看？在香港的各位也欢迎找我喝咖啡 (ruoyusun @ chinarenaissance.com) ，一起聊聊。</p>\n",
+        "replies": 85,
+        "member": {
+            "id": 11929,
+            "username": "insraq",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/43c5/b26b/11929_mini.png?m=1429586201",
+            "avatar_normal": "//cdn.v2ex.co/avatar/43c5/b26b/11929_normal.png?m=1429586201",
+            "avatar_large": "//cdn.v2ex.co/avatar/43c5/b26b/11929_large.png?m=1429586201"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8080,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1434042489",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1434042489",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1434042489"
+        },
+        "created": 1433993847,
+        "last_modified": 1433993847,
+        "last_touched": 1434043396
+    },
+    {
+        "id": 197730,
+        "title": "Homebrew 的作者被 Google 拒啦，因为他不会翻转二叉树",
+        "url": "http://www.v2ex.com/t/197730",
+        "content": "Homebrew 的作者被 Google 拒啦，因为他不会翻转二叉树，然后作者在twitter上开骂啦，然后很多公司开始抢人了。\r\n\r\n\r\n![](http://i.v2ex.co/cye6AQ82.jpeg)\r\n\r\n你来挑战一下翻转二叉树吧\r\nhttp://www.nowcoder.com/books/coding-interviews/564f4c26aa584921bc75623e48ca3011\r\n\r\n\r\n非递归版本的答案如下：\r\nhttp://www.nowcoder.com/questionTerminal/bcffd7e8a0d4402c99773bed98690bb7",
+        "content_rendered": "<p>Homebrew 的作者被 Google 拒啦，因为他不会翻转二叉树，然后作者在twitter上开骂啦，然后很多公司开始抢人了。</p>\n\n<p><img src=\"http://i.v2ex.co/cye6AQ82.jpeg\" alt=\"\"></p>\n\n<p>你来挑战一下翻转二叉树吧<br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.nowcoder.com/books/coding-interviews/564f4c26aa584921bc75623e48ca3011\">http://www.nowcoder.com/books/coding-interviews/564f4c26aa584921bc75623e48ca3011</a></p>\n\n<p>非递归版本的答案如下：<br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.nowcoder.com/questionTerminal/bcffd7e8a0d4402c99773bed98690bb7\">http://www.nowcoder.com/questionTerminal/bcffd7e8a0d4402c99773bed98690bb7</a></p>\n",
+        "replies": 74,
+        "member": {
+            "id": 89491,
+            "username": "nowcoder",
+            "tagline": "IT面试题库，求职刷题神器",
+            "avatar_mini": "//cdn.v2ex.co/avatar/6bb1/e243/89491_mini.png?m=1420120528",
+            "avatar_normal": "//cdn.v2ex.co/avatar/6bb1/e243/89491_normal.png?m=1420120528",
+            "avatar_large": "//cdn.v2ex.co/avatar/6bb1/e243/89491_large.png?m=1420120528"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8080,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1434042489",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1434042489",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1434042489"
+        },
+        "created": 1433995266,
+        "last_modified": 1433995458,
+        "last_touched": 1434049914
+    },
+    {
+        "id": 197786,
+        "title": "[讨论] 除了 V2EX，你们还常逛那些网站呢？",
+        "url": "http://www.v2ex.com/t/197786",
+        "content": "大家一起来聊聊，除了V2EX还常去的网站吧！先来说说我自己常去的网站。\r\n\r\n开源中国： http://www.oschina.net/\r\n\r\n很喜欢它的动弹，每天都会去看看同行们都在闲聊些什么？\r\n\r\n开发者头条： http://toutiao.io/\r\n\r\n很多的干货，很有信息量。\r\n\r\n实验楼： https://www.shiyanlou.com/\r\n\r\n用于测试一些不错的python，ruby，Linux等相关代码，省去了在本机环境上测试。\r\n\r\nGitHub： https://github.com/\r\n\r\n看看开源小项目。\r\n\r\n1024：XXXXXXXXX\r\n\r\n这个不多说，我想你们都懂！",
+        "content_rendered": "<p>大家一起来聊聊，除了V2EX还常去的网站吧！先来说说我自己常去的网站。</p>\n\n<p>开源中国： <a target=\"_blank\" rel=\"nofollow\" href=\"http://www.oschina.net/\">http://www.oschina.net/</a></p>\n\n<p>很喜欢它的动弹，每天都会去看看同行们都在闲聊些什么？</p>\n\n<p>开发者头条： <a target=\"_blank\" rel=\"nofollow\" href=\"http://toutiao.io/\">http://toutiao.io/</a></p>\n\n<p>很多的干货，很有信息量。</p>\n\n<p>实验楼： <a target=\"_blank\" rel=\"nofollow\" href=\"https://www.shiyanlou.com/\">https://www.shiyanlou.com/</a></p>\n\n<p>用于测试一些不错的python，ruby，Linux等相关代码，省去了在本机环境上测试。</p>\n\n<p>GitHub： <a target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/\">https://github.com/</a></p>\n\n<p>看看开源小项目。</p>\n\n<p>1024：XXXXXXXXX</p>\n\n<p>这个不多说，我想你们都懂！</p>\n",
+        "replies": 69,
+        "member": {
+            "id": 116842,
+            "username": "littleMonkey",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/0fe4/9d16/116842_mini.png?m=1431568673",
+            "avatar_normal": "//cdn.v2ex.co/avatar/0fe4/9d16/116842_normal.png?m=1431568673",
+            "avatar_large": "//cdn.v2ex.co/avatar/0fe4/9d16/116842_large.png?m=1431568673"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8080,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1434042489",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1434042489",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1434042489"
+        },
+        "created": 1434008348,
+        "last_modified": 1434008348,
+        "last_touched": 1434054198
+    },
+    {
+        "id": 197713,
+        "title": "这可能是你最好的下一份工作",
+        "url": "http://www.v2ex.com/t/197713",
+        "content": "![](https://mmbiz.qlogo.cn/mmbiz/ptzPRp7wMuiatOJoJibS785PZ37eq9SERMyqEAdXVA1MkUWZBdCe6VSsFVA1ficVVooia0xUbvhicLlbTNhJMxs7qOA/0?wx_fmt=jpeg)\r\n\r\n历史，终究是由平凡大众创造的，虽然历史书不是这样写的。\r\n\r\n**Ping++ 正在招聘： http://www.lagou.com/gongsi/11001.html?utm_source=DH__lagou&utm_medium=jiaodiantu&utm_campaign=ping**\r\n\r\n**Ping++ 已经有这些人： https://pingxx.com/about**",
+        "content_rendered": "<p><img src=\"https://mmbiz.qlogo.cn/mmbiz/ptzPRp7wMuiatOJoJibS785PZ37eq9SERMyqEAdXVA1MkUWZBdCe6VSsFVA1ficVVooia0xUbvhicLlbTNhJMxs7qOA/0?wx_fmt=jpeg\" alt=\"\"></p>\n\n<p>历史，终究是由平凡大众创造的，虽然历史书不是这样写的。</p>\n\n<p><strong>Ping++ 正在招聘： <a target=\"_blank\" rel=\"nofollow\" href=\"http://www.lagou.com/gongsi/11001.html?utm_source=DH__lagou&amp;utm_medium=jiaodiantu&amp;utm_campaign=ping\">http://www.lagou.com/gongsi/11001.html?utm_source=DH__lagou&amp;utm_medium=jiaodiantu&amp;utm_campaign=ping</a></strong></p>\n\n<p><strong>Ping++ 已经有这些人： <a target=\"_blank\" rel=\"nofollow\" href=\"https://pingxx.com/about\">https://pingxx.com/about</a></strong></p>\n",
+        "replies": 57,
+        "member": {
+            "id": 60359,
+            "username": "pingplusplus",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/3988/8ead/60359_mini.png?m=1415771212",
+            "avatar_normal": "//cdn.v2ex.co/avatar/3988/8ead/60359_normal.png?m=1415771212",
+            "avatar_large": "//cdn.v2ex.co/avatar/3988/8ead/60359_large.png?m=1415771212"
+        },
+        "node": {
+            "id": 43,
+            "name": "jobs",
+            "title": "酷工作",
+            "title_alternative": "Jobs",
+            "url": "http://www.v2ex.com/go/jobs",
+            "topics": 10133,
+            "avatar_mini": "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1433852881",
+            "avatar_normal": "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1433852881",
+            "avatar_large": "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1433852881"
+        },
+        "created": 1433991844,
+        "last_modified": 1433991844,
+        "last_touched": 1434063936
+    },
+    {
+        "id": 197789,
+        "title": "初创公司怎么去吸引人才，除了薪水还有哪些呢？或者说，有意加入初创团队的技术人员，会考虑哪些方面呢？",
+        "url": "http://www.v2ex.com/t/197789",
+        "content": "楼主在南京，虽然创业环境不好，但是我相信这个城市肯定是存在很多人才的。这几天一直在找人，想了很多办法，在V2EX上面居然没有一位前端和UI设计来咨询的，我感觉是自己出了问题。所以就来问问，除了可观的薪水，还有哪些是技术人员关注的呢？如果可以介绍一些专业的社区和活动去认识一些朋友就更好了。我还去了程序员客栈和hiStarter找人，不过那边效果还没有V2EX好的。\r\n\r\n个人感觉目前互联网招聘市场，完全是\"卖方市场\", 哈哈",
+        "content_rendered": "楼主在南京，虽然创业环境不好，但是我相信这个城市肯定是存在很多人才的。这几天一直在找人，想了很多办法，在V2EX上面居然没有一位前端和UI设计来咨询的，我感觉是自己出了问题。所以就来问问，除了可观的薪水，还有哪些是技术人员关注的呢？如果可以介绍一些专业的社区和活动去认识一些朋友就更好了。我还去了程序员客栈和hiStarter找人，不过那边效果还没有V2EX好的。\r<br />\r<br />个人感觉目前互联网招聘市场，完全是&quot;卖方市场&quot;, 哈哈",
+        "replies": 45,
+        "member": {
+            "id": 67416,
+            "username": "wushichun",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/d9cf/8646/67416_mini.png?m=1415931179",
+            "avatar_normal": "//cdn.v2ex.co/avatar/d9cf/8646/67416_normal.png?m=1415931179",
+            "avatar_large": "//cdn.v2ex.co/avatar/d9cf/8646/67416_large.png?m=1415931179"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50989,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1434009296,
+        "last_modified": 1434009423,
+        "last_touched": 1434036197
+    },
+    {
+        "id": 197672,
+        "title": "今日惠惠可以一键日淘亚马逊了，还有运费五折。",
+        "url": "http://www.v2ex.com/t/197672",
+        "content": "http://www.huihui.cn/haitao/global",
+        "content_rendered": "<a target=\"_blank\" href=\"http://www.huihui.cn/haitao/global\" rel=\"nofollow\">http://www.huihui.cn/haitao/global</a>",
+        "replies": 43,
+        "member": {
+            "id": 104471,
+            "username": "DreamCMS",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/5587/7f9a/104471_mini.png?m=1428931406",
+            "avatar_normal": "//cdn.v2ex.co/avatar/5587/7f9a/104471_normal.png?m=1428931406",
+            "avatar_large": "//cdn.v2ex.co/avatar/5587/7f9a/104471_large.png?m=1428931406"
+        },
+        "node": {
+            "id": 16,
+            "name": "share",
+            "title": "分享发现",
+            "title_alternative": "Share",
+            "url": "http://www.v2ex.com/go/share",
+            "topics": 15532,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1433389098",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1433389098",
+            "avatar_large": "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1433389098"
+        },
+        "created": 1433983814,
+        "last_modified": 1433983814,
+        "last_touched": 1434029702
+    },
+    {
+        "id": 197727,
+        "title": "霍比特公司继续招募 PHP 高级工程师（包找女朋友哦！）",
+        "url": "http://www.v2ex.com/t/197727",
+        "content": "岗位描述：\r\n1、手机app各种api相关接口的开发；\r\n2、配合产品需求以及测试，高质量地完成项目；\r\n3、相关技术文档的编写及整理工作；\r\n\r\n任职要求：\r\n1、精通PHP，一年以上工作经验\r\n2、踏实、认真、靠谱，不需要你是技术大牛，咱们一起成长！\r\n3、熟练掌握HTML、JavaScript、css等web语言者优先录取\r\n总之，我们的后台是用php写的，我们是做社交软件的，对后台要求较高，流量大了之后不能崩溃啊！！你懂滴！！\r\n\r\n总之，说完了工作要求，咱们来说说福利！！\r\n\r\n提供的其他待遇\r\n\r\n1、丰厚的公司期权\r\n2、住房补助每月500（或者跟我们一起住望京SOHO的复式公寓，免费住！！）\r\n3、买iPhone补贴2000\r\n4、免费提供午餐和晚餐\r\n5、零食水果“不限量”供应\r\n\r\n6、包解决单身问题。（如果解决不了，我也不敢这么写，老板会打我的！！）\r\n\r\n1）我们会定期给单身的程序猿介绍女朋友；\r\n2）程序猿跟女票逛街约会可以提前下班甚至不用上班；\r\n3）我们还提供约会基金！对程序猿约会的花销进行报销；\r\n4）程序猿对介绍的女朋友不满意，会继续介绍，直到在一起为止！！\r\n\r\n相信没有公司有我们这种福利啦！有追求的技术大牛还在等待神马？？赶紧加入霍比特人的团队，一起打败索伦改变世界吧！！你帮我们搞定后期服务器端的疑难杂症！！我们帮你解决单身问题！！\r\n简历发到hr@hobbits.me邮箱！！\r\n工作地点：望京SOHO\r\n------------------分界线------------------------------------\r\n霍比特公司一家专注于移动社交的新生代科技企业，公司已获A轮融资，目前在快速发展期。目前公司主要开发的产品是虚拟女友软件，app名字叫喃喃，以下是相关媒体报道，大家可以了解一下\r\n36kr： http://www.36kr.com/p/218681.html\r\n动点科技： http://cn.technode.com/post/2015-02-04/nannan/\r\n\r\n喃喃app可以AppStore或者各大安卓应用商店搜索下载，欢迎大家下载体验（使用喃喃，如果找不到女朋友！！尽管来打我啊！）\r\n\r\n\r\n欢迎各位程序猿朋友们自荐或者推荐，推荐成功有5000奖金哦！",
+        "content_rendered": "<p>岗位描述：<br>\n1、手机app各种api相关接口的开发；<br>\n2、配合产品需求以及测试，高质量地完成项目；<br>\n3、相关技术文档的编写及整理工作；</p>\n\n<p>任职要求：<br>\n1、精通PHP，一年以上工作经验<br>\n2、踏实、认真、靠谱，不需要你是技术大牛，咱们一起成长！<br>\n3、熟练掌握HTML、JavaScript、css等web语言者优先录取<br>\n总之，我们的后台是用php写的，我们是做社交软件的，对后台要求较高，流量大了之后不能崩溃啊！！你懂滴！！</p>\n\n<p>总之，说完了工作要求，咱们来说说福利！！</p>\n\n<p>提供的其他待遇</p>\n\n<p>1、丰厚的公司期权<br>\n2、住房补助每月500（或者跟我们一起住望京SOHO的复式公寓，免费住！！）<br>\n3、买iPhone补贴2000<br>\n4、免费提供午餐和晚餐<br>\n5、零食水果“不限量”供应</p>\n\n<p>6、包解决单身问题。（如果解决不了，我也不敢这么写，老板会打我的！！）</p>\n\n<p>1）我们会定期给单身的程序猿介绍女朋友；<br>\n2）程序猿跟女票逛街约会可以提前下班甚至不用上班；<br>\n3）我们还提供约会基金！对程序猿约会的花销进行报销；<br>\n4）程序猿对介绍的女朋友不满意，会继续介绍，直到在一起为止！！</p>\n\n<p>相信没有公司有我们这种福利啦！有追求的技术大牛还在等待神马？？赶紧加入霍比特人的团队，一起打败索伦改变世界吧！！你帮我们搞定后期服务器端的疑难杂症！！我们帮你解决单身问题！！<br>\n简历发到<a target=\"_blank\" rel=\"nofollow\" href=\"mailto:hr@hobbits.me\">hr@hobbits.me</a>邮箱！！<br>\n工作地点：望京SOHO<br>\n------------------分界线------------------------------------<br>\n霍比特公司一家专注于移动社交的新生代科技企业，公司已获A轮融资，目前在快速发展期。目前公司主要开发的产品是虚拟女友软件，app名字叫喃喃，以下是相关媒体报道，大家可以了解一下<br>\n36kr： <a target=\"_blank\" rel=\"nofollow\" href=\"http://www.36kr.com/p/218681.html\">http://www.36kr.com/p/218681.html</a><br>\n动点科技： <a target=\"_blank\" rel=\"nofollow\" href=\"http://cn.technode.com/post/2015-02-04/nannan/\">http://cn.technode.com/post/2015-02-04/nannan/</a></p>\n\n<p>喃喃app可以AppStore或者各大安卓应用商店搜索下载，欢迎大家下载体验（使用喃喃，如果找不到女朋友！！尽管来打我啊！）</p>\n\n<p>欢迎各位程序猿朋友们自荐或者推荐，推荐成功有5000奖金哦！</p>\n",
+        "replies": 41,
+        "member": {
+            "id": 67198,
+            "username": "zymanor",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/0c69/9e07/67198_mini.png?m=1434032137",
+            "avatar_normal": "//cdn.v2ex.co/avatar/0c69/9e07/67198_normal.png?m=1434032137",
+            "avatar_large": "//cdn.v2ex.co/avatar/0c69/9e07/67198_large.png?m=1434032137"
+        },
+        "node": {
+            "id": 43,
+            "name": "jobs",
+            "title": "酷工作",
+            "title_alternative": "Jobs",
+            "url": "http://www.v2ex.com/go/jobs",
+            "topics": 10133,
+            "avatar_mini": "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1433852881",
+            "avatar_normal": "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1433852881",
+            "avatar_large": "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1433852881"
+        },
+        "created": 1433995086,
+        "last_modified": 1433995086,
+        "last_touched": 1434039602
+    },
+    {
+        "id": 197714,
+        "title": "经过长时间的使用后， Mac 的金属外壳变得很光滑，能通过什么办法尽可能恢复成新机时的粗糙感吗？",
+        "url": "http://www.v2ex.com/t/197714",
+        "content": "今天摸了下别人的新电脑，顿时发现我的电脑表面实在是太光滑，以至于握持的时候都要很小心，以防跌落。\r\n\r\n不知道大家有啥办法吗…谢谢。",
+        "content_rendered": "今天摸了下别人的新电脑，顿时发现我的电脑表面实在是太光滑，以至于握持的时候都要很小心，以防跌落。\r<br />\r<br />不知道大家有啥办法吗…谢谢。",
+        "replies": 31,
+        "member": {
+            "id": 61425,
+            "username": "aheadlead",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/e3bf/171d/61425_mini.png?m=1428375743",
+            "avatar_normal": "//cdn.v2ex.co/avatar/e3bf/171d/61425_normal.png?m=1428375743",
+            "avatar_large": "//cdn.v2ex.co/avatar/e3bf/171d/61425_large.png?m=1428375743"
+        },
+        "node": {
+            "id": 10,
+            "name": "mbp",
+            "title": "MacBook Pro",
+            "title_alternative": "MacBook Pro",
+            "url": "http://www.v2ex.com/go/mbp",
+            "topics": 1664,
+            "avatar_mini": "//cdn.v2ex.co/navatar/d3d9/4468/10_mini.png?m=1433239780",
+            "avatar_normal": "//cdn.v2ex.co/navatar/d3d9/4468/10_normal.png?m=1433239780",
+            "avatar_large": "//cdn.v2ex.co/navatar/d3d9/4468/10_large.png?m=1433239780"
+        },
+        "created": 1433991858,
+        "last_modified": 1433991858,
+        "last_touched": 1434028328
+    },
+    {
+        "id": 197653,
+        "title": "大家都是用什么方式发现新的音乐呢？",
+        "url": "http://www.v2ex.com/t/197653",
+        "content": "我发现自己最喜欢的那些音乐，大部分都是在高中时候去淘碟时发现的。而这两年几乎没有遇到过什么特别喜欢的新的音乐。",
+        "content_rendered": "我发现自己最喜欢的那些音乐，大部分都是在高中时候去淘碟时发现的。而这两年几乎没有遇到过什么特别喜欢的新的音乐。",
+        "replies": 141,
+        "member": {
+            "id": 1,
+            "username": "Livid",
+            "tagline": "Beautifully Advance",
+            "avatar_mini": "//cdn.v2ex.co/avatar/c4ca/4238/1_mini.png?m=1427926997",
+            "avatar_normal": "//cdn.v2ex.co/avatar/c4ca/4238/1_normal.png?m=1427926997",
+            "avatar_large": "//cdn.v2ex.co/avatar/c4ca/4238/1_large.png?m=1427926997"
+        },
+        "node": {
+            "id": 4,
+            "name": "music",
+            "title": "音乐",
+            "title_alternative": "Music",
+            "url": "http://www.v2ex.com/go/music",
+            "topics": 683,
+            "avatar_mini": "//cdn.v2ex.co/navatar/a87f/f679/4_mini.png?m=1433959296",
+            "avatar_normal": "//cdn.v2ex.co/navatar/a87f/f679/4_normal.png?m=1433959296",
+            "avatar_large": "//cdn.v2ex.co/navatar/a87f/f679/4_large.png?m=1433959296"
+        },
+        "created": 1433959230,
+        "last_modified": 1433959230,
+        "last_touched": 1434020777
+    },
+    {
+        "id": 197629,
+        "title": "百度依旧那么无底线啊，手机端搜南航电话，出来第一个结果就打了，也没注意，直到推改签还跟你要你的银行卡密码才意识到不对，回头一查果然是诈骗团伙， 4008-114268， 恶行累累，居然还能开下去的。唉。",
+        "url": "http://www.v2ex.com/t/197629",
+        "content": "顺便提醒不要上当啊。",
+        "content_rendered": "顺便提醒不要上当啊。",
+        "replies": 47,
+        "member": {
+            "id": 2351,
+            "username": "zhouhua97",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/0abd/c563/2351_mini.png?m=1335102061",
+            "avatar_normal": "//cdn.v2ex.co/avatar/0abd/c563/2351_normal.png?m=1335102061",
+            "avatar_large": "//cdn.v2ex.co/avatar/0abd/c563/2351_large.png?m=1335102061"
+        },
+        "node": {
+            "id": 56,
+            "name": "internet",
+            "title": "互联网",
+            "title_alternative": "Internet",
+            "url": "http://www.v2ex.com/go/internet",
+            "topics": 405,
+            "avatar_mini": "//cdn.v2ex.co/navatar/9f61/408e/56_mini.png?m=1433414855",
+            "avatar_normal": "//cdn.v2ex.co/navatar/9f61/408e/56_normal.png?m=1433414855",
+            "avatar_large": "//cdn.v2ex.co/navatar/9f61/408e/56_large.png?m=1433414855"
+        },
+        "created": 1433950290,
+        "last_modified": 1433950669,
+        "last_touched": 1434006429
+    },
+    {
+        "id": 197647,
+        "title": "三个月我是用来点技能树还是用来享受我的青春呢？",
+        "url": "http://www.v2ex.com/t/197647",
+        "content": "高考完的三个月，技能树没有什么明确的进化方向，同学们是说该好好玩（成绩不理想就去南方进化计算机技能）。但是个人很纠结。",
+        "content_rendered": "高考完的三个月，技能树没有什么明确的进化方向，同学们是说该好好玩（成绩不理想就去南方进化计算机技能）。但是个人很纠结。",
+        "replies": 44,
+        "member": {
+            "id": 111936,
+            "username": "theBlitzcrank",
+            "tagline": "too young too simple",
+            "avatar_mini": "//cdn.v2ex.co/avatar/8d34/8cad/111936_mini.png?m=1431183145",
+            "avatar_normal": "//cdn.v2ex.co/avatar/8d34/8cad/111936_normal.png?m=1431183145",
+            "avatar_large": "//cdn.v2ex.co/avatar/8d34/8cad/111936_large.png?m=1431183145"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50969,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1433955328,
+        "last_modified": 1433955328,
+        "last_touched": 1434017957
+    },
+    {
+        "id": 197593,
+        "title": "公司和家里代码同步，大家有什么好的方式？",
+        "url": "http://www.v2ex.com/t/197593",
+        "content": "讨论下，大家都用过哪些方式， 主要是方便为主。 比如我想让公司和家里Eclipse的workspace保持同步一致",
+        "content_rendered": "<p>讨论下，大家都用过哪些方式， 主要是方便为主。 比如我想让公司和家里Eclipse的workspace保持同步一致</p>\n",
+        "replies": 43,
+        "member": {
+            "id": 38401,
+            "username": "vagrant",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/cdd3defc686d06818375cfa3904aa856?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/cdd3defc686d06818375cfa3904aa856?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/cdd3defc686d06818375cfa3904aa856?s=73&d=retro"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50969,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1433941490,
+        "last_modified": 1433941490,
+        "last_touched": 1433998094
+    },
+    {
+        "id": 197517,
+        "title": "蛮有意思的解谜网站，你能玩到第几关？",
+        "url": "http://www.v2ex.com/t/197517",
+        "content": "http://cafebabe.cc/nazo/\r\n\r\n群里人都说是程序员专用TAT",
+        "content_rendered": "<p><a target=\"_blank\" rel=\"nofollow\" href=\"http://cafebabe.cc/nazo/\">http://cafebabe.cc/nazo/</a></p>\n\n<p>群里人都说是程序员专用TAT</p>\n",
+        "replies": 229,
+        "member": {
+            "id": 68773,
+            "username": "judgingwoo",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/019e/bd17/68773_mini.png?m=1433940109",
+            "avatar_normal": "//cdn.v2ex.co/avatar/019e/bd17/68773_normal.png?m=1433940109",
+            "avatar_large": "//cdn.v2ex.co/avatar/019e/bd17/68773_large.png?m=1433940109"
+        },
+        "node": {
+            "id": 16,
+            "name": "share",
+            "title": "分享发现",
+            "title_alternative": "Share",
+            "url": "http://www.v2ex.com/go/share",
+            "topics": 15522,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1433389098",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1433389098",
+            "avatar_large": "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1433389098"
+        },
+        "created": 1433921558,
+        "last_modified": 1433921558,
+        "last_touched": 1433999333
+    },
+    {
+        "id": 197514,
+        "title": "前端面试奇遇记",
+        "url": "http://www.v2ex.com/t/197514",
+        "content": "今天去面了北京网信金融的初级前端工程师实习，感觉被问得整个人都要坏掉了\r\n##面试前\r\n交通不方便暂且不提，前台锥子脸玩手机不给办卡不提。。。\r\n\r\n进门hr问有没有带简历，我在包里没有找到（我本来准备了一叠用来面试用，可能昨天聊得太晚落在百度了）。\r\n\r\n我：实在抱歉，公司应该也有准备我的简历副本吧？\r\n\r\nHR表示他们并没有我的简历，让我去她得电脑上打印（HR是个十分温和的大姐姐）\r\n\r\n我到了电脑上打开邮箱下载了一份pdf简历（吐槽一下HR居然用IE6，而且据说公司只能用IE），过了20分钟HR过来和我说打印不了。。。我只好下楼打印，楼下打印店老头笑眯眯的和我说：“a4黑白打印十块钱一张”，我笑眯眯得和老头说：“你咋不去抢？”\r\n\r\n好不容易HR姐姐协调其他部门的人打印，我要求说这里有U盘。男高管笑着说不用他那里有（到底有没有我的简历）。\r\n\r\n打印出来后我瞄了一眼，LOGO居然是猎聘网，我从拉钩投的简历居然打印出来我猎聘网的简历，而我猎聘网只是随便注册的简历上连根毛也没有啊！！\r\n\r\n接下来跟着胖胖的面试官进了一间小的会议室，算是正式开始面试\r\n\r\n##面试\r\n\r\n面试官：看了眼你的简历，啥也没做过啊。。。自我介绍一下吧\r\n\r\n我说我是四川大学的，今年毕业，在原公司实习主要做页面重构，简历有问题。\r\n面试官：唔。。页面重构？\r\n\r\n我：简单地说就是比较初级的将设计稿变成网页的工作。\r\n\r\n面试官：大学学的啥？\r\n\r\n我：软件工程（万万没想到啊，这个回答简直掉入大坑啊）\r\n\r\n面试官：哦哦我知道，就是学C和JAVA吧，那你Javascript怎么样？\r\n\r\n我：还算可以，不是非常强（做谦虚状）\r\n\r\n面试官：你学了四年JAVA结果JAVASCRIPT只是一般般？\r\n\r\n我：。。。。。（Orz内心一万只草泥马）\r\n\r\n面试官：那我问你，如果使用c（我纠正我现在用python），用python打印一个一万行的字符串，请问怎样echo？\r\n\r\n我：。。。。。要是write的话，要怎么加速？可以多线程么？\r\n\r\n面试官：看你（看你妹啊！我哪知道你这是问的什么方向？）\r\n\r\n我：一般的做法如果非常大但是有实际数量的文件我们可以多开线程来做\r\n\r\n面试官：那开几个？如何动态分配线程？\r\n\r\n我：。。。。（这个问题以前没考虑过，的确是个好问题。但是我真的是在面试前端工程师么？）\r\n\r\n面试官：好吧拿在问你一个问题，你一般是怎么优化网页的？\r\n\r\n我：。。。。。（卧槽有花有好多方向的好吧，SEO也是优化，加载速度也是优化，交互也是优化）就拿加载速度来说，比较常用的办法是合并压缩css，多张小图合并，js脚本放文末等等常规办法（刚说到css合并就被打断了）\r\n\r\n面试官：那合并css你采用什么办法？\r\n\r\n我：一般是用gulp吧，使用gulp的一个插件\r\n\r\n面试官：。。。。（好像没听说过gulp），那gulp比grunt好在哪里？\r\n\r\n我：把项目以输入流的方式输入，然后经过一个个处理成为输出流（其实我也不太懂）我只是觉得，gulp顺手\r\n\r\n面试官：为了防止你忽悠我，你来讲一下什么叫管道？\r\n\r\n我：上一个文件的输出直接作为下一个文件的输入（这个的确不了解，还需要知其所以然啊）\r\n\r\n面试官：那这个管道协议巴拉巴拉巴拉以什么样的方式把运行？在什么层面上？\r\n\r\n我：。。。。（懵逼了。。。我真的投的简历是前端实习生？）\r\n\r\n面试官：那这些自动化工具是怎样检测到脚本文件变化了呢？\r\n\r\n我：这个我不清楚，但是按照常理应该是检测文件的md5值（如有错误请大家指正）\r\n\r\n面试官：那md5值能不能可逆推算？\r\n\r\n我：当然不能\r\n\r\n面试官：你的c语言学得怎么样？\r\n\r\n我：我大一时学的C但是基本没有什么场景应用，基本就没怎么再接触了\r\n\r\n面试官：那C里面巴拉巴拉巴拉巴拉动态巴拉巴拉。。。。是怎样实现的？\r\n\r\n我：。。。。。。（我都说了我很久不写C更何况是这么偏理论的一时真想不起来）\r\n\r\n面试官：哦，我看你这学校还不错，但是你啥都不会哦？大学四年都魔兽了吧？\r\n\r\n我：我不玩游戏。。。\r\n\r\n面试官：那你啥都不会？我们这里的实习生可是都会哦~\r\n\r\n我：哦。。。挺好的。。。\r\n\r\n面试官：那今天的面试结束了\r\n\r\n我：哦太好了！",
+        "content_rendered": "<p>今天去面了北京网信金融的初级前端工程师实习，感觉被问得整个人都要坏掉了</p>\n\n<h2>面试前</h2>\n\n<p>交通不方便暂且不提，前台锥子脸玩手机不给办卡不提。。。</p>\n\n<p>进门hr问有没有带简历，我在包里没有找到（我本来准备了一叠用来面试用，可能昨天聊得太晚落在百度了）。</p>\n\n<p>我：实在抱歉，公司应该也有准备我的简历副本吧？</p>\n\n<p>HR表示他们并没有我的简历，让我去她得电脑上打印（HR是个十分温和的大姐姐）</p>\n\n<p>我到了电脑上打开邮箱下载了一份pdf简历（吐槽一下HR居然用IE6，而且据说公司只能用IE），过了20分钟HR过来和我说打印不了。。。我只好下楼打印，楼下打印店老头笑眯眯的和我说：“a4黑白打印十块钱一张”，我笑眯眯得和老头说：“你咋不去抢？”</p>\n\n<p>好不容易HR姐姐协调其他部门的人打印，我要求说这里有U盘。男高管笑着说不用他那里有（到底有没有我的简历）。</p>\n\n<p>打印出来后我瞄了一眼，LOGO居然是猎聘网，我从拉钩投的简历居然打印出来我猎聘网的简历，而我猎聘网只是随便注册的简历上连根毛也没有啊！！</p>\n\n<p>接下来跟着胖胖的面试官进了一间小的会议室，算是正式开始面试</p>\n\n<h2>面试</h2>\n\n<p>面试官：看了眼你的简历，啥也没做过啊。。。自我介绍一下吧</p>\n\n<p>我说我是四川大学的，今年毕业，在原公司实习主要做页面重构，简历有问题。<br>\n面试官：唔。。页面重构？</p>\n\n<p>我：简单地说就是比较初级的将设计稿变成网页的工作。</p>\n\n<p>面试官：大学学的啥？</p>\n\n<p>我：软件工程（万万没想到啊，这个回答简直掉入大坑啊）</p>\n\n<p>面试官：哦哦我知道，就是学C和JAVA吧，那你Javascript怎么样？</p>\n\n<p>我：还算可以，不是非常强（做谦虚状）</p>\n\n<p>面试官：你学了四年JAVA结果JAVASCRIPT只是一般般？</p>\n\n<p>我：。。。。。（Orz内心一万只草泥马）</p>\n\n<p>面试官：那我问你，如果使用c（我纠正我现在用python），用python打印一个一万行的字符串，请问怎样echo？</p>\n\n<p>我：。。。。。要是write的话，要怎么加速？可以多线程么？</p>\n\n<p>面试官：看你（看你妹啊！我哪知道你这是问的什么方向？）</p>\n\n<p>我：一般的做法如果非常大但是有实际数量的文件我们可以多开线程来做</p>\n\n<p>面试官：那开几个？如何动态分配线程？</p>\n\n<p>我：。。。。（这个问题以前没考虑过，的确是个好问题。但是我真的是在面试前端工程师么？）</p>\n\n<p>面试官：好吧拿在问你一个问题，你一般是怎么优化网页的？</p>\n\n<p>我：。。。。。（卧槽有花有好多方向的好吧，SEO也是优化，加载速度也是优化，交互也是优化）就拿加载速度来说，比较常用的办法是合并压缩css，多张小图合并，js脚本放文末等等常规办法（刚说到css合并就被打断了）</p>\n\n<p>面试官：那合并css你采用什么办法？</p>\n\n<p>我：一般是用gulp吧，使用gulp的一个插件</p>\n\n<p>面试官：。。。。（好像没听说过gulp），那gulp比grunt好在哪里？</p>\n\n<p>我：把项目以输入流的方式输入，然后经过一个个处理成为输出流（其实我也不太懂）我只是觉得，gulp顺手</p>\n\n<p>面试官：为了防止你忽悠我，你来讲一下什么叫管道？</p>\n\n<p>我：上一个文件的输出直接作为下一个文件的输入（这个的确不了解，还需要知其所以然啊）</p>\n\n<p>面试官：那这个管道协议巴拉巴拉巴拉以什么样的方式把运行？在什么层面上？</p>\n\n<p>我：。。。。（懵逼了。。。我真的投的简历是前端实习生？）</p>\n\n<p>面试官：那这些自动化工具是怎样检测到脚本文件变化了呢？</p>\n\n<p>我：这个我不清楚，但是按照常理应该是检测文件的md5值（如有错误请大家指正）</p>\n\n<p>面试官：那md5值能不能可逆推算？</p>\n\n<p>我：当然不能</p>\n\n<p>面试官：你的c语言学得怎么样？</p>\n\n<p>我：我大一时学的C但是基本没有什么场景应用，基本就没怎么再接触了</p>\n\n<p>面试官：那C里面巴拉巴拉巴拉巴拉动态巴拉巴拉。。。。是怎样实现的？</p>\n\n<p>我：。。。。。。（我都说了我很久不写C更何况是这么偏理论的一时真想不起来）</p>\n\n<p>面试官：哦，我看你这学校还不错，但是你啥都不会哦？大学四年都魔兽了吧？</p>\n\n<p>我：我不玩游戏。。。</p>\n\n<p>面试官：那你啥都不会？我们这里的实习生可是都会哦~</p>\n\n<p>我：哦。。。挺好的。。。</p>\n\n<p>面试官：那今天的面试结束了</p>\n\n<p>我：哦太好了！</p>\n",
+        "replies": 79,
+        "member": {
+            "id": 120184,
+            "username": "vertigo",
+            "tagline": "萌萌哒前端程序员",
+            "avatar_mini": "//cdn.v2ex.co/avatar/bd4a/7bde/120184_mini.png?m=1433237045",
+            "avatar_normal": "//cdn.v2ex.co/avatar/bd4a/7bde/120184_normal.png?m=1433237045",
+            "avatar_large": "//cdn.v2ex.co/avatar/bd4a/7bde/120184_large.png?m=1433237045"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 520,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433921338,
+        "last_modified": 1433930987,
+        "last_touched": 1433999172
+    },
+    {
+        "id": 197527,
+        "title": "小米路由器 2999 元",
+        "url": "http://www.v2ex.com/t/197527",
+        "content": "http://ww1.sinaimg.cn/mw1024/66e8f898jw1esz1mh3twfj22io1w0npd.jpg\r\nhttp://ww1.sinaimg.cn/mw1024/66e8f898jw1esz1mjucy1j22io1w0u0x.jpg",
+        "content_rendered": "<img src=\"http://ww1.sinaimg.cn/mw1024/66e8f898jw1esz1mh3twfj22io1w0npd.jpg\" class=\"imgly\" style=\"max-width: 660px;\" border=\"0\" /> \r<br /><img src=\"http://ww1.sinaimg.cn/mw1024/66e8f898jw1esz1mjucy1j22io1w0u0x.jpg\" class=\"imgly\" style=\"max-width: 660px;\" border=\"0\" /> ",
+        "replies": 75,
+        "member": {
+            "id": 104471,
+            "username": "DreamCMS",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/5587/7f9a/104471_mini.png?m=1428931406",
+            "avatar_normal": "//cdn.v2ex.co/avatar/5587/7f9a/104471_normal.png?m=1428931406",
+            "avatar_large": "//cdn.v2ex.co/avatar/5587/7f9a/104471_large.png?m=1428931406"
+        },
+        "node": {
+            "id": 824,
+            "name": "router",
+            "title": "路由器",
+            "title_alternative": "Router",
+            "url": "http://www.v2ex.com/go/router",
+            "topics": 110,
+            "avatar_mini": "//cdn.v2ex.co/navatar/677e/0972/824_mini.png?m=1419267950",
+            "avatar_normal": "//cdn.v2ex.co/navatar/677e/0972/824_normal.png?m=1419267950",
+            "avatar_large": "//cdn.v2ex.co/navatar/677e/0972/824_large.png?m=1419267950"
+        },
+        "created": 1433922679,
+        "last_modified": 1433936614,
+        "last_touched": 1433998960
+    },
+    {
+        "id": 197478,
+        "title": "反正我也不懂程序员的世界",
+        "url": "http://www.v2ex.com/t/197478",
+        "content": "程序猿真的很爱大蜜那种活动吗，难道不觉得找几个技术大牛弄点干货分享更好么？我们公司的程序员真的很喜欢大蜜那种活动，醉了。\r\n\r\n我只是纯吐槽。",
+        "content_rendered": "程序猿真的很爱大蜜那种活动吗，难道不觉得找几个技术大牛弄点干货分享更好么？我们公司的程序员真的很喜欢大蜜那种活动，醉了。\r<br />\r<br />我只是纯吐槽。",
+        "replies": 63,
+        "member": {
+            "id": 118250,
+            "username": "qiamiumiu",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/bc95/4d83/118250_mini.png?m=1432804727",
+            "avatar_normal": "//cdn.v2ex.co/avatar/bc95/4d83/118250_normal.png?m=1432804727",
+            "avatar_large": "//cdn.v2ex.co/avatar/bc95/4d83/118250_large.png?m=1432804727"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8064,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433930511",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433930511",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433930511"
+        },
+        "created": 1433915274,
+        "last_modified": 1433915274,
+        "last_touched": 1433995934
+    },
+    {
+        "id": 197532,
+        "title": "有对 IPTV 很了解的吗？很想自己经营。",
+        "url": "http://www.v2ex.com/t/197532",
+        "content": "应该是卫星信号然后转数字信号通过网络传输吧。\r\n传输这块估计常用P2P技术来实现。\r\n\r\n卫星电视不是太懂，国内开锅是违法的。就不研究了。也不是主要的瓶颈。\r\n\r\n我想实现一些功能如下：\r\n1.专门做日本频道（市面的iptv最多也就40-50个台。不全），从免费到收费，大大小小200多个台，我很想做全他。\r\n2.尽可能从4K<FHD<HD进行覆盖。\r\n3.节目单预告及回滚。方便回放查询。\r\n4.免去采集卡，实时转录。可编辑（cutting），可预约，可实现自动去除CM进行录制，有一些带字幕的可以自动转成ASS格式。\r\n5.暂不透露。>_>\r\n\r\n最好是做成软件包的，很讨厌捆绑式销售。\r\n\r\n主要有两点：\r\n1.政策问题，IPTV被封杀是不是时间的问题？还有封杀有可能性吗？难道封网？\r\n2.版权问题，IPTV实质就是转录，收费台肯定不用说了，侵权了，免费台呢？我倒是想健康发展。等有一定体量后，尝试拿下收费台的代理权。\r\n\r\n顺便，有兴趣做这行的，请留下爪印。很想捣鼓一下这玩意。资金储备还算充裕。保证大家能温饱思淫欲。( ･´ｰ･｀)どや\r\n\r\n顺便，我什么都不懂，主要求技术实现。",
+        "content_rendered": "<p>应该是卫星信号然后转数字信号通过网络传输吧。<br>\n传输这块估计常用P2P技术来实现。</p>\n\n<p>卫星电视不是太懂，国内开锅是违法的。就不研究了。也不是主要的瓶颈。</p>\n\n<p>我想实现一些功能如下：<br>\n1.专门做日本频道（市面的iptv最多也就40-50个台。不全），从免费到收费，大大小小200多个台，我很想做全他。<br>\n2.尽可能从4K&lt;FHD&lt;HD进行覆盖。<br>\n3.节目单预告及回滚。方便回放查询。<br>\n4.免去采集卡，实时转录。可编辑（cutting），可预约，可实现自动去除CM进行录制，有一些带字幕的可以自动转成ASS格式。<br>\n5.暂不透露。&gt;_&gt;</p>\n\n<p>最好是做成软件包的，很讨厌捆绑式销售。</p>\n\n<p>主要有两点：<br>\n1.政策问题，IPTV被封杀是不是时间的问题？还有封杀有可能性吗？难道封网？<br>\n2.版权问题，IPTV实质就是转录，收费台肯定不用说了，侵权了，免费台呢？我倒是想健康发展。等有一定体量后，尝试拿下收费台的代理权。</p>\n\n<p>顺便，有兴趣做这行的，请留下爪印。很想捣鼓一下这玩意。资金储备还算充裕。保证大家能温饱思淫欲。( ･´ｰ･｀)どや</p>\n\n<p>顺便，我什么都不懂，主要求技术实现。</p>\n",
+        "replies": 60,
+        "member": {
+            "id": 53208,
+            "username": "oopsmind",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/569ec960a9b47eee4a96a4b3b72e47fc?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/569ec960a9b47eee4a96a4b3b72e47fc?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/569ec960a9b47eee4a96a4b3b72e47fc?s=73&d=retro"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 50941,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1433923884,
+        "last_modified": 1433923884,
+        "last_touched": 1433980578
+    },
+    {
+        "id": 197489,
+        "title": "微信中，朋友圈一张都不给你看的选手，是不是可以直接删掉了？",
+        "url": "http://www.v2ex.com/t/197489",
+        "content": "朋友圈的规则是：你在朋友圈所能看到的任何内容都来自你的好友。\r\n\r\n既然你什么都不给我看也不屑分组，是不是也就默认我不算你的好友，甚至不如代购。\r\n\r\n本着不撕逼，不考验人性，又能让自己开心的角度出发，是不是直接删了这种好友比较好？\r\n\r\n又或者从维系人脉、日后还好相见的角度考虑，无视这些小状况？",
+        "content_rendered": "朋友圈的规则是：你在朋友圈所能看到的任何内容都来自你的好友。\r<br />\r<br />既然你什么都不给我看也不屑分组，是不是也就默认我不算你的好友，甚至不如代购。\r<br />\r<br />本着不撕逼，不考验人性，又能让自己开心的角度出发，是不是直接删了这种好友比较好？\r<br />\r<br />又或者从维系人脉、日后还好相见的角度考虑，无视这些小状况？",
+        "replies": 39,
+        "member": {
+            "id": 111150,
+            "username": "sinux",
+            "tagline": "我们仍未知道那天所遇到的bug的原因",
+            "avatar_mini": "//cdn.v2ex.co/avatar/f39b/2034/111150_mini.png?m=1429523089",
+            "avatar_normal": "//cdn.v2ex.co/avatar/f39b/2034/111150_normal.png?m=1429523089",
+            "avatar_large": "//cdn.v2ex.co/avatar/f39b/2034/111150_large.png?m=1429523089"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 520,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433916853,
+        "last_modified": 1433916853,
+        "last_touched": 1433968582
+    }
+]

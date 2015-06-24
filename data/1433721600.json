@@ -5,7 +5,7 @@
         "url": "http://www.v2ex.com/t/196819",
         "content": "",
         "content_rendered": "",
-        "replies": 107,
+        "replies": 123,
         "member": {
             "id": 89352,
             "username": "shopin",
@@ -27,7 +27,7 @@
         },
         "created": 1433722854,
         "last_modified": 1433742715,
-        "last_touched": 1433759208
+        "last_touched": 1433793390
     },
     {
         "id": 196862,
@@ -35,7 +35,7 @@
         "url": "http://www.v2ex.com/t/196862",
         "content": "首先如果不喜欢此类主题，欢迎大家block，但请别在下面发已block，生怕别人不知道似的\r\n#  背景 \r\n首先我是一个大专，临近毕业的学生。网络技术专业，自己觉得在学校没学到过什么东西。算是自学了一点东西吧\r\n现在是随女票来北京，身上也是没有多少钱。\r\n\r\n# 会的技术\r\n会点python\r\n会html + css + javascript\r\n用过linux（桌面）\r\nTCP/IP了解一些\r\n\r\n#\r\n招聘我也投过一些，不是要求本科学历，就是要求X年工作经验，差点都有点不想投了。\r\n基本都是没什么人理我，然后去过两家，基本也是技术不够，加上不善言谈，都是失败了\r\n\r\n#\r\n所以现在面临的问题是继续投简历，还是先找一份其他工作先顶着\r\n希望大家能给点建议，技术方面的也行\r\n\r\n差不多就这些，后面有人问到我再补充",
         "content_rendered": "<p>首先如果不喜欢此类主题，欢迎大家block，但请别在下面发已block，生怕别人不知道似的</p>\n\n<h1>背景</h1>\n\n<p>首先我是一个大专，临近毕业的学生。网络技术专业，自己觉得在学校没学到过什么东西。算是自学了一点东西吧<br>\n现在是随女票来北京，身上也是没有多少钱。</p>\n\n<h1>会的技术</h1>\n\n<p>会点python<br>\n会html + css + javascript<br>\n用过linux（桌面）<br>\nTCP/IP了解一些</p>\n\n<p>招聘我也投过一些，不是要求本科学历，就是要求X年工作经验，差点都有点不想投了。<br>\n基本都是没什么人理我，然后去过两家，基本也是技术不够，加上不善言谈，都是失败了</p>\n\n<p>所以现在面临的问题是继续投简历，还是先找一份其他工作先顶着<br>\n希望大家能给点建议，技术方面的也行</p>\n\n<p>差不多就这些，后面有人问到我再补充</p>\n",
-        "replies": 66,
+        "replies": 94,
         "member": {
             "id": 120682,
             "username": "Guanrenfu",
@@ -50,14 +50,224 @@
             "title": "程序员",
             "title_alternative": "Programmer",
             "url": "http://www.v2ex.com/go/programmer",
-            "topics": 8019,
-            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433388951",
-            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433388951",
-            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433388951"
+            "topics": 8027,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433780762",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433780762",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433780762"
         },
         "created": 1433732973,
         "last_modified": 1433734420,
-        "last_touched": 1433759687
+        "last_touched": 1433800927
+    },
+    {
+        "id": 196909,
+        "title": "在招人时什么样的 Github 能让你眼前一亮呢",
+        "url": "http://www.v2ex.com/t/196909",
+        "content": "经常看到招人的时候让别人提供Github的，那如果找一个后端职位，什么样的Github比较吸引人，谁能举几个平均水平和高水平的例子吗",
+        "content_rendered": "经常看到招人的时候让别人提供Github的，那如果找一个后端职位，什么样的Github比较吸引人，谁能举几个平均水平和高水平的例子吗",
+        "replies": 64,
+        "member": {
+            "id": 44922,
+            "username": "FinalDream",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/cf7617420ea9ff9c96506762b1ed6520?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/cf7617420ea9ff9c96506762b1ed6520?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/cf7617420ea9ff9c96506762b1ed6520?s=73&d=retro"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8027,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1433780762",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1433780762",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1433780762"
+        },
+        "created": 1433743494,
+        "last_modified": 1433743494,
+        "last_touched": 1433800177
+    },
+    {
+        "id": 197080,
+        "title": "WWDC 2015 Keynote 讨论",
+        "url": "http://www.v2ex.com/t/197080",
+        "content": "",
+        "content_rendered": "",
+        "replies": 64,
+        "member": {
+            "id": 25424,
+            "username": "banxi1988",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/5534/491f/25424_mini.png?m=1428824336",
+            "avatar_normal": "//cdn.v2ex.co/avatar/5534/491f/25424_normal.png?m=1428824336",
+            "avatar_large": "//cdn.v2ex.co/avatar/5534/491f/25424_large.png?m=1428824336"
+        },
+        "node": {
+            "id": 184,
+            "name": "apple",
+            "title": "Apple",
+            "title_alternative": "Apple",
+            "url": "http://www.v2ex.com/go/apple",
+            "topics": 1266,
+            "avatar_mini": "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1433239477",
+            "avatar_normal": "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1433239477",
+            "avatar_large": "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1433239477"
+        },
+        "created": 1433782124,
+        "last_modified": 1433782124,
+        "last_touched": 1433796852
+    },
+    {
+        "id": 196843,
+        "title": "当我要下属写周报，变成了自己不希望成为的人",
+        "url": "http://www.v2ex.com/t/196843",
+        "content": "很多人都是厌恶写周报的吧？我没有当上管理之前也是。\r\n但是现在每周要去开会，要写月报，季度报告，如果没有周报，很难想起每一件事情的细节，以至于写不出什么东西，于是我也让下面的人写周报了，听到了他们的抱怨。\r\n还有一点私心，希望调动他们的积极性。",
+        "content_rendered": "很多人都是厌恶写周报的吧？我没有当上管理之前也是。\r<br />但是现在每周要去开会，要写月报，季度报告，如果没有周报，很难想起每一件事情的细节，以至于写不出什么东西，于是我也让下面的人写周报了，听到了他们的抱怨。\r<br />还有一点私心，希望调动他们的积极性。",
+        "replies": 61,
+        "member": {
+            "id": 42293,
+            "username": "s2555",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/72e8/1de9/42293_mini.png?m=1393046855",
+            "avatar_normal": "//cdn.v2ex.co/avatar/72e8/1de9/42293_normal.png?m=1393046855",
+            "avatar_large": "//cdn.v2ex.co/avatar/72e8/1de9/42293_large.png?m=1393046855"
+        },
+        "node": {
+            "id": 770,
+            "name": "career",
+            "title": "职场话题",
+            "title_alternative": "Career",
+            "url": "http://www.v2ex.com/go/career",
+            "topics": 510,
+            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
+            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
+            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
+        },
+        "created": 1433729266,
+        "last_modified": 1433739104,
+        "last_touched": 1433779934
+    },
+    {
+        "id": 196854,
+        "title": "为回馈 V2EX 的用户， CloudXNS 首次活动盛大开启！",
+        "url": "http://www.v2ex.com/t/196854",
+        "content": "##对不起！我们来晚了！\r\n回首CloudXNS产品新版发布这半年多来的历程，最大的收获就是在v2ex社区上认识了很多新用户。大家给我们提意见找问题帮助我们一步步改进，虽然时至今日我们仍然有很多需要完善的地方，但无论怎样，是时候抽出时间回馈下了。\r\n![](http://www.cloudxns.net/Public/Sun/images/award/emailhead.jpg) \r\n#\r\n##本次活动的主题是：**晒CloudXNS产品体验，轻松赢千元大奖！**\r\n###**您只需要在任意一稳定的站点上发表CloudXNS相关内容体验然后把链接反馈给我们，剩下的事情交由我们来做。**\r\n详情请见： http://show2015.cloudxns.net/Activity/index.html\r\n\r\n\r\n##致歉&致谢\r\n我们不善运营，这是我们的第一次官方活动，准备了很长时间。关于昨天出现维护通知的意外，也是由于准备活动所致，由于没有什么经验导致出现意外，还望见谅。\r\n很抱歉这么晚才推出活动，希望大家能积极参与支持并将活动信息分享给周边的朋友。\r\n我们以后还会不定期推出活动，有了这次经验，相信一定会越来越好的。么么哒~",
+        "content_rendered": "<h2>对不起！我们来晚了！</h2>\n\n<p>回首CloudXNS产品新版发布这半年多来的历程，最大的收获就是在v2ex社区上认识了很多新用户。大家给我们提意见找问题帮助我们一步步改进，虽然时至今日我们仍然有很多需要完善的地方，但无论怎样，是时候抽出时间回馈下了。<br>\n<img src=\"http://www.cloudxns.net/Public/Sun/images/award/emailhead.jpg\" alt=\"\"> </p>\n\n<h2>本次活动的主题是：<strong>晒CloudXNS产品体验，轻松赢千元大奖！</strong></h2>\n\n<h3><strong>您只需要在任意一稳定的站点上发表CloudXNS相关内容体验然后把链接反馈给我们，剩下的事情交由我们来做。</strong></h3>\n\n<p>详情请见： <a target=\"_blank\" rel=\"nofollow\" href=\"http://show2015.cloudxns.net/Activity/index.html\">http://show2015.cloudxns.net/Activity/index.html</a></p>\n\n<h2>致歉&amp;致谢</h2>\n\n<p>我们不善运营，这是我们的第一次官方活动，准备了很长时间。关于昨天出现维护通知的意外，也是由于准备活动所致，由于没有什么经验导致出现意外，还望见谅。<br>\n很抱歉这么晚才推出活动，希望大家能积极参与支持并将活动信息分享给周边的朋友。<br>\n我们以后还会不定期推出活动，有了这次经验，相信一定会越来越好的。么么哒~</p>\n",
+        "replies": 56,
+        "member": {
+            "id": 101236,
+            "username": "CloudXNS",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_mini.png?m=1426241408",
+            "avatar_normal": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_normal.png?m=1426241408",
+            "avatar_large": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_large.png?m=1426241408"
+        },
+        "node": {
+            "id": 199,
+            "name": "dns",
+            "title": "DNS",
+            "title_alternative": "DNS",
+            "url": "http://www.v2ex.com/go/dns",
+            "topics": 740,
+            "avatar_mini": "//cdn.v2ex.co/navatar/84d9/ee44/199_mini.png?m=1429512710",
+            "avatar_normal": "//cdn.v2ex.co/navatar/84d9/ee44/199_normal.png?m=1429512710",
+            "avatar_large": "//cdn.v2ex.co/navatar/84d9/ee44/199_large.png?m=1429512710"
+        },
+        "created": 1433730844,
+        "last_modified": 1433730844,
+        "last_touched": 1433774742
+    },
+    {
+        "id": 196899,
+        "title": "用了百度云加速海外比源站速度还慢",
+        "url": "http://www.v2ex.com/t/196899",
+        "content": "纯静态文件CSS，js，jpg组成的html网页，用百度云加速CDN，理应全部缓存在节点上，结果打开比源站还慢！\r\n域名没有备案，但由于是特殊域名，托关于腾讯云不会被查。\r\n欢迎大家来测试\r\n域名1 使用百度云加速美国节点 www.moe.edu.ky\r\n域名2 源站日本 www.moecraft.net\r\n域名2加载的文件比1要多很多，但是却可以在3-4s内打开\r\n是不是可以说百度海外节点就是一个笑话？",
+        "content_rendered": "纯静态文件CSS，js，jpg组成的html网页，用百度云加速CDN，理应全部缓存在节点上，结果打开比源站还慢！\r<br />域名没有备案，但由于是特殊域名，托关于腾讯云不会被查。\r<br />欢迎大家来测试\r<br />域名1 使用百度云加速美国节点 <a target=\"_blank\" href=\"http://www.moe.edu.ky\" rel=\"nofollow\">www.moe.edu.ky</a>\r<br />域名2 源站日本 <a target=\"_blank\" href=\"http://www.moecraft.net\" rel=\"nofollow\">www.moecraft.net</a>\r<br />域名2加载的文件比1要多很多，但是却可以在3-4s内打开\r<br />是不是可以说百度海外节点就是一个笑话？",
+        "replies": 55,
+        "member": {
+            "id": 99470,
+            "username": "Andy1999",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=73&d=retro"
+        },
+        "node": {
+            "id": 104,
+            "name": "cloud",
+            "title": "云计算",
+            "title_alternative": "Cloud Computing",
+            "url": "http://www.v2ex.com/go/cloud",
+            "topics": 1009,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1433057967",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1433057967",
+            "avatar_large": "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1433057967"
+        },
+        "created": 1433741791,
+        "last_modified": 1433741791,
+        "last_touched": 1433790087
+    },
+    {
+        "id": 196858,
+        "title": "大家对 WWDC 2015 有什么期望",
+        "url": "http://www.v2ex.com/t/196858",
+        "content": "",
+        "content_rendered": "",
+        "replies": 52,
+        "member": {
+            "id": 93309,
+            "username": "crayhuang",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=73&d=retro"
+        },
+        "node": {
+            "id": 184,
+            "name": "apple",
+            "title": "Apple",
+            "title_alternative": "Apple",
+            "url": "http://www.v2ex.com/go/apple",
+            "topics": 1266,
+            "avatar_mini": "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1433239477",
+            "avatar_normal": "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1433239477",
+            "avatar_large": "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1433239477"
+        },
+        "created": 1433731507,
+        "last_modified": 1433731507,
+        "last_touched": 1433800999
+    },
+    {
+        "id": 196991,
+        "title": "国内软件思维",
+        "url": "http://www.v2ex.com/t/196991",
+        "content": "我希望国内软件良心起来，可刚刚支付宝已经刷新了我的底线，有必要黑一下了！\r\n\r\n国内软件思维：\r\n1，不拒绝就是同意；\r\n2，15秒内不拒绝就是同意；\r\n3，找不到拒绝按钮就是同意；\r\n4，我来了就要带全家入住；\r\n5，卸载=删除图标；",
+        "content_rendered": "<p>我希望国内软件良心起来，可刚刚支付宝已经刷新了我的底线，有必要黑一下了！</p>\n\n<p>国内软件思维：<br>\n1，不拒绝就是同意；<br>\n2，15秒内不拒绝就是同意；<br>\n3，找不到拒绝按钮就是同意；<br>\n4，我来了就要带全家入住；<br>\n5，卸载=删除图标；</p>\n",
+        "replies": 40,
+        "member": {
+            "id": 77855,
+            "username": "honeyshine75",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/210da5b71b8f0ed37564405ba057d57b?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/210da5b71b8f0ed37564405ba057d57b?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/210da5b71b8f0ed37564405ba057d57b?s=73&d=retro"
+        },
+        "node": {
+            "id": 417,
+            "name": "software",
+            "title": "软件",
+            "title_alternative": "Software",
+            "url": "http://www.v2ex.com/go/software",
+            "topics": 53,
+            "avatar_mini": "//cdn.v2ex.co/navatar/41ae/36ec/417_mini.png?m=1433239926",
+            "avatar_normal": "//cdn.v2ex.co/navatar/41ae/36ec/417_normal.png?m=1433239926",
+            "avatar_large": "//cdn.v2ex.co/navatar/41ae/36ec/417_large.png?m=1433239926"
+        },
+        "created": 1433758559,
+        "last_modified": 1433758559,
+        "last_touched": 1433777023
     },
     {
         "id": 196740,
@@ -120,96 +330,6 @@
         "last_touched": 1433758844
     },
     {
-        "id": 196843,
-        "title": "当我要下属写周报，变成了自己不希望成为的人",
-        "url": "http://www.v2ex.com/t/196843",
-        "content": "很多人都是厌恶写周报的吧？我没有当上管理之前也是。\r\n但是现在每周要去开会，要写月报，季度报告，如果没有周报，很难想起每一件事情的细节，以至于写不出什么东西，于是我也让下面的人写周报了，听到了他们的抱怨。\r\n还有一点私心，希望调动他们的积极性。",
-        "content_rendered": "很多人都是厌恶写周报的吧？我没有当上管理之前也是。\r<br />但是现在每周要去开会，要写月报，季度报告，如果没有周报，很难想起每一件事情的细节，以至于写不出什么东西，于是我也让下面的人写周报了，听到了他们的抱怨。\r<br />还有一点私心，希望调动他们的积极性。",
-        "replies": 48,
-        "member": {
-            "id": 42293,
-            "username": "s2555",
-            "tagline": "",
-            "avatar_mini": "//cdn.v2ex.co/avatar/72e8/1de9/42293_mini.png?m=1393046855",
-            "avatar_normal": "//cdn.v2ex.co/avatar/72e8/1de9/42293_normal.png?m=1393046855",
-            "avatar_large": "//cdn.v2ex.co/avatar/72e8/1de9/42293_large.png?m=1393046855"
-        },
-        "node": {
-            "id": 770,
-            "name": "career",
-            "title": "职场话题",
-            "title_alternative": "Career",
-            "url": "http://www.v2ex.com/go/career",
-            "topics": 510,
-            "avatar_mini": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1430384704",
-            "avatar_normal": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1430384704",
-            "avatar_large": "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1430384704"
-        },
-        "created": 1433729266,
-        "last_modified": 1433739104,
-        "last_touched": 1433759278
-    },
-    {
-        "id": 196899,
-        "title": "用了百度云加速海外比源站速度还慢",
-        "url": "http://www.v2ex.com/t/196899",
-        "content": "纯静态文件CSS，js，jpg组成的html网页，用百度云加速CDN，理应全部缓存在节点上，结果打开比源站还慢！\r\n域名没有备案，但由于是特殊域名，托关于腾讯云不会被查。\r\n欢迎大家来测试\r\n域名1 使用百度云加速美国节点 www.moe.edu.ky\r\n域名2 源站日本 www.moecraft.net\r\n域名2加载的文件比1要多很多，但是却可以在3-4s内打开\r\n是不是可以说百度海外节点就是一个笑话？",
-        "content_rendered": "纯静态文件CSS，js，jpg组成的html网页，用百度云加速CDN，理应全部缓存在节点上，结果打开比源站还慢！\r<br />域名没有备案，但由于是特殊域名，托关于腾讯云不会被查。\r<br />欢迎大家来测试\r<br />域名1 使用百度云加速美国节点 <a target=\"_blank\" href=\"http://www.moe.edu.ky\" rel=\"nofollow\">www.moe.edu.ky</a>\r<br />域名2 源站日本 <a target=\"_blank\" href=\"http://www.moecraft.net\" rel=\"nofollow\">www.moecraft.net</a>\r<br />域名2加载的文件比1要多很多，但是却可以在3-4s内打开\r<br />是不是可以说百度海外节点就是一个笑话？",
-        "replies": 47,
-        "member": {
-            "id": 99470,
-            "username": "Andy1999",
-            "tagline": "",
-            "avatar_mini": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=24&d=retro",
-            "avatar_normal": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=48&d=retro",
-            "avatar_large": "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=73&d=retro"
-        },
-        "node": {
-            "id": 104,
-            "name": "cloud",
-            "title": "云计算",
-            "title_alternative": "Cloud Computing",
-            "url": "http://www.v2ex.com/go/cloud",
-            "topics": 1009,
-            "avatar_mini": "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1433057967",
-            "avatar_normal": "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1433057967",
-            "avatar_large": "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1433057967"
-        },
-        "created": 1433741791,
-        "last_modified": 1433741791,
-        "last_touched": 1433758966
-    },
-    {
-        "id": 196854,
-        "title": "为回馈 V2EX 的用户， CloudXNS 首次活动盛大开启！",
-        "url": "http://www.v2ex.com/t/196854",
-        "content": "##对不起！我们来晚了！\r\n回首CloudXNS产品新版发布这半年多来的历程，最大的收获就是在v2ex社区上认识了很多新用户。大家给我们提意见找问题帮助我们一步步改进，虽然时至今日我们仍然有很多需要完善的地方，但无论怎样，是时候抽出时间回馈下了。\r\n![](http://www.cloudxns.net/Public/Sun/images/award/emailhead.jpg) \r\n#\r\n##本次活动的主题是：**晒CloudXNS产品体验，轻松赢千元大奖！**\r\n###**您只需要在任意一稳定的站点上发表CloudXNS相关内容体验然后把链接反馈给我们，剩下的事情交由我们来做。**\r\n详情请见： http://show2015.cloudxns.net/Activity/index.html\r\n\r\n\r\n##致歉&致谢\r\n我们不善运营，这是我们的第一次官方活动，准备了很长时间。关于昨天出现维护通知的意外，也是由于准备活动所致，由于没有什么经验导致出现意外，还望见谅。\r\n很抱歉这么晚才推出活动，希望大家能积极参与支持并将活动信息分享给周边的朋友。\r\n我们以后还会不定期推出活动，有了这次经验，相信一定会越来越好的。么么哒~",
-        "content_rendered": "<h2>对不起！我们来晚了！</h2>\n\n<p>回首CloudXNS产品新版发布这半年多来的历程，最大的收获就是在v2ex社区上认识了很多新用户。大家给我们提意见找问题帮助我们一步步改进，虽然时至今日我们仍然有很多需要完善的地方，但无论怎样，是时候抽出时间回馈下了。<br>\n<img src=\"http://www.cloudxns.net/Public/Sun/images/award/emailhead.jpg\" alt=\"\"> </p>\n\n<h2>本次活动的主题是：<strong>晒CloudXNS产品体验，轻松赢千元大奖！</strong></h2>\n\n<h3><strong>您只需要在任意一稳定的站点上发表CloudXNS相关内容体验然后把链接反馈给我们，剩下的事情交由我们来做。</strong></h3>\n\n<p>详情请见： <a target=\"_blank\" rel=\"nofollow\" href=\"http://show2015.cloudxns.net/Activity/index.html\">http://show2015.cloudxns.net/Activity/index.html</a></p>\n\n<h2>致歉&amp;致谢</h2>\n\n<p>我们不善运营，这是我们的第一次官方活动，准备了很长时间。关于昨天出现维护通知的意外，也是由于准备活动所致，由于没有什么经验导致出现意外，还望见谅。<br>\n很抱歉这么晚才推出活动，希望大家能积极参与支持并将活动信息分享给周边的朋友。<br>\n我们以后还会不定期推出活动，有了这次经验，相信一定会越来越好的。么么哒~</p>\n",
-        "replies": 46,
-        "member": {
-            "id": 101236,
-            "username": "CloudXNS",
-            "tagline": "",
-            "avatar_mini": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_mini.png?m=1426241408",
-            "avatar_normal": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_normal.png?m=1426241408",
-            "avatar_large": "//cdn.v2ex.co/avatar/67e0/bd3f/101236_large.png?m=1426241408"
-        },
-        "node": {
-            "id": 199,
-            "name": "dns",
-            "title": "DNS",
-            "title_alternative": "DNS",
-            "url": "http://www.v2ex.com/go/dns",
-            "topics": 740,
-            "avatar_mini": "//cdn.v2ex.co/navatar/84d9/ee44/199_mini.png?m=1429512710",
-            "avatar_normal": "//cdn.v2ex.co/navatar/84d9/ee44/199_normal.png?m=1429512710",
-            "avatar_large": "//cdn.v2ex.co/navatar/84d9/ee44/199_large.png?m=1429512710"
-        },
-        "created": 1433730844,
-        "last_modified": 1433730844,
-        "last_touched": 1433759234
-    },
-    {
         "id": 196797,
         "title": "20150608 午夜俱乐部",
         "url": "http://www.v2ex.com/t/196797",
@@ -238,36 +358,6 @@
         "created": 1433692488,
         "last_modified": 1433692488,
         "last_touched": 1433749226
-    },
-    {
-        "id": 196858,
-        "title": "大家对 WWDC 2015 有什么期望",
-        "url": "http://www.v2ex.com/t/196858",
-        "content": "",
-        "content_rendered": "",
-        "replies": 38,
-        "member": {
-            "id": 93309,
-            "username": "crayhuang",
-            "tagline": "",
-            "avatar_mini": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=24&d=retro",
-            "avatar_normal": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=48&d=retro",
-            "avatar_large": "//cdn.v2ex.co/gravatar/2355c30bd447cd8968525d193071a389?s=73&d=retro"
-        },
-        "node": {
-            "id": 184,
-            "name": "apple",
-            "title": "Apple",
-            "title_alternative": "Apple",
-            "url": "http://www.v2ex.com/go/apple",
-            "topics": 1263,
-            "avatar_mini": "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1433239477",
-            "avatar_normal": "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1433239477",
-            "avatar_large": "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1433239477"
-        },
-        "created": 1433731507,
-        "last_modified": 1433731507,
-        "last_touched": 1433754930
     },
     {
         "id": 196721,

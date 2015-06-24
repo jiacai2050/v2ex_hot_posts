@@ -1,0 +1,572 @@
+[
+    {
+        "id": 198196,
+        "title": "有哪些值得购买的互联网付费服务？",
+        "url": "http://www.v2ex.com/t/198196",
+        "content": "大家有什么推荐的吗。",
+        "content_rendered": "<p>大家有什么推荐的吗。</p>\n",
+        "replies": 102,
+        "member": {
+            "id": 92791,
+            "username": "wayne1943",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/b00a0effbe3711ce6457435196428dd7?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/b00a0effbe3711ce6457435196428dd7?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/b00a0effbe3711ce6457435196428dd7?s=73&d=retro"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 51083,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1434166824,
+        "last_modified": 1434166824,
+        "last_touched": 1434235137
+    },
+    {
+        "id": 198235,
+        "title": "实在难以理解 Mac 的窗口管理方式",
+        "url": "http://www.v2ex.com/t/198235",
+        "content": "用了三四年Linux，最近转Mac，刚上来发现的确挺好用的，界面漂亮，不用折腾，又有unix命令行，而且各种软件接口比较统一（这点尤其表现在快捷键上）\r\n\r\n但是用了一小段时间发现不折腾是不可能的，而且有些行为实在难以理解，当然也许是我才转mac不久，很多东西不知道。我知道这里是 iV2EX，但还是冒险在这里吐槽一些用起来很不爽的地方，吐槽不是主要目的，而是希望给想入Mac的人一些可能被忽略的事实，另外也希望有人能告诉我一些使用Mac优雅的姿势\r\n\r\n* 命令行\r\n\r\n不错，OSX有一个与unix命令行很像的命令行，但是如果是从Linux转过来的，高兴地玩几次后就会很郁闷，好多命令使用方式有差异，使用出了问题我想 `--help` 一下，抱歉这是没有的，OSX是不支持GNU风格的 human readable 命令行选项的，已经习惯Linux命令行的可能很容易遇到其它坑，还有Emacs在iterm中也会有各种小问题，当然这条完全是从Linux用户角度吐槽的，为了不浪费生命最好直接vagrant up一个arch，用上Linux原生命令行\r\n\r\n* 窗口管理\r\n\r\n这点是最让我难以理解的，当然触摸板是最好用的这点毋庸置疑。一个App只能开一个instance，要开多个instance必须使用特殊的方法，这点姑且不说，但是`Command+Tab`切换窗口时，tmd一个应用居然只显示一个图标，要切换到一个App的多个窗口，先要`Command+Tab`切换到这个App，然后再`Command+``切到我想要的窗口\r\n\r\n当然很多应用都有多标签功能，但这并不能解决问题，Preview打开一个pdf，当我需要在Finder中查看图片时，本来在后面的pdf突然跳出来挡住Finder，看图片和看pdf是两个不同的功能好吧，混在一起并且还同一个instance真的好么\r\n\r\n另外有其它OS使用经验的还会发现没有最大化了，或者说只有真正的是最大化了，最大化到只有自己一个窗口了，但是最大化和全屏是有区别的好吗。要让一个窗口实现普通意义上的最大化，需要拽着窗口边框拖。以人性化操作体验为口号的系统居然没有窗口snapping这个人性化的功能，版权原因还是不屑于抄巨硬的设计\r\n\r\n以上来自一Linux多年用户初转Mac的一些感受，也许这只是自己使用方式不当造成的，希望V站有经验的Mac用户指点一下正确使用Mac的姿势\r\n当然所有系统都有缺点，这里并没有说Linux有多么好，Linux毛病也多着呢，Windows就更不用说了。而真正有经验的用户知道如何优雅正确地处理系统不好的地方，而不是鼓吹自己所使用的系统是完美的",
+        "content_rendered": "<p>用了三四年Linux，最近转Mac，刚上来发现的确挺好用的，界面漂亮，不用折腾，又有unix命令行，而且各种软件接口比较统一（这点尤其表现在快捷键上）</p>\n\n<p>但是用了一小段时间发现不折腾是不可能的，而且有些行为实在难以理解，当然也许是我才转mac不久，很多东西不知道。我知道这里是 iV2EX，但还是冒险在这里吐槽一些用起来很不爽的地方，吐槽不是主要目的，而是希望给想入Mac的人一些可能被忽略的事实，另外也希望有人能告诉我一些使用Mac优雅的姿势</p>\n\n<ul>\n<li>命令行</li>\n</ul>\n\n<p>不错，OSX有一个与unix命令行很像的命令行，但是如果是从Linux转过来的，高兴地玩几次后就会很郁闷，好多命令使用方式有差异，使用出了问题我想 <code>--help</code> 一下，抱歉这是没有的，OSX是不支持GNU风格的 human readable 命令行选项的，已经习惯Linux命令行的可能很容易遇到其它坑，还有Emacs在iterm中也会有各种小问题，当然这条完全是从Linux用户角度吐槽的，为了不浪费生命最好直接vagrant up一个arch，用上Linux原生命令行</p>\n\n<ul>\n<li>窗口管理</li>\n</ul>\n\n<p>这点是最让我难以理解的，当然触摸板是最好用的这点毋庸置疑。一个App只能开一个instance，要开多个instance必须使用特殊的方法，这点姑且不说，但是<code>Command+Tab</code>切换窗口时，tmd一个应用居然只显示一个图标，要切换到一个App的多个窗口，先要<code>Command+Tab</code>切换到这个App，然后再<code>Command+</code>`切到我想要的窗口</p>\n\n<p>当然很多应用都有多标签功能，但这并不能解决问题，Preview打开一个pdf，当我需要在Finder中查看图片时，本来在后面的pdf突然跳出来挡住Finder，看图片和看pdf是两个不同的功能好吧，混在一起并且还同一个instance真的好么</p>\n\n<p>另外有其它OS使用经验的还会发现没有最大化了，或者说只有真正的是最大化了，最大化到只有自己一个窗口了，但是最大化和全屏是有区别的好吗。要让一个窗口实现普通意义上的最大化，需要拽着窗口边框拖。以人性化操作体验为口号的系统居然没有窗口snapping这个人性化的功能，版权原因还是不屑于抄巨硬的设计</p>\n\n<p>以上来自一Linux多年用户初转Mac的一些感受，也许这只是自己使用方式不当造成的，希望V站有经验的Mac用户指点一下正确使用Mac的姿势<br>\n当然所有系统都有缺点，这里并没有说Linux有多么好，Linux毛病也多着呢，Windows就更不用说了。而真正有经验的用户知道如何优雅正确地处理系统不好的地方，而不是鼓吹自己所使用的系统是完美的</p>\n",
+        "replies": 58,
+        "member": {
+            "id": 37927,
+            "username": "cbsw",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/5b2f/91ed/37927_mini.png?m=1385626978",
+            "avatar_normal": "//cdn.v2ex.co/avatar/5b2f/91ed/37927_normal.png?m=1385626978",
+            "avatar_large": "//cdn.v2ex.co/avatar/5b2f/91ed/37927_large.png?m=1385626978"
+        },
+        "node": {
+            "id": 22,
+            "name": "macosx",
+            "title": "Mac OS X",
+            "title_alternative": "Mac OS X",
+            "url": "http://www.v2ex.com/go/macosx",
+            "topics": 6032,
+            "avatar_mini": "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1433389146",
+            "avatar_normal": "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1433389146",
+            "avatar_large": "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1433389146"
+        },
+        "created": 1434176873,
+        "last_modified": 1434176873,
+        "last_touched": 1434222358
+    },
+    {
+        "id": 198155,
+        "title": "你真以为 Howell 被 Google 拒是因为没做出翻转二叉树么？",
+        "url": "http://www.v2ex.com/t/198155",
+        "content": "Homebrew 的作者Max Howell面试被 Google 拒啦，因为他不会翻转二叉树，然后作者在twitter上开骂：\r\n\r\nhttp://i.v2ex.co/09g0YeMv.jpeg\r\n\r\n1. Max Howell 是个什么鸟蛋？\r\nMax Howell 是Mac上著名软件Homebrew的作者，Homebrew是什么？可以理解为Ubuntu上的apt-get，用这个软件可以轻松的装其他的Mac上的软件。主要是服务程序员的。这是一个非常重要的对于程序员来说不可或缺的Mac软件。\r\n\r\n他的LinkedIn和Facebook:\r\nhttps://www.linkedin.com/in/maxhowell\r\nhttps://www.facebook.com/maxhowell\r\n\r\n2002-2007年在读书，2002-2007年在KDE工作，2007-2009去了Last.fm 担任tech lead，2010-2011年去tweekdeck也是担任tech lead。然后2011年开始创业，先后在Racket担任co-founer和在Popular Pays担任CTO。2013年开始，在Mobile Makers Academy上当instructor。\r\n\r\n从这份简历来看，应该是一个很牛的人，大学里就开始在企业实习/工作，接着又创业，当co-founder，做CTO。最重要的是作为Homebrew的作者，让他名声大噪。\r\n\r\n\r\n2. 翻转二叉树是个什么鸟题？\r\n给出一棵二叉树，求这棵二叉树的镜像。如：\r\n\r\nhttp://i.v2ex.co/5lGtt2Wbl.jpeg\r\n\r\n你可以去LintCode上试试看做做这题: http://www.lintcode.com/zh-cn/problem/invert-binary-tree/\r\n\r\n这个题目在LintCode上的难度属于Easy，根据LintCode的定义，如果Easy难度的题目无法在面试中答出来，确实是拿不到Offer的。\r\n\r\n这个题的解法一句话就可以描述清楚：遍历二叉树的每个节点，然后将每个节点的左右儿子对调。\r\n\r\n九章上的参考程序如下，只有8行……8行……8行……：\r\nhttp://www.jiuzhang.com/solutions/invert-binary-tree/?source=v2exmhw\r\n\r\nhttp://i.v2ex.co/yoUyyP2cl.jpeg\r\n\r\n3. 到底为什么被拒？\r\n面试被拒的原因按照惯例公司是不会告诉求职者的。虽然 Max Howell 从简历上看起来很牛，但是他被Google拒了。具体原因是什么？真的是如他所说的不会二叉树镜像么？那么我们首先要知道，IT企业决定是否Hire一个人的标准是什么。一般来说，主要有在下面三个方面的影响因素：\r\n\r\n1)求职者的经历的牛逼程度\r\n2) 企业是否有合适的职位给求职者\r\n3) 求职者在面试中的表现\r\n\r\n很显然Max Howell满足第一个条件。我们会一般认为，牛逼的人企业就应该给Offer。但是这是错误的观念。第二个条件和第三个条件的重要程度均超过了第一个条件。\r\n\r\n对于第二个条件，试想一下如果公司不缺人，为什么还一定要招聘你？再试想一下，这个人在A领域很牛逼，但是公司需要B领域的人才，那么是该发拒信还是Offer？再再试想一下，如果公司空缺的职位所需要的人才只是花10w$请一个应届毕业生就可以搞定，为什么要花30w$来请一个CTO来做？以上三种情况，都极可能会发生在Max Howell的身上。\r\n\r\n对于第三个条件，首先我们要知道面试的流程和面试官给求职者评价的依据。对于Max Howell这样的资深Engineer来说，一般来说面试可能包含如下的四个部分：Coding面试，Experience面试, System Design面试，Culture Fit面试。一般来说至少4名面试官会与你交流给你评价。所以你的面试结果并不是由一轮面试和一个面试官决定的，面试官只是根据面试的情况给出一个评价（hire, no hire, strong hire, weak hire），并说明具体原因。最后这些评价会提交给 Hire Commitee，由HR综合所有的评价给出是否Hire的决定。做二叉树镜像属于Coding面试，算法的考察是一个方面，Coding能力的考察也是一个方面。因此，只是说因为不会二叉树镜像而被拒，是不全面也不负责任的说法。公司并不会给你一个feedback告诉你为什么被拒，只是会告诉你，“这是一个艰难的决定，你很优秀，但是我们没有合适的职位给你，我们期待之后能够再联系”。另外还需要说明的是看似不起眼，但是非常重要的Culture Fit面试。在这一轮面试中，面试官主要考核面试者的内容是看看面试者是否能够和同事们愉快的工作。这方面没有一定的参考标准，但是从Max Howell的经历来看，这一轮的面试很可能无法通过。首先他很Geek。笔者周围的朋友中不乏技术非常牛逼的Geek，但这些人因为太Geek，EQ往往都很低，无法与同事愉快的一起工作，自己一个人干可以，但是在团队中，就非常糟糕，比如总觉得同事都比他傻逼，总觉得老板都是傻逼等等，虽然事实上可能他是对的，但是你愿意和这样的同事一起工作么？从Max Howell的工作经历中，依稀可以看到这一点——每份正式工作都不超过2年，在跳槽不那么频繁21世纪初，这是不正常的。\r\n\r\n4. 到底怎样才能拿到Google Offer?\r\n根据前面的分析，我们猜想Max Howell可能被拒绝的原因有如下的一些：\r\n\r\n1) 因为不会写二叉树的镜像，表现出来的算法能力薄弱和无法与同事（面试官）一起合作解决问题的能力有欠缺。\r\n2) 经历很牛逼，但这些经历更适合去一家创业公司，而不是Google这样的大公司。大公司更需要能够与人合作的人才。小公司才更需要单枪匹马的人才。\r\n3) 有创业经历者，大公司在招聘时会有一些考虑。因为很可能呆不久就又跳槽了，或者挖人走，也可能不专心工作，自己搞项目。\r\n4) 没有合适的职位提供给他，或招聘他的成本太高。\r\n\r\n那么到底怎样才能拿到Google Offer呢？简单的思路是，避免上面这些被拒绝的原因即可：\r\n\r\n1) 提高算法能力和Coding能力。算法能力体现的不只是算法的知识储备本身，更加是一个人是否是聪明的人的标志。对于Google这样的大公司而言，他不需要你已经具备在某个领域的很强的战斗力，而是希望你足够聪明就可以了。大公司是很愿意花时间去培养你的。而小公司正好相反。\r\n2) 增强与人沟通和合作的能力。Teamwork是每个大公司都强调的求职者必须拥有的素质之一，一个teamwork方面有欠缺的求职者不仅仅无法做好自己的事情，更加会影响到团队中的其他人。以解决算法面试题为例，其实面试并不是一场“考试”（这是大多数人的误解），而是你与未来同事（面试官）一起合作解决问题的一次模拟。你是可以从面试官那里得到提示和帮助来一起解决算法问题的。一般面试中也会尽量避免算发性特别强的面试题，所以一般只是一些简单的如“二叉树镜像”这样的问题，根本没有难度，做不出来极有可能是求职者过于自负的心理抵触做如此简单的事情。\r\n3) 别告诉面试官/HR你创业过。或许这个经历很牛逼，但那只是说明你适合去小公司，不适合来Google这样的大公司。\r\n4) 在合适的时机找工作。通过内部员工或公司网站了解公司的招聘情况，是否缺人等等。如果你看到Google正在裁员，你被招聘的可能性是很小的。眼光放开阔一点，硅谷并不是只有Google才是好的IT企业。",
+        "content_rendered": "Homebrew 的作者Max Howell面试被 Google 拒啦，因为他不会翻转二叉树，然后作者在twitter上开骂：\r<br />\r<br /><a target=\"_blank\" href=\"/i/09g0YeMv.jpeg\" target=\"_blank\" title=\"在新窗口打开图片 09g0YeMv.jpeg\"><img src=\"http://i.v2ex.co/09g0YeMv.jpeg\" style=\"max-width: 660px\" /></a>\r<br />\r<br />1. Max Howell 是个什么鸟蛋？\r<br />Max Howell 是Mac上著名软件Homebrew的作者，Homebrew是什么？可以理解为Ubuntu上的apt-get，用这个软件可以轻松的装其他的Mac上的软件。主要是服务程序员的。这是一个非常重要的对于程序员来说不可或缺的Mac软件。\r<br />\r<br />他的LinkedIn和Facebook:\r<br /><a target=\"_blank\" href=\"https://www.linkedin.com/in/maxhowell\" rel=\"nofollow\">https://www.linkedin.com/in/maxhowell</a>\r<br /><a target=\"_blank\" href=\"https://www.facebook.com/maxhowell\" rel=\"nofollow\">https://www.facebook.com/maxhowell</a>\r<br />\r<br />2002-2007年在读书，2002-2007年在KDE工作，2007-2009去了Last.fm 担任tech lead，2010-2011年去tweekdeck也是担任tech lead。然后2011年开始创业，先后在Racket担任co-founer和在Popular Pays担任CTO。2013年开始，在Mobile Makers Academy上当instructor。\r<br />\r<br />从这份简历来看，应该是一个很牛的人，大学里就开始在企业实习/工作，接着又创业，当co-founder，做CTO。最重要的是作为Homebrew的作者，让他名声大噪。\r<br />\r<br />\r<br />2. 翻转二叉树是个什么鸟题？\r<br />给出一棵二叉树，求这棵二叉树的镜像。如：\r<br />\r<br /><a target=\"_blank\" href=\"/i/5lGtt2Wbl.jpeg\" target=\"_blank\" title=\"在新窗口打开图片 5lGtt2Wbl.jpeg\"><img src=\"http://i.v2ex.co/5lGtt2Wbl.jpeg\" style=\"max-width: 660px\" /></a>\r<br />\r<br />你可以去LintCode上试试看做做这题: <a target=\"_blank\" href=\"http://www.lintcode.com/zh-cn/problem/invert-binary-tree/\" rel=\"nofollow\">http://www.lintcode.com/zh-cn/problem/invert-binary-tree/</a>\r<br />\r<br />这个题目在LintCode上的难度属于Easy，根据LintCode的定义，如果Easy难度的题目无法在面试中答出来，确实是拿不到Offer的。\r<br />\r<br />这个题的解法一句话就可以描述清楚：遍历二叉树的每个节点，然后将每个节点的左右儿子对调。\r<br />\r<br />九章上的参考程序如下，只有8行……8行……8行……：\r<br /><a target=\"_blank\" href=\"http://www.jiuzhang.com/solutions/invert-binary-tree/?source=v2exmhw\" rel=\"nofollow\">http://www.jiuzhang.com/solutions/invert-binary-tree/?source=v2exmhw</a>\r<br />\r<br /><a target=\"_blank\" href=\"/i/yoUyyP2cl.jpeg\" target=\"_blank\" title=\"在新窗口打开图片 yoUyyP2cl.jpeg\"><img src=\"http://i.v2ex.co/yoUyyP2cl.jpeg\" style=\"max-width: 660px\" /></a>\r<br />\r<br />3. 到底为什么被拒？\r<br />面试被拒的原因按照惯例公司是不会告诉求职者的。虽然 Max Howell 从简历上看起来很牛，但是他被Google拒了。具体原因是什么？真的是如他所说的不会二叉树镜像么？那么我们首先要知道，IT企业决定是否Hire一个人的标准是什么。一般来说，主要有在下面三个方面的影响因素：\r<br />\r<br />1)求职者的经历的牛逼程度\r<br />2) 企业是否有合适的职位给求职者\r<br />3) 求职者在面试中的表现\r<br />\r<br />很显然Max Howell满足第一个条件。我们会一般认为，牛逼的人企业就应该给Offer。但是这是错误的观念。第二个条件和第三个条件的重要程度均超过了第一个条件。\r<br />\r<br />对于第二个条件，试想一下如果公司不缺人，为什么还一定要招聘你？再试想一下，这个人在A领域很牛逼，但是公司需要B领域的人才，那么是该发拒信还是Offer？再再试想一下，如果公司空缺的职位所需要的人才只是花10w$请一个应届毕业生就可以搞定，为什么要花30w$来请一个CTO来做？以上三种情况，都极可能会发生在Max Howell的身上。\r<br />\r<br />对于第三个条件，首先我们要知道面试的流程和面试官给求职者评价的依据。对于Max Howell这样的资深Engineer来说，一般来说面试可能包含如下的四个部分：Coding面试，Experience面试, System Design面试，Culture Fit面试。一般来说至少4名面试官会与你交流给你评价。所以你的面试结果并不是由一轮面试和一个面试官决定的，面试官只是根据面试的情况给出一个评价（hire, no hire, strong hire, weak hire），并说明具体原因。最后这些评价会提交给 Hire Commitee，由HR综合所有的评价给出是否Hire的决定。做二叉树镜像属于Coding面试，算法的考察是一个方面，Coding能力的考察也是一个方面。因此，只是说因为不会二叉树镜像而被拒，是不全面也不负责任的说法。公司并不会给你一个feedback告诉你为什么被拒，只是会告诉你，“这是一个艰难的决定，你很优秀，但是我们没有合适的职位给你，我们期待之后能够再联系”。另外还需要说明的是看似不起眼，但是非常重要的Culture Fit面试。在这一轮面试中，面试官主要考核面试者的内容是看看面试者是否能够和同事们愉快的工作。这方面没有一定的参考标准，但是从Max Howell的经历来看，这一轮的面试很可能无法通过。首先他很Geek。笔者周围的朋友中不乏技术非常牛逼的Geek，但这些人因为太Geek，EQ往往都很低，无法与同事愉快的一起工作，自己一个人干可以，但是在团队中，就非常糟糕，比如总觉得同事都比他傻逼，总觉得老板都是傻逼等等，虽然事实上可能他是对的，但是你愿意和这样的同事一起工作么？从Max Howell的工作经历中，依稀可以看到这一点——每份正式工作都不超过2年，在跳槽不那么频繁21世纪初，这是不正常的。\r<br />\r<br />4. 到底怎样才能拿到Google Offer?\r<br />根据前面的分析，我们猜想Max Howell可能被拒绝的原因有如下的一些：\r<br />\r<br />1) 因为不会写二叉树的镜像，表现出来的算法能力薄弱和无法与同事（面试官）一起合作解决问题的能力有欠缺。\r<br />2) 经历很牛逼，但这些经历更适合去一家创业公司，而不是Google这样的大公司。大公司更需要能够与人合作的人才。小公司才更需要单枪匹马的人才。\r<br />3) 有创业经历者，大公司在招聘时会有一些考虑。因为很可能呆不久就又跳槽了，或者挖人走，也可能不专心工作，自己搞项目。\r<br />4) 没有合适的职位提供给他，或招聘他的成本太高。\r<br />\r<br />那么到底怎样才能拿到Google Offer呢？简单的思路是，避免上面这些被拒绝的原因即可：\r<br />\r<br />1) 提高算法能力和Coding能力。算法能力体现的不只是算法的知识储备本身，更加是一个人是否是聪明的人的标志。对于Google这样的大公司而言，他不需要你已经具备在某个领域的很强的战斗力，而是希望你足够聪明就可以了。大公司是很愿意花时间去培养你的。而小公司正好相反。\r<br />2) 增强与人沟通和合作的能力。Teamwork是每个大公司都强调的求职者必须拥有的素质之一，一个teamwork方面有欠缺的求职者不仅仅无法做好自己的事情，更加会影响到团队中的其他人。以解决算法面试题为例，其实面试并不是一场“考试”（这是大多数人的误解），而是你与未来同事（面试官）一起合作解决问题的一次模拟。你是可以从面试官那里得到提示和帮助来一起解决算法问题的。一般面试中也会尽量避免算发性特别强的面试题，所以一般只是一些简单的如“二叉树镜像”这样的问题，根本没有难度，做不出来极有可能是求职者过于自负的心理抵触做如此简单的事情。\r<br />3) 别告诉面试官/HR你创业过。或许这个经历很牛逼，但那只是说明你适合去小公司，不适合来Google这样的大公司。\r<br />4) 在合适的时机找工作。通过内部员工或公司网站了解公司的招聘情况，是否缺人等等。如果你看到Google正在裁员，你被招聘的可能性是很小的。眼光放开阔一点，硅谷并不是只有Google才是好的IT企业。",
+        "replies": 57,
+        "member": {
+            "id": 117003,
+            "username": "ninechapter",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/e831/82b9/117003_mini.png?m=1431642730",
+            "avatar_normal": "//cdn.v2ex.co/avatar/e831/82b9/117003_normal.png?m=1431642730",
+            "avatar_large": "//cdn.v2ex.co/avatar/e831/82b9/117003_large.png?m=1431642730"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8102,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1434042489",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1434042489",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1434042489"
+        },
+        "created": 1434154944,
+        "last_modified": 1434155504,
+        "last_touched": 1434218835
+    },
+    {
+        "id": 198225,
+        "title": "如何彻底地屏蔽一个网站，挂代理出去也没用 ?",
+        "url": "http://www.v2ex.com/t/198225",
+        "content": "我使用的操作系统是win7，按照 [http://jingyan.baidu.com/article/b907e627d86be046e6891c41.html] 这篇文章的指引修改了hosts文件。然后我使用的浏览器是最新版的chrome，挂的是红杏翻墙代理。结果是修改了hosts文件，依然可以通过红杏翻墙对屏蔽网站进行访问。想问下有没有什么终极办法，连翻墙代理也无可奈何？  谢谢~",
+        "content_rendered": "我使用的操作系统是win7，按照 [<a target=\"_blank\" href=\"http://jingyan.baidu.com/article/b907e627d86be046e6891c41.html\" rel=\"nofollow\">http://jingyan.baidu.com/article/b907e627d86be046e6891c41.html</a>] 这篇文章的指引修改了hosts文件。然后我使用的浏览器是最新版的chrome，挂的是红杏翻墙代理。结果是修改了hosts文件，依然可以通过红杏翻墙对屏蔽网站进行访问。想问下有没有什么终极办法，连翻墙代理也无可奈何？  谢谢~",
+        "replies": 39,
+        "member": {
+            "id": 113090,
+            "username": "linxd",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/424f8cf91e9118ce4f547cdf6a2b7bde?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/424f8cf91e9118ce4f547cdf6a2b7bde?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/424f8cf91e9118ce4f547cdf6a2b7bde?s=73&d=retro"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 51083,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1434173032,
+        "last_modified": 1434173032,
+        "last_touched": 1434214554
+    },
+    {
+        "id": 198210,
+        "title": "小风扇到货了~~一直对着手吹~鼠标再也不粘手了~哦耶~",
+        "url": "http://www.v2ex.com/t/198210",
+        "content": "![](http://ww2.sinaimg.cn/mw1024/9093b87djw1et2cpgjw9cj20xc18gk4a.jpg)",
+        "content_rendered": "<p><img src=\"http://ww2.sinaimg.cn/mw1024/9093b87djw1et2cpgjw9cj20xc18gk4a.jpg\" alt=\"\"></p>\n",
+        "replies": 38,
+        "member": {
+            "id": 21824,
+            "username": "cevincheung",
+            "tagline": "蛋定的coder",
+            "avatar_mini": "//cdn.v2ex.co/avatar/4801/6f54/21824_mini.png?m=1433874837",
+            "avatar_normal": "//cdn.v2ex.co/avatar/4801/6f54/21824_normal.png?m=1433874837",
+            "avatar_large": "//cdn.v2ex.co/avatar/4801/6f54/21824_large.png?m=1433874837"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8102,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1434042489",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1434042489",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1434042489"
+        },
+        "created": 1434170031,
+        "last_modified": 1434170031,
+        "last_touched": 1434215866
+    },
+    {
+        "id": 198183,
+        "title": "曝光：宅言网大量抄袭一言",
+        "url": "http://www.v2ex.com/t/198183",
+        "content": "一言： http://hitokoto.us/\r\n宅言网： http://zhaiyan.acman.cn/\r\n\r\n看 CopyRight 部分就知道谁比谁早了\r\n\r\n一言主页：\r\n![一言主页](http://ww2.sinaimg.cn/large/6529c470gw1et29315jnsj213i0ljwl8.jpg \"一言主页\")\r\n\r\n宅言网主页：\r\n![宅言网主页](http://ww3.sinaimg.cn/large/6529c470gw1et292uc86yj213k0ljtfp.jpg \"宅言网主页\")\r\n\r\n不用看，CSS 也是大量抄袭，而且有趣的是，宅言网的 CSS 文件名是 ht.css ，懂了些什么没有？\r\n\r\n举个例子：\r\n一言顶栏 CSS：\r\n![一言顶栏 CSS](http://ww2.sinaimg.cn/large/6529c470gw1et29bduwz1j208l030glv.jpg \"一言顶栏 CSS\")\r\n\r\n宅言网顶栏 CSS：\r\n![宅言网顶栏 CSS](http://ww3.sinaimg.cn/large/6529c470gw1et29bd3v1fj208n02b74b.jpg \"宅言网顶栏 CSS\")\r\n\r\n还有主页的 HTML 结构：\r\n\r\n一言主页部分结构（因为要展开，所以挑关键的截）：\r\n![一言主页部分结构](http://ww4.sinaimg.cn/large/6529c470gw1et29beu456j209206tab7.jpg \"一言主页部分结构\")\r\n\r\n宅言网主页结构：\r\n![宅言网主页结构](http://ww1.sinaimg.cn/large/6529c470gw1et29bfqe86j20b20780tt.jpg \"宅言网主页结构\")\r\n\r\n我都不信这是巧合\r\n\r\n小菜：API 结构对比\r\n\r\n一言 API 结构（API 示例）：\r\n![一言 API 结构](http://ww4.sinaimg.cn/large/6529c470gw1et29338lu6j20bs066q3q.jpg \"一言 API 结构\")\r\n\r\n宅言网 API 结构（API 示例）：\r\n![宅言网 API 结构](http://ww1.sinaimg.cn/large/6529c470gw1et2932936lj20d305lt98.jpg \"宅言网 API 结构\")",
+        "content_rendered": "<p>一言： <a target=\"_blank\" rel=\"nofollow\" href=\"http://hitokoto.us/\">http://hitokoto.us/</a><br>\n宅言网： <a target=\"_blank\" rel=\"nofollow\" href=\"http://zhaiyan.acman.cn/\">http://zhaiyan.acman.cn/</a></p>\n\n<p>看 CopyRight 部分就知道谁比谁早了</p>\n\n<p>一言主页：<br>\n<img src=\"http://ww2.sinaimg.cn/large/6529c470gw1et29315jnsj213i0ljwl8.jpg\" alt=\"一言主页\" title=\"一言主页\"></p>\n\n<p>宅言网主页：<br>\n<img src=\"http://ww3.sinaimg.cn/large/6529c470gw1et292uc86yj213k0ljtfp.jpg\" alt=\"宅言网主页\" title=\"宅言网主页\"></p>\n\n<p>不用看，CSS 也是大量抄袭，而且有趣的是，宅言网的 CSS 文件名是 ht.css ，懂了些什么没有？</p>\n\n<p>举个例子：<br>\n一言顶栏 CSS：<br>\n<img src=\"http://ww2.sinaimg.cn/large/6529c470gw1et29bduwz1j208l030glv.jpg\" alt=\"一言顶栏 CSS\" title=\"一言顶栏 CSS\"></p>\n\n<p>宅言网顶栏 CSS：<br>\n<img src=\"http://ww3.sinaimg.cn/large/6529c470gw1et29bd3v1fj208n02b74b.jpg\" alt=\"宅言网顶栏 CSS\" title=\"宅言网顶栏 CSS\"></p>\n\n<p>还有主页的 HTML 结构：</p>\n\n<p>一言主页部分结构（因为要展开，所以挑关键的截）：<br>\n<img src=\"http://ww4.sinaimg.cn/large/6529c470gw1et29beu456j209206tab7.jpg\" alt=\"一言主页部分结构\" title=\"一言主页部分结构\"></p>\n\n<p>宅言网主页结构：<br>\n<img src=\"http://ww1.sinaimg.cn/large/6529c470gw1et29bfqe86j20b20780tt.jpg\" alt=\"宅言网主页结构\" title=\"宅言网主页结构\"></p>\n\n<p>我都不信这是巧合</p>\n\n<p>小菜：API 结构对比</p>\n\n<p>一言 API 结构（API 示例）：<br>\n<img src=\"http://ww4.sinaimg.cn/large/6529c470gw1et29338lu6j20bs066q3q.jpg\" alt=\"一言 API 结构\" title=\"一言 API 结构\"></p>\n\n<p>宅言网 API 结构（API 示例）：<br>\n<img src=\"http://ww1.sinaimg.cn/large/6529c470gw1et2932936lj20d305lt98.jpg\" alt=\"宅言网 API 结构\" title=\"宅言网 API 结构\"></p>\n",
+        "replies": 36,
+        "member": {
+            "id": 39254,
+            "username": "sanddudu",
+            "tagline": "I don't create, I made stuff better.",
+            "avatar_mini": "//cdn.v2ex.co/avatar/9477/8b74/39254_mini.png?m=1418734445",
+            "avatar_normal": "//cdn.v2ex.co/avatar/9477/8b74/39254_normal.png?m=1418734445",
+            "avatar_large": "//cdn.v2ex.co/avatar/9477/8b74/39254_large.png?m=1418734445"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8102,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1434042489",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1434042489",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1434042489"
+        },
+        "created": 1434163269,
+        "last_modified": 1434163269,
+        "last_touched": 1434209470
+    },
+    {
+        "id": 198195,
+        "title": "电脑没有 HOSTS 文件，怎么办，且 google 网站登录不了！求专业人士帮助！",
+        "url": "http://www.v2ex.com/t/198195",
+        "content": "电脑没有HOSTS文件，怎么办，且google网站登录不了，另外想问下怎么翻墙看国外设计网站。求大师帮忙！",
+        "content_rendered": "<p>电脑没有HOSTS文件，怎么办，且google网站登录不了，另外想问下怎么翻墙看国外设计网站。求大师帮忙！</p>\n",
+        "replies": 35,
+        "member": {
+            "id": 109643,
+            "username": "scorpionalex",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/75cf/6d32/109643_mini.png?m=1428402520",
+            "avatar_normal": "//cdn.v2ex.co/avatar/75cf/6d32/109643_normal.png?m=1428402520",
+            "avatar_large": "//cdn.v2ex.co/avatar/75cf/6d32/109643_large.png?m=1428402520"
+        },
+        "node": {
+            "id": 199,
+            "name": "dns",
+            "title": "DNS",
+            "title_alternative": "DNS",
+            "url": "http://www.v2ex.com/go/dns",
+            "topics": 745,
+            "avatar_mini": "//cdn.v2ex.co/navatar/84d9/ee44/199_mini.png?m=1429512710",
+            "avatar_normal": "//cdn.v2ex.co/navatar/84d9/ee44/199_normal.png?m=1429512710",
+            "avatar_large": "//cdn.v2ex.co/navatar/84d9/ee44/199_large.png?m=1429512710"
+        },
+        "created": 1434166700,
+        "last_modified": 1434166700,
+        "last_touched": 1434131049
+    },
+    {
+        "id": 198207,
+        "title": "历时 20 天，我的 Mac 专用机械键盘终于到了",
+        "url": "http://www.v2ex.com/t/198207",
+        "content": "* 茶轴\r\n* 87键\r\n* OS X专用键盘布局\r\n* 自定义键帽颜色\r\n* 自定义空格键个性签名\r\n\r\n手感非常赞，做工也可圈可点。  \r\n可惜键帽是ABS材质，估计后期打油会很严重。\r\n  \r\n\r\n150刀+200RMB运费入手，有点小贵，因为是第一次海淘，交了一些学费，所以运费花费得大一些。  \r\n\r\n从美国转运回来花了20天。\r\n\r\n\r\n![图1][1]\r\n\r\n##### 近照\r\n\r\n\r\n![图2][2]\r\n\r\n\r\n  [1]: http://7jpp6b.com1.z0.glb.clouddn.com/img/thumb_IMG_0276_10242.jpg\r\n  [2]: http://7jpp6b.com1.z0.glb.clouddn.com/img/thumb_IMG_0278_1024.jpg",
+        "content_rendered": "<ul>\n<li>茶轴</li>\n<li>87键</li>\n<li>OS X专用键盘布局</li>\n<li>自定义键帽颜色</li>\n<li>自定义空格键个性签名</li>\n</ul>\n\n<p>手感非常赞，做工也可圈可点。<br><br>\n可惜键帽是ABS材质，估计后期打油会很严重。</p>\n\n<p>150刀+200RMB运费入手，有点小贵，因为是第一次海淘，交了一些学费，所以运费花费得大一些。  </p>\n\n<p>从美国转运回来花了20天。</p>\n\n<p><img src=\"http://7jpp6b.com1.z0.glb.clouddn.com/img/thumb_IMG_0276_10242.jpg\" alt=\"图1\"></p>\n\n<h5>近照</h5>\n\n<p><img src=\"http://7jpp6b.com1.z0.glb.clouddn.com/img/thumb_IMG_0278_1024.jpg\" alt=\"图2\"></p>\n",
+        "replies": 32,
+        "member": {
+            "id": 75926,
+            "username": "xiezefan",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/0c01/0db3/75926_mini.png?m=1412432964",
+            "avatar_normal": "//cdn.v2ex.co/avatar/0c01/0db3/75926_normal.png?m=1412432964",
+            "avatar_large": "//cdn.v2ex.co/avatar/0c01/0db3/75926_large.png?m=1412432964"
+        },
+        "node": {
+            "id": 16,
+            "name": "share",
+            "title": "分享发现",
+            "title_alternative": "Share",
+            "url": "http://www.v2ex.com/go/share",
+            "topics": 15568,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1433389098",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1433389098",
+            "avatar_large": "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1433389098"
+        },
+        "created": 1434169462,
+        "last_modified": 1434169476,
+        "last_touched": 1434215523
+    },
+    {
+        "id": 198153,
+        "title": "Windows 服务器大家都装什么防护软件啊？",
+        "url": "http://www.v2ex.com/t/198153",
+        "content": "",
+        "content_rendered": "",
+        "replies": 31,
+        "member": {
+            "id": 47444,
+            "username": "lmaq",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/68a3/1572/47444_mini.png?m=1402963395",
+            "avatar_normal": "//cdn.v2ex.co/avatar/68a3/1572/47444_normal.png?m=1402963395",
+            "avatar_large": "//cdn.v2ex.co/avatar/68a3/1572/47444_large.png?m=1402963395"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8102,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1434042489",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1434042489",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1434042489"
+        },
+        "created": 1434154404,
+        "last_modified": 1434154404,
+        "last_touched": 1434201052
+    },
+    {
+        "id": 198299,
+        "title": "毕业之后手机号的正确更改方案",
+        "url": "http://www.v2ex.com/t/198299",
+        "content": "现在各种重要的帐号都要绑定手机号，如果像大学毕业后去异地工作的情况下，手机号能不能直接更改归属地？如果不能改归属地，是必须换号码吗？不换号码的话，选择怎样的业务更划算~~\r\n\r\n另外如果必须换号码的情况下，怎么方便的更改各种绑定，想想都有点恐怖啊，现在各种绑定，要都改一遍好像很麻烦啊~有v友有相关经验吗？什么方案是最优的呢~~",
+        "content_rendered": "<p>现在各种重要的帐号都要绑定手机号，如果像大学毕业后去异地工作的情况下，手机号能不能直接更改归属地？如果不能改归属地，是必须换号码吗？不换号码的话，选择怎样的业务更划算~~</p>\n\n<p>另外如果必须换号码的情况下，怎么方便的更改各种绑定，想想都有点恐怖啊，现在各种绑定，要都改一遍好像很麻烦啊~有v友有相关经验吗？什么方案是最优的呢~~</p>\n",
+        "replies": 31,
+        "member": {
+            "id": 66852,
+            "username": "break",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/d64d/2297/66852_mini.png?m=1412772511",
+            "avatar_normal": "//cdn.v2ex.co/avatar/d64d/2297/66852_normal.png?m=1412772511",
+            "avatar_large": "//cdn.v2ex.co/avatar/d64d/2297/66852_large.png?m=1412772511"
+        },
+        "node": {
+            "id": 557,
+            "name": "life",
+            "title": "生活",
+            "title_alternative": "Life",
+            "url": "http://www.v2ex.com/go/life",
+            "topics": 145,
+            "avatar_mini": "/static/img/node_mini.png",
+            "avatar_normal": "/static/img/node_normal.png",
+            "avatar_large": "/static/img/node_large.png"
+        },
+        "created": 1434197678,
+        "last_modified": 1434197678,
+        "last_touched": 1434215668
+    },
+    {
+        "id": 198094,
+        "title": "盗墓笔记已开播了~~~",
+        "url": "http://www.v2ex.com/t/198094",
+        "content": "http://www.iqiyi.com/v_19rrohr1jc.html",
+        "content_rendered": "<p><a target=\"_blank\" rel=\"nofollow\" href=\"http://www.iqiyi.com/v_19rrohr1jc.html\">http://www.iqiyi.com/v_19rrohr1jc.html</a></p>\n",
+        "replies": 64,
+        "member": {
+            "id": 21824,
+            "username": "cevincheung",
+            "tagline": "蛋定的coder",
+            "avatar_mini": "//cdn.v2ex.co/avatar/4801/6f54/21824_mini.png?m=1433874837",
+            "avatar_normal": "//cdn.v2ex.co/avatar/4801/6f54/21824_normal.png?m=1433874837",
+            "avatar_large": "//cdn.v2ex.co/avatar/4801/6f54/21824_large.png?m=1433874837"
+        },
+        "node": {
+            "id": 48,
+            "name": "tv",
+            "title": "剧集",
+            "title_alternative": "TV",
+            "url": "http://www.v2ex.com/go/tv",
+            "topics": 233,
+            "avatar_mini": "//cdn.v2ex.co/navatar/642e/92ef/48_mini.png?m=1366783293",
+            "avatar_normal": "//cdn.v2ex.co/navatar/642e/92ef/48_normal.png?m=1366783293",
+            "avatar_large": "//cdn.v2ex.co/navatar/642e/92ef/48_large.png?m=1366783293"
+        },
+        "created": 1434110584,
+        "last_modified": 1434177439,
+        "last_touched": 1434192807
+    },
+    {
+        "id": 198118,
+        "title": "大家喜欢用 JavaScript 中哪一种继承方式？大家来说说自己的看法 OwO",
+        "url": "http://www.v2ex.com/t/198118",
+        "content": "JavaScript继承主要是两种形式：\r\n1. 原型链继承\r\n2. 拷贝继承\r\n\r\n注：ES7标准中的class就暂时不考虑了，因为还没有具体去了解过，希望以后能完善到不需要自己实现那么那么蛋疼的东西了。\r\n\r\n我个人倾向于原型链继承，因为原型链继承是JavaScript规范里面推荐的继承，并且最重要的是，可以用原生的 instanceof 判断类型！而拷贝继承不行！\r\n\r\n***\r\n因为以上的一些问题，所以我就自己做了一个简单的JavaScript面的对象库。大概有实现这么几个功能：\r\n1. 封装好的构造函数不管写不写new操作符都不会产生错误了，当然我是倾向于不写new操作符。\r\n2. 返回的构造函数是命名的，方便调试的时候追踪函数栈。\r\n3. 封装了一个parent方法，可以方便访问父原型的构造函数或者父原型的方法。\r\n4. 封装了一个alias方法，可以创建一个方法别名。\r\n\r\n具体实现在具体实现在github上 >> [代码传送门](https://github.com/bramblex/loveaira.me/blob/master/www/js/blxclass.js)\r\n\r\n接下来来看一些简单的示例来看看怎么用。\r\n\r\n\r\n```JavaScript\r\n\r\n// 首先定义一个Animal类（姑且称为类吧），继承自Objec，有一个构造函数。\r\nvar Animal = BlxClass.extend('Animal', Object, function(name, sound){\r\n  this.name = name || null;  \r\n  this.sound = sound || null;\r\n});\r\n\r\nAnimal.prototype.call = function(){\r\n  console.log(this.sound);\r\n};\r\n\r\n// 现在我希望定义一个doge类，继承自Animal。第一个参数 ‘Doge’ 是用来给构造函数命名的。\r\nvar Doge = BlxClass.extend('Doge', Animal, function(name){\r\n  var sound = 'wang';\r\n  BlxClass.parent(this, Doge, [name, sound]); // 调用父类的构造函数，因为初始化对象属性在父类构造函数里。\r\n});\r\n\r\nDoge.prototype.wang = BlxClass.alias('call');\r\n\r\n// 现在实例化一个doge对象\r\nvar doge = Doge('Tom'); // 有没有 new 都没关系，结果相同。\r\ndoge.call(); // =>'wang'\r\ndoge.wang(); // =>'wang'\r\n```\r\n\r\n\r\n然后这样就跟其他语言类的继承大致相似了。然后大家更喜欢哪一种继承方式呢？都来说说自己看法吧。",
+        "content_rendered": "<p>JavaScript继承主要是两种形式：<br>\n1. 原型链继承<br>\n2. 拷贝继承</p>\n\n<p>注：ES7标准中的class就暂时不考虑了，因为还没有具体去了解过，希望以后能完善到不需要自己实现那么那么蛋疼的东西了。</p>\n\n<p>我个人倾向于原型链继承，因为原型链继承是JavaScript规范里面推荐的继承，并且最重要的是，可以用原生的 instanceof 判断类型！而拷贝继承不行！</p>\n\n<hr>\n\n<p>因为以上的一些问题，所以我就自己做了一个简单的JavaScript面的对象库。大概有实现这么几个功能：<br>\n1. 封装好的构造函数不管写不写new操作符都不会产生错误了，当然我是倾向于不写new操作符。<br>\n2. 返回的构造函数是命名的，方便调试的时候追踪函数栈。<br>\n3. 封装了一个parent方法，可以方便访问父原型的构造函数或者父原型的方法。<br>\n4. 封装了一个alias方法，可以创建一个方法别名。</p>\n\n<p>具体实现在具体实现在github上 &gt;&gt; <a target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/bramblex/loveaira.me/blob/master/www/js/blxclass.js\">代码传送门</a></p>\n\n<p>接下来来看一些简单的示例来看看怎么用。</p>\n<div class=\"highlight\"><pre><span class=\"c1\">// 首先定义一个Animal类（姑且称为类吧），继承自Objec，有一个构造函数。</span>\n<span class=\"kd\">var</span> <span class=\"nx\">Animal</span> <span class=\"o\">=</span> <span class=\"nx\">BlxClass</span><span class=\"p\">.</span><span class=\"nx\">extend</span><span class=\"p\">(</span><span class=\"s1\">&#39;Animal&#39;</span><span class=\"p\">,</span> <span class=\"nb\">Object</span><span class=\"p\">,</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">name</span><span class=\"p\">,</span> <span class=\"nx\">sound</span><span class=\"p\">){</span>\n  <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">name</span> <span class=\"o\">=</span> <span class=\"nx\">name</span> <span class=\"o\">||</span> <span class=\"kc\">null</span><span class=\"p\">;</span>  \n  <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">sound</span> <span class=\"o\">=</span> <span class=\"nx\">sound</span> <span class=\"o\">||</span> <span class=\"kc\">null</span><span class=\"p\">;</span>\n<span class=\"p\">});</span>\n\n<span class=\"nx\">Animal</span><span class=\"p\">.</span><span class=\"nx\">prototype</span><span class=\"p\">.</span><span class=\"nx\">call</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n  <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">sound</span><span class=\"p\">);</span>\n<span class=\"p\">};</span>\n\n<span class=\"c1\">// 现在我希望定义一个doge类，继承自Animal。第一个参数 ‘Doge’ 是用来给构造函数命名的。</span>\n<span class=\"kd\">var</span> <span class=\"nx\">Doge</span> <span class=\"o\">=</span> <span class=\"nx\">BlxClass</span><span class=\"p\">.</span><span class=\"nx\">extend</span><span class=\"p\">(</span><span class=\"s1\">&#39;Doge&#39;</span><span class=\"p\">,</span> <span class=\"nx\">Animal</span><span class=\"p\">,</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">name</span><span class=\"p\">){</span>\n  <span class=\"kd\">var</span> <span class=\"nx\">sound</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;wang&#39;</span><span class=\"p\">;</span>\n  <span class=\"nx\">BlxClass</span><span class=\"p\">.</span><span class=\"nx\">parent</span><span class=\"p\">(</span><span class=\"k\">this</span><span class=\"p\">,</span> <span class=\"nx\">Doge</span><span class=\"p\">,</span> <span class=\"p\">[</span><span class=\"nx\">name</span><span class=\"p\">,</span> <span class=\"nx\">sound</span><span class=\"p\">]);</span> <span class=\"c1\">// 调用父类的构造函数，因为初始化对象属性在父类构造函数里。</span>\n<span class=\"p\">});</span>\n\n<span class=\"nx\">Doge</span><span class=\"p\">.</span><span class=\"nx\">prototype</span><span class=\"p\">.</span><span class=\"nx\">wang</span> <span class=\"o\">=</span> <span class=\"nx\">BlxClass</span><span class=\"p\">.</span><span class=\"nx\">alias</span><span class=\"p\">(</span><span class=\"s1\">&#39;call&#39;</span><span class=\"p\">);</span>\n\n<span class=\"c1\">// 现在实例化一个doge对象</span>\n<span class=\"kd\">var</span> <span class=\"nx\">doge</span> <span class=\"o\">=</span> <span class=\"nx\">Doge</span><span class=\"p\">(</span><span class=\"s1\">&#39;Tom&#39;</span><span class=\"p\">);</span> <span class=\"c1\">// 有没有 new 都没关系，结果相同。</span>\n<span class=\"nx\">doge</span><span class=\"p\">.</span><span class=\"nx\">call</span><span class=\"p\">();</span> <span class=\"c1\">// =&gt;&#39;wang&#39;</span>\n<span class=\"nx\">doge</span><span class=\"p\">.</span><span class=\"nx\">wang</span><span class=\"p\">();</span> <span class=\"c1\">// =&gt;&#39;wang&#39;</span>\n</pre></div>\n\n<p>然后这样就跟其他语言类的继承大致相似了。然后大家更喜欢哪一种继承方式呢？都来说说自己看法吧。</p>\n",
+        "replies": 42,
+        "member": {
+            "id": 65890,
+            "username": "bramblex",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=24&d=retro",
+            "avatar_normal": "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=48&d=retro",
+            "avatar_large": "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=73&d=retro"
+        },
+        "node": {
+            "id": 146,
+            "name": "js",
+            "title": "JavaScript",
+            "title_alternative": "JavaScript",
+            "url": "http://www.v2ex.com/go/js",
+            "topics": 542,
+            "avatar_mini": "//cdn.v2ex.co/navatar/a5e0/0132/146_mini.png?m=1433239824",
+            "avatar_normal": "//cdn.v2ex.co/navatar/a5e0/0132/146_normal.png?m=1433239824",
+            "avatar_large": "//cdn.v2ex.co/navatar/a5e0/0132/146_large.png?m=1433239824"
+        },
+        "created": 1434116829,
+        "last_modified": 1434116829,
+        "last_touched": 1434182900
+    },
+    {
+        "id": 198131,
+        "title": "明天考英语四级了",
+        "url": "http://www.v2ex.com/t/198131",
+        "content": "",
+        "content_rendered": "",
+        "replies": 35,
+        "member": {
+            "id": 101278,
+            "username": "ycyppq123",
+            "tagline": "此生唯有美食与爱不可辜负",
+            "avatar_mini": "//cdn.v2ex.co/avatar/d9eb/67e1/101278_mini.png?m=1429070037",
+            "avatar_normal": "//cdn.v2ex.co/avatar/d9eb/67e1/101278_normal.png?m=1429070037",
+            "avatar_large": "//cdn.v2ex.co/avatar/d9eb/67e1/101278_large.png?m=1429070037"
+        },
+        "node": {
+            "id": 300,
+            "name": "programmer",
+            "title": "程序员",
+            "title_alternative": "Programmer",
+            "url": "http://www.v2ex.com/go/programmer",
+            "topics": 8100,
+            "avatar_mini": "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1434042489",
+            "avatar_normal": "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1434042489",
+            "avatar_large": "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1434042489"
+        },
+        "created": 1434124168,
+        "last_modified": 1434124168,
+        "last_touched": 1434193248
+    },
+    {
+        "id": 198149,
+        "title": "这个服务器安全狗有人在用么，实际效果如何？",
+        "url": "http://www.v2ex.com/t/198149",
+        "content": "http://www.safedog.cn/",
+        "content_rendered": "<a target=\"_blank\" href=\"http://www.safedog.cn/\" rel=\"nofollow\">http://www.safedog.cn/</a>",
+        "replies": 31,
+        "member": {
+            "id": 1,
+            "username": "Livid",
+            "tagline": "Beautifully Advance",
+            "avatar_mini": "//cdn.v2ex.co/avatar/c4ca/4238/1_mini.png?m=1427926997",
+            "avatar_normal": "//cdn.v2ex.co/avatar/c4ca/4238/1_normal.png?m=1427926997",
+            "avatar_large": "//cdn.v2ex.co/avatar/c4ca/4238/1_large.png?m=1427926997"
+        },
+        "node": {
+            "id": 622,
+            "name": "devops",
+            "title": "DevOps",
+            "title_alternative": "DevOps",
+            "url": "http://www.v2ex.com/go/devops",
+            "topics": 80,
+            "avatar_mini": "//cdn.v2ex.co/navatar/3871/bd64/622_mini.png?m=1434073653",
+            "avatar_normal": "//cdn.v2ex.co/navatar/3871/bd64/622_normal.png?m=1434073653",
+            "avatar_large": "//cdn.v2ex.co/navatar/3871/bd64/622_large.png?m=1434073653"
+        },
+        "created": 1434141232,
+        "last_modified": 1434141232,
+        "last_touched": 1434176154
+    },
+    {
+        "id": 198074,
+        "title": "可能是 V2EX 最好用的插件",
+        "url": "http://www.v2ex.com/t/198074",
+        "content": "这是一个用于 v2ex 论坛的插件，使用前最好登录 v2ex 以接收新消息提醒，登录新浪微博以使用插入图片、粘贴图片功能。 \r\n\r\n---------------------------------------\r\n\r\n#功能介绍：\r\n\r\n* 主题预览：\r\n>在主题列表页面，每个主题新增了一个”预览“按钮，点击可预览主题，若无主题则预览标题详情。 预览功能介绍\r\n![预览功能](http://ww2.sinaimg.cn/large/62e721e4gw1et1butjcfwj20c501wmx9.jpg)\r\n\r\n* 只看楼主：\r\n>在主题页面，主题功能栏新增了一个“只看楼主”按钮，点击只看本页楼主的回复。 只看楼主功能介绍\r\n![只看楼主功能](http://ww2.sinaimg.cn/large/62e721e4gw1et1bzs0geuj20iv00ujrf.jpg)\r\n* 会话详情：\r\n>在主题页面，每条回复新增了一个“会话详情”按钮，点击查看此用户与其回复内@的用户的会话详情。 会话详情功能介绍\r\n![会话功能](http://ww2.sinaimg.cn/large/62e721e4gw1et1c8r9wtrj209c01x0sq.jpg)\r\n* 插入表情：\r\n>在回复文本框上，新增了一个“表情”按钮，点击可选择表情。 插入表情功能介绍\r\n![插入表情功能](http://ww2.sinaimg.cn/large/62e721e4gw1et1cetj47qj209e05s74h.jpg)\r\n* 插入图片：\r\n>在回复文本框上，新增了一个“插入图片”按钮，点击可选择插入的图片文件。 插入图片功能介绍\r\n![插入图片功能](http://ww2.sinaimg.cn/large/62e721e4gw1et1cgbhhvsj208a05y3yp.jpg)\r\n* 消息提醒：\r\n>在浏览器右上角有一个可以隐藏的图标，当收到新消息时图标显示如下： 消息提醒功能介绍\r\n![消息提醒功能](http://ww2.sinaimg.cn/large/62e721e4gw1et1cmil973j200u00u0nn.jpg)\r\n* 跳过主题：\r\n>当你在同一主题内翻页将跳过主题内容直接到回复列表。\r\n\r\n\r\n---------------------------------------\r\n#F & Q：\r\n\r\n* MAC下为什么复制图片文件粘贴至回复框都为文件图标？\r\n\r\n>由于浏览器局限，直接粘贴文件不被支持，请剪切图片黏贴而不是文件，比如使用 QQ 的截取屏幕功能。\r\n\r\n* 上传文件支持什么格式\r\n\r\n> 使用微博图床，所以支持新浪支持的所有格式，但推荐 png、jpg 格式。请勿上传微博图床不支持的文件，如 psd。\r\n\r\n* 使用表情功能需要登录微博吗？\r\n\r\n> 不需要。\r\n\r\n---------------------------------------\r\n\r\n可能增加的功能：\r\n\r\n>* 收藏节点新帖提醒\r\n>* 插件内私信\r\n>* 关注了某位用户的也关注了某位用户\r\n>* 收藏了某节点的也收藏了某节点\r\n>* Block 了某位用户的也 block 了某位用户\r\n>* 自定义表情\r\n>* 签到\r\n\r\n--------------------------------------\r\n由于我是大一学生，没有信用卡，感谢 [ldong](https://github.com/ldong) 帮我发布插件。\r\n\r\nChrome 插件：[v2ex plus](https://chrome.google.com/webstore/detail/v2ex-plus/limfkkkgjbcfmfhkclkohdhddfngakhb)\r\n\r\n开源 ：[♥ Github](https://github.com/sciooga/v2ex-plus)\r\n\r\n反馈： 在这个主题内回复 或 [点击(sciooga#gmail)](mailto:sciooga@gmail.com)\r\n\r\n请求：如果有设计师同学已经看不下插件 logo 了，麻烦出手吧！\r\n\r\n对本插件满意，可以送我一本书，支付宝二维码：\r\n\r\n![二维码](http://ww2.sinaimg.cn/large/62e721e4gw1et1dvnmdxvj206x06xaar.jpg)\r\n\r\n生活愉快~\r\n\r\nps: 节点页面的预览功能出现在一些不应该出现的地方，还有忘记图片功能的调试模式了，已经修复，等待更新吧...现在发表图片表情需要先点击一下输入框才会替换图片标签为 url ...sorry\r\n更新以后可以直接点击回复即可。等待 ldong 帮忙更新吧~",
+        "content_rendered": "<p>这是一个用于 v2ex 论坛的插件，使用前最好登录 v2ex 以接收新消息提醒，登录新浪微博以使用插入图片、粘贴图片功能。 </p>\n\n<hr>\n\n<h1>功能介绍：</h1>\n\n<ul>\n<li><p>主题预览：</p>\n\n<blockquote>\n<p>在主题列表页面，每个主题新增了一个”预览“按钮，点击可预览主题，若无主题则预览标题详情。 预览功能介绍<br>\n<img src=\"http://ww2.sinaimg.cn/large/62e721e4gw1et1butjcfwj20c501wmx9.jpg\" alt=\"预览功能\"></p>\n</blockquote></li>\n<li><p>只看楼主：</p>\n\n<blockquote>\n<p>在主题页面，主题功能栏新增了一个“只看楼主”按钮，点击只看本页楼主的回复。 只看楼主功能介绍<br>\n<img src=\"http://ww2.sinaimg.cn/large/62e721e4gw1et1bzs0geuj20iv00ujrf.jpg\" alt=\"只看楼主功能\"></p>\n</blockquote></li>\n<li><p>会话详情：</p>\n\n<blockquote>\n<p>在主题页面，每条回复新增了一个“会话详情”按钮，点击查看此用户与其回复内@的用户的会话详情。 会话详情功能介绍<br>\n<img src=\"http://ww2.sinaimg.cn/large/62e721e4gw1et1c8r9wtrj209c01x0sq.jpg\" alt=\"会话功能\"></p>\n</blockquote></li>\n<li><p>插入表情：</p>\n\n<blockquote>\n<p>在回复文本框上，新增了一个“表情”按钮，点击可选择表情。 插入表情功能介绍<br>\n<img src=\"http://ww2.sinaimg.cn/large/62e721e4gw1et1cetj47qj209e05s74h.jpg\" alt=\"插入表情功能\"></p>\n</blockquote></li>\n<li><p>插入图片：</p>\n\n<blockquote>\n<p>在回复文本框上，新增了一个“插入图片”按钮，点击可选择插入的图片文件。 插入图片功能介绍<br>\n<img src=\"http://ww2.sinaimg.cn/large/62e721e4gw1et1cgbhhvsj208a05y3yp.jpg\" alt=\"插入图片功能\"></p>\n</blockquote></li>\n<li><p>消息提醒：</p>\n\n<blockquote>\n<p>在浏览器右上角有一个可以隐藏的图标，当收到新消息时图标显示如下： 消息提醒功能介绍<br>\n<img src=\"http://ww2.sinaimg.cn/large/62e721e4gw1et1cmil973j200u00u0nn.jpg\" alt=\"消息提醒功能\"></p>\n</blockquote></li>\n<li><p>跳过主题：</p>\n\n<blockquote>\n<p>当你在同一主题内翻页将跳过主题内容直接到回复列表。</p>\n</blockquote></li>\n</ul>\n\n<hr>\n\n<h1>F &amp; Q：</h1>\n\n<ul>\n<li>MAC下为什么复制图片文件粘贴至回复框都为文件图标？</li>\n</ul>\n\n<blockquote>\n<p>由于浏览器局限，直接粘贴文件不被支持，请剪切图片黏贴而不是文件，比如使用 QQ 的截取屏幕功能。</p>\n</blockquote>\n\n<ul>\n<li>上传文件支持什么格式</li>\n</ul>\n\n<blockquote>\n<p>使用微博图床，所以支持新浪支持的所有格式，但推荐 png、jpg 格式。请勿上传微博图床不支持的文件，如 psd。</p>\n</blockquote>\n\n<ul>\n<li>使用表情功能需要登录微博吗？</li>\n</ul>\n\n<blockquote>\n<p>不需要。</p>\n</blockquote>\n\n<hr>\n\n<p>可能增加的功能：</p>\n\n<blockquote>\n<ul>\n<li>收藏节点新帖提醒</li>\n<li>插件内私信</li>\n<li>关注了某位用户的也关注了某位用户</li>\n<li>收藏了某节点的也收藏了某节点</li>\n<li>Block 了某位用户的也 block 了某位用户</li>\n<li>自定义表情</li>\n<li>签到</li>\n</ul>\n</blockquote>\n\n<hr>\n\n<p>由于我是大一学生，没有信用卡，感谢 <a target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/ldong\">ldong</a> 帮我发布插件。</p>\n\n<p>Chrome 插件：<a target=\"_blank\" rel=\"nofollow\" href=\"https://chrome.google.com/webstore/detail/v2ex-plus/limfkkkgjbcfmfhkclkohdhddfngakhb\">v2ex plus</a></p>\n\n<p>开源 ：<a target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/sciooga/v2ex-plus\">♥ Github</a></p>\n\n<p>反馈： 在这个主题内回复 或 <a target=\"_blank\" rel=\"nofollow\" href=\"mailto:sciooga@gmail.com\">点击(sciooga#gmail)</a></p>\n\n<p>请求：如果有设计师同学已经看不下插件 logo 了，麻烦出手吧！</p>\n\n<p>对本插件满意，可以送我一本书，支付宝二维码：</p>\n\n<p><img src=\"http://ww2.sinaimg.cn/large/62e721e4gw1et1dvnmdxvj206x06xaar.jpg\" alt=\"二维码\"></p>\n\n<p>生活愉快~</p>\n\n<p>ps: 节点页面的预览功能出现在一些不应该出现的地方，还有忘记图片功能的调试模式了，已经修复，等待更新吧...现在发表图片表情需要先点击一下输入框才会替换图片标签为 url ...sorry<br>\n更新以后可以直接点击回复即可。等待 ldong 帮忙更新吧~</p>\n",
+        "replies": 157,
+        "member": {
+            "id": 97098,
+            "username": "sciooga",
+            "tagline": "未来和余生",
+            "avatar_mini": "//cdn.v2ex.co/avatar/2121/8e48/97098_mini.png?m=1425038800",
+            "avatar_normal": "//cdn.v2ex.co/avatar/2121/8e48/97098_normal.png?m=1425038800",
+            "avatar_large": "//cdn.v2ex.co/avatar/2121/8e48/97098_large.png?m=1425038800"
+        },
+        "node": {
+            "id": 17,
+            "name": "create",
+            "title": "分享创造",
+            "title_alternative": "Create",
+            "url": "http://www.v2ex.com/go/create",
+            "topics": 3992,
+            "avatar_mini": "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1433388902",
+            "avatar_normal": "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1433388902",
+            "avatar_large": "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1433388902"
+        },
+        "created": 1434103835,
+        "last_modified": 1434104102,
+        "last_touched": 1434171186
+    },
+    {
+        "id": 198005,
+        "title": "MCiao 入墙智能插座公测活动",
+        "url": "http://www.v2ex.com/t/198005",
+        "content": "来推广下公测活动\r\n\r\n一年前从干了8年的公司离职，和小伙伴们倒腾出了一个产品：智能入墙插座\r\n\r\n做产品的初衷是不满现有的“智能插座”，都是手机遥控插座，一点都不智能。\r\n\r\n产品主要功能是：\r\n通过集成多个传感器，实时监测周围环境状态，结合算法自动控制插座的开关\r\n让相关电器的开关适应场景需要，避免所有操作都是人用手机遥控开关的逗比体验。\r\n\r\n目前产品虽初具雏形，但离成熟显然还有一些距离\r\n所以想先搞一次beta公测，通过让用户在日常生活中真正使用来发现问题。\r\n一开始本想免费，考虑到有个别占便宜而不使用/不提意见的情况\r\n改成了先收费，后提意见建议返还的方式，（￥399一套，三个插座一个主机）\r\n目的还是为了打磨产品，希望大家理解。\r\n\r\n活动规则：\r\n\r\n1、完成并提交如下问卷后，即获得现金抵扣优惠50元。\r\n    问卷调查链接https://jinshuju.net/f/YE0osh\r\n\r\n2、凡是在公测结束前（2015/8/31）对产品提出5条有建设性意见和建议，即返还现金100元\r\n    依此类推，10条返200元，15条返300元，直至全额返还封顶。\r\n\r\n3、对特别突出的意见和建议的提出者，我们授予其VIP，拥有永久免费换新权：即将一个任意一代插座产品终身免费更换至最新一代的特权。\r\n\r\n4、对于意见建议，我们欢迎但不限于如下范围：\r\n    1）可以增加某种传感器并指出可以如何利用这个传感器带来便利；\r\n    2）利用现有的传感器或者新增的某种传感器可以一起实现一种特别的工作任务（APP）并简单描述工作机制；\r\n    3）您希望外观处理上插座可以变成的某种样子并给出大致图示；\r\n    4）不局限于插座，假如添加了开关之后如上所述有任何新增的功能及其描述；\r\n    5）其他任何您想到的和我们的产品相关或者和智能家居相关的想法。\r\n\r\n最后上淘宝链接http://shop123400876.taobao.com/",
+        "content_rendered": "<p>来推广下公测活动</p>\n\n<p>一年前从干了8年的公司离职，和小伙伴们倒腾出了一个产品：智能入墙插座</p>\n\n<p>做产品的初衷是不满现有的“智能插座”，都是手机遥控插座，一点都不智能。</p>\n\n<p>产品主要功能是：<br>\n通过集成多个传感器，实时监测周围环境状态，结合算法自动控制插座的开关<br>\n让相关电器的开关适应场景需要，避免所有操作都是人用手机遥控开关的逗比体验。</p>\n\n<p>目前产品虽初具雏形，但离成熟显然还有一些距离<br>\n所以想先搞一次beta公测，通过让用户在日常生活中真正使用来发现问题。<br>\n一开始本想免费，考虑到有个别占便宜而不使用/不提意见的情况<br>\n改成了先收费，后提意见建议返还的方式，（￥399一套，三个插座一个主机）<br>\n目的还是为了打磨产品，希望大家理解。</p>\n\n<p>活动规则：</p>\n\n<p>1、完成并提交如下问卷后，即获得现金抵扣优惠50元。<br>\n    问卷调查链接<a target=\"_blank\" rel=\"nofollow\" href=\"https://jinshuju.net/f/YE0osh\">https://jinshuju.net/f/YE0osh</a></p>\n\n<p>2、凡是在公测结束前（2015/8/31）对产品提出5条有建设性意见和建议，即返还现金100元<br>\n    依此类推，10条返200元，15条返300元，直至全额返还封顶。</p>\n\n<p>3、对特别突出的意见和建议的提出者，我们授予其VIP，拥有永久免费换新权：即将一个任意一代插座产品终身免费更换至最新一代的特权。</p>\n\n<p>4、对于意见建议，我们欢迎但不限于如下范围：<br>\n    1）可以增加某种传感器并指出可以如何利用这个传感器带来便利；<br>\n    2）利用现有的传感器或者新增的某种传感器可以一起实现一种特别的工作任务（APP）并简单描述工作机制；<br>\n    3）您希望外观处理上插座可以变成的某种样子并给出大致图示；<br>\n    4）不局限于插座，假如添加了开关之后如上所述有任何新增的功能及其描述；<br>\n    5）其他任何您想到的和我们的产品相关或者和智能家居相关的想法。</p>\n\n<p>最后上淘宝链接<a target=\"_blank\" rel=\"nofollow\" href=\"http://shop123400876.taobao.com/\">http://shop123400876.taobao.com/</a></p>\n",
+        "replies": 57,
+        "member": {
+            "id": 91552,
+            "username": "sirp",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/0cd5/a511/91552_mini.png?m=1434090969",
+            "avatar_normal": "//cdn.v2ex.co/avatar/0cd5/a511/91552_normal.png?m=1434090969",
+            "avatar_large": "//cdn.v2ex.co/avatar/0cd5/a511/91552_large.png?m=1434090969"
+        },
+        "node": {
+            "id": 17,
+            "name": "create",
+            "title": "分享创造",
+            "title_alternative": "Create",
+            "url": "http://www.v2ex.com/go/create",
+            "topics": 3992,
+            "avatar_mini": "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1433388902",
+            "avatar_normal": "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1433388902",
+            "avatar_large": "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1433388902"
+        },
+        "created": 1434091191,
+        "last_modified": 1434091328,
+        "last_touched": 1434132908
+    },
+    {
+        "id": 198040,
+        "title": "bilibili 客户端新版放弃 android design 改用 ios 画风，酷安已经嘘爆了……",
+        "url": "http://www.v2ex.com/t/198040",
+        "content": "bilibili安卓客户端，3.3.0之前一直是holo风，然后突然更新了一个3.9变成了iOS风格，而且！！还在短时间内又更新了一个几乎一模一样的4.0版，（意思是不打算改回来了么），导致贴吧和酷安评论区还有知乎上MD粉集体爆炸……\r\n\r\n呃，还不说，在5.0以上系统的界面里还支持MD的涟漪效果\r\n\r\nB站设计师的解释：\r\nhttp://www.zhihu.com/question/31150070/answer/50997213\r\n酷安：（之前更新3.9又回滚到3.3我也是醉了）\r\nhttp://www.coolapk.com/apk/tv.danmaku.bili\r\n\r\n最无辜的要数HTC和安卓平板用户了吧= =|||\r\n各位怎么看？",
+        "content_rendered": "<p>bilibili安卓客户端，3.3.0之前一直是holo风，然后突然更新了一个3.9变成了iOS风格，而且！！还在短时间内又更新了一个几乎一模一样的4.0版，（意思是不打算改回来了么），导致贴吧和酷安评论区还有知乎上MD粉集体爆炸……</p>\n\n<p>呃，还不说，在5.0以上系统的界面里还支持MD的涟漪效果</p>\n\n<p>B站设计师的解释：<br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.zhihu.com/question/31150070/answer/50997213\">http://www.zhihu.com/question/31150070/answer/50997213</a><br>\n酷安：（之前更新3.9又回滚到3.3我也是醉了）<br>\n<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.coolapk.com/apk/tv.danmaku.bili\">http://www.coolapk.com/apk/tv.danmaku.bili</a></p>\n\n<p>最无辜的要数HTC和安卓平板用户了吧= =|||<br>\n各位怎么看？</p>\n",
+        "replies": 42,
+        "member": {
+            "id": 96120,
+            "username": "gason406",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/bf77/1fe9/96120_mini.png?m=1426339015",
+            "avatar_normal": "//cdn.v2ex.co/avatar/bf77/1fe9/96120_normal.png?m=1426339015",
+            "avatar_large": "//cdn.v2ex.co/avatar/bf77/1fe9/96120_large.png?m=1426339015"
+        },
+        "node": {
+            "id": 39,
+            "name": "android",
+            "title": "Android",
+            "title_alternative": "Android",
+            "url": "http://www.v2ex.com/go/android",
+            "topics": 1590,
+            "avatar_mini": "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1434068419",
+            "avatar_normal": "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1434068419",
+            "avatar_large": "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1434068419"
+        },
+        "created": 1434096391,
+        "last_modified": 1434096391,
+        "last_touched": 1434171793
+    },
+    {
+        "id": 198017,
+        "title": "真的要买手机了 很迷茫 求推荐",
+        "url": "http://www.v2ex.com/t/198017",
+        "content": "需求1：android系统\r\n需求2：配置不落伍\r\n需求3：稳定\r\n需求4：可以root（几乎都能root，但例如索尼将图像音效算法DRM加密，解BL后拍照会变得很渣）\r\n需求5：3000元一下\r\n需求6：系统更新快，官方更新最好，不是很想折腾刷机，但安卓是刚需",
+        "content_rendered": "<p>需求1：android系统<br>\n需求2：配置不落伍<br>\n需求3：稳定<br>\n需求4：可以root（几乎都能root，但例如索尼将图像音效算法DRM加密，解BL后拍照会变得很渣）<br>\n需求5：3000元一下<br>\n需求6：系统更新快，官方更新最好，不是很想折腾刷机，但安卓是刚需</p>\n",
+        "replies": 35,
+        "member": {
+            "id": 68773,
+            "username": "judgingwoo",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/019e/bd17/68773_mini.png?m=1433940109",
+            "avatar_normal": "//cdn.v2ex.co/avatar/019e/bd17/68773_normal.png?m=1433940109",
+            "avatar_large": "//cdn.v2ex.co/avatar/019e/bd17/68773_large.png?m=1433940109"
+        },
+        "node": {
+            "id": 12,
+            "name": "qna",
+            "title": "问与答",
+            "title_alternative": "Questions and Answers",
+            "url": "http://www.v2ex.com/go/qna",
+            "topics": 51051,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1433389079",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1433389079",
+            "avatar_large": "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1433389079"
+        },
+        "created": 1434093026,
+        "last_modified": 1434093026,
+        "last_touched": 1434150968
+    },
+    {
+        "id": 197997,
+        "title": "百度内部也有维护一个 PAC 文件...",
+        "url": "http://www.v2ex.com/t/197997",
+        "content": "http://pac.internal.baidu.com/bdnew.pac\r\n\r\n哈哈，别问我怎么知道的，也别问我为啥打不开。。",
+        "content_rendered": "<a target=\"_blank\" href=\"http://pac.internal.baidu.com/bdnew.pac\" rel=\"nofollow\">http://pac.internal.baidu.com/bdnew.pac</a>\r<br />\r<br />哈哈，别问我怎么知道的，也别问我为啥打不开。。",
+        "replies": 29,
+        "member": {
+            "id": 38603,
+            "username": "DearTanker",
+            "tagline": "",
+            "avatar_mini": "//cdn.v2ex.co/avatar/0342/b022/38603_mini.png?m=1427027674",
+            "avatar_normal": "//cdn.v2ex.co/avatar/0342/b022/38603_normal.png?m=1427027674",
+            "avatar_large": "//cdn.v2ex.co/avatar/0342/b022/38603_large.png?m=1427027674"
+        },
+        "node": {
+            "id": 16,
+            "name": "share",
+            "title": "分享发现",
+            "title_alternative": "Share",
+            "url": "http://www.v2ex.com/go/share",
+            "topics": 15557,
+            "avatar_mini": "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1433389098",
+            "avatar_normal": "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1433389098",
+            "avatar_large": "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1433389098"
+        },
+        "created": 1434089696,
+        "last_modified": 1434089696,
+        "last_touched": 1434095394
+    }
+]
