@@ -1,0 +1,117 @@
+<html>
+    <head>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+        <meta name="baidu-site-verification" content="v4PBvJNJAh" />
+        <title>V2EX 2015/06/26热帖</title>
+        <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
+        <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/table.css">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "//hm.baidu.com/hm.js?44705b87ac3ece362fddcbcd2774c067";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/06/26");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
+        </script>
+
+        
+    </head>
+
+    <body background="/bg.gif">
+        <h1 align="center">
+            2015/06/26热帖
+        </h1>
+        <table border="1" align="center">
+            <tr>
+                <th>
+                    回贴数
+                </th>
+                <th>
+                     题目
+                </th>
+            </tr>
+
+            
+            <tr>
+                <td>97</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201074">程序员才看得懂的 T 恤</a></td>
+            </tr>
+            
+            <tr>
+                <td>75</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201053">广东全省 15K 名次能去哪里……好迷茫……内详，真心需要帮助</a></td>
+            </tr>
+            
+            <tr>
+                <td>57</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201064">民营宽带发布了，大家对这事情怎么看呢？</a></td>
+            </tr>
+            
+            <tr>
+                <td>50</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201137">受够了 Chrome 手动下载新版本，有没有墙内可用的全自动更新工具或脚本</a></td>
+            </tr>
+            
+            <tr>
+                <td>47</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201291">佛教中［须弥山和七重金山］及［东胜神州］、［西牛贺州］、［南赡部洲］、［北俱芦洲］四大部洲。</a></td>
+            </tr>
+            
+            <tr>
+                <td>45</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201152">原来高考填报志愿系统的程序员也就那样</a></td>
+            </tr>
+            
+            <tr>
+                <td>42</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201308">你们对复读怎么看？</a></td>
+            </tr>
+            
+            <tr>
+                <td>37</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201281">我觉得程序语言在设计的时候，要把 IDE 的支持考虑在内</a></td>
+            </tr>
+            
+            <tr>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
+            </tr>
+        </table>
+</body>
