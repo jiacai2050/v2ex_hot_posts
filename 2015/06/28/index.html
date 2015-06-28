@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+        <meta name="baidu-site-verification" content="v4PBvJNJAh" />
+        <title>V2EX 2015/06/28热帖</title>
+        <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
+        <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/table.css">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "//hm.baidu.com/hm.js?44705b87ac3ece362fddcbcd2774c067";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/06/28");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
+        </script>
+
+        
+    </head>
+
+    <body background="/bg.gif">
+        <h1 align="center">
+            2015/06/28热帖
+        </h1>
+        <table border="1" align="center">
+            <tr>
+                <th>
+                    回贴数
+                </th>
+                <th>
+                     题目
+                </th>
+            </tr>
+
+            
+            <tr>
+                <td>71</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201550">23 岁还在读研是不是老了呢？</a></td>
+            </tr>
+            
+            <tr>
+                <td>59</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201629">[不作恶]谷歌中止对 Eclipse 上 android 开发环境的支持</a></td>
+            </tr>
+            
+            <tr>
+                <td>40</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201558">ANDROID 才能学到真正的技术？ IOS 只是用来赚钱的？</a></td>
+            </tr>
+            
+            <tr>
+                <td>38</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201561">今天去把上海电信 100M 光纤退了。。。</a></td>
+            </tr>
+            
+            <tr>
+                <td>33</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201574">“软件工程”和“计算机科学与技术”有什么区别？到底要选哪个？</a></td>
+            </tr>
+            
+            <tr>
+                <td>30</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201623">python 爬虫求助</a></td>
+            </tr>
+            
+            <tr>
+                <td>28</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201632">Google Music 还真是对中国有意见</a></td>
+            </tr>
+            
+            <tr>
+                <td>28</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201680">计算机：南京邮电 or 南京理工 or 西安电子</a></td>
+            </tr>
+            
+            <tr>
+                <td>26</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201547">为何 V2 不在帖子列表中添加个 新窗口弹出 功能？</a></td>
+            </tr>
+            
+            <tr>
+                <td>26</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/201613">V 站上有多少人是用 Python 做 Data Science 的，想知道。 :doge:</a></td>
+            </tr>
+            
+            <tr>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
+            </tr>
+        </table>
+</body>
