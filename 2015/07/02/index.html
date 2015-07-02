@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+        <meta name="baidu-site-verification" content="v4PBvJNJAh" />
+        <title>V2EX 2015/07/02热帖</title>
+        <link rel="shortcut icon" href="http://v2ex.com/static/img/icon_rayps_64.png" type="image/png" />
+        <link rel="apple-touch-icon" href="http://v2ex.com/static/apple-touch-icon.png" />
+        <script type="text/javascript" src="/date.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/table.css">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "//hm.baidu.com/hm.js?44705b87ac3ece362fddcbcd2774c067";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            Date.prototype.addDays = function(days) {
+                var anotherDate = new Date(this.getTime());
+                anotherDate.setDate(anotherDate.getDate() + days);
+                return anotherDate;
+            }
+            window.onload = function() {
+                var yesterdayLink = document.getElementById("yesterday");
+                var tomorrowLink = document.getElementById("tomorrow");
+                var current = new Date("2015/07/02");
+                var yesterday = current.addDays(-1);
+                var tomorrow = current.addDays(1);
+                yesterdayLink.href = yesterday.format("/yyyy/MM/dd");
+                tomorrowLink.href = tomorrow.format("/yyyy/MM/dd");
+                var now = new Date().getTime();
+                tomorrow = tomorrow.getTime();
+                if(now - tomorrow < 3600 * 24 * 1000) {
+                    tomorrowLink.style.display = "none";
+                }
+                var begin = new Date("2015/04/06").getTime();
+                yesterday = yesterday.getTime();
+                if(yesterday < begin) {
+                    yesterdayLink.style.display = "none";
+                }
+
+            }
+        </script>
+
+        
+    </head>
+
+    <body background="/bg.gif">
+        <h1 align="center">
+            2015/07/02热帖
+        </h1>
+        <table border="1" align="center">
+            <tr>
+                <th>
+                    回贴数
+                </th>
+                <th>
+                     题目
+                </th>
+            </tr>
+
+            
+            <tr>
+                <td>77</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202583">眼力测试的网站..</a></td>
+            </tr>
+            
+            <tr>
+                <td>69</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202547">Mangodb 的缺点是什么？性能？</a></td>
+            </tr>
+            
+            <tr>
+                <td>58</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202560">大家都有喝牛奶的习惯吗？喝什么牛奶呢？</a></td>
+            </tr>
+            
+            <tr>
+                <td>48</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202673">为自己写的小软件做了几个页面, 求意见 (业余前端)</a></td>
+            </tr>
+            
+            <tr>
+                <td>44</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202482">写给即将学习编程的大学新生</a></td>
+            </tr>
+            
+            <tr>
+                <td>43</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202517">[程序员用什么系列]你们生产用开发环境用什么系统？</a></td>
+            </tr>
+            
+            <tr>
+                <td>42</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202578">据说太极越狱后会修改系统 API，使所有 APP 都能获取 Root 权限</a></td>
+            </tr>
+            
+            <tr>
+                <td>39</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202469">Bandwagonhost 支持支付宝付款了 :doge:</a></td>
+            </tr>
+            
+            <tr>
+                <td>36</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202618">看到有帖子说闰秒，老爸今天打电话给我说家里的路由器不工作了 :doge:</a></td>
+            </tr>
+            
+            <tr>
+                <td>35</td>
+                <td><a target="_blank" href="http://www.v2ex.com/t/202660">神奇的移动</a></td>
+            </tr>
+            
+            <tr>
+                <td colspan="2" align="center">
+                    <a id="yesterday">前一天</a>
+                    <<<>>>
+                    <a id="tomorrow">后一天</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <a href="/">About V2EX.pub</a>
+                </td>
+            </tr>
+        </table>
+</body>
