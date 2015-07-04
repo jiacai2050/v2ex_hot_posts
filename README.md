@@ -1,3 +1,8 @@
+# WARNING
+
+本项目已经迁移到[gitcafe](https://gitcafe.com/jiacai2050/v2ex_hot_posts)，本库不再更新。
+
+
 ## V2EX Hot Posts
 
 V2EX 每日热帖
